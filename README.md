@@ -160,6 +160,8 @@
 
 ## Go 
 
+- [drfabiocastro/certwatcher](https://github.com/drfabiocastro/certwatcher) - CertWatcher is a tool for capture and tracking certificate transparency logs, using YAML templates based DSL.
+- [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) - 🤒   A modern alternative network traffic sniffer.
 - [guacsec/guac](https://github.com/guacsec/guac) - GUAC aggregates software security metadata into a high fidelity graph database.
 - [Narasimha1997/fake-sms](https://github.com/Narasimha1997/fake-sms) - A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
@@ -260,6 +262,7 @@
 
 ## HTML 
 
+- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [micro-joan/D4TA-HUNTER](https://github.com/micro-joan/D4TA-HUNTER) - GUI Osint Framework with Kali Linux
 - [roottusk/vapi](https://github.com/roottusk/vapi) - vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios through Exercises.
 - [D4Vinci/EagleEye](https://github.com/D4Vinci/EagleEye) - A host-based IDS and network monitoring system (My graduation project)
@@ -452,7 +455,7 @@
 
 ## Jupyter Notebook 
 
-- [giswqs/geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) - A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index
+- [opengeos/geospatial-data-catalogs](https://github.com/opengeos/geospatial-data-catalogs) - A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index
 - [sahanmar/451](https://github.com/sahanmar/451) - 
 - [khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science) - Collection of useful data science topics along with articles, videos, and code
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
@@ -512,6 +515,7 @@
 
 ## Others 
 
+- [drfabiocastro/certwatcher-templates](https://github.com/drfabiocastro/certwatcher-templates) - Community curated list of templates for the Certwatcher.
 - [krol3/container-security-checklist](https://github.com/krol3/container-security-checklist) - Checklist for container security - devsecops practices
 - [AndrewStetsenko/tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation) - All-in-one guide to getting a tech job abroad 🌎
 - [CScorza/Analisi-Digital-Forense](https://github.com/CScorza/Analisi-Digital-Forense) - Strumenti di Acquisizione e Analisi di copie Forensi
@@ -681,10 +685,16 @@
 
 ## Python 
 
+- [megadose/Quidam](https://github.com/megadose/Quidam) - Quidam allows you to retrieve information thanks to the forgotten password function of some sites.
+- [k4yt3x/orbitaldump](https://github.com/k4yt3x/orbitaldump) - A simple multi-threaded distributed SSH brute-forcing tool written in Python
+- [GONZOsint/gvision](https://github.com/GONZOsint/gvision) - GVision is a reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images, helping you gather valuable information quickly and easily.
+- [blacklanternsecurity/badsecrets](https://github.com/blacklanternsecurity/badsecrets) - A library for detecting known secrets across many web frameworks
+- [cisagov/Malcolm](https://github.com/cisagov/Malcolm) - Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [shoyo/acoustic-keylogger](https://github.com/shoyo/acoustic-keylogger) - Pipeline of a keylogging attack using just an audio signal and unsupervised learning.
 - [achyuthjoism/tweeds](https://github.com/achyuthjoism/tweeds) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a Tweets and more while evading most API limitations.
 - [hisxo/gitGraber](https://github.com/hisxo/gitGraber) - gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...
-- [hisxo/ReconAIzer](https://github.com/hisxo/ReconAIzer) - A Burp Suite extension to add OpenAI to Burp to help you with your Bug Bounty recon!
+- [hisxo/ReconAIzer](https://github.com/hisxo/ReconAIzer) - A Burp Suite extension to add OpenAI (GPT) on Burp and help you with your Bug Bounty recon to discover endpoints, params, URLs, subdomains and more!
 - [egbertbouman/youtube-comment-downloader](https://github.com/egbertbouman/youtube-comment-downloader) - Simple script for downloading Youtube comments without using the Youtube API
 - [jesparza/peepdf](https://github.com/jesparza/peepdf) - Powerful Python tool to analyze PDF documents
 - [DidierStevens/DidierStevensSuite](https://github.com/DidierStevens/DidierStevensSuite) - Please no pull requests for this repository. Thanks!
@@ -1113,6 +1123,7 @@
 
 ## Rust 
 
+- [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) - Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Secuirty Numbers and More From Text
 - [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a formally verified, post-quantum secure VPN that uses WireGuard to transport the actual data.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
@@ -1125,7 +1136,7 @@
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [travisbrown/memory.lol](https://github.com/travisbrown/memory.lol) - memory.lol
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Search Engine and Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [SeaDve/Mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
@@ -1147,6 +1158,8 @@
 
 ## Shell 
 
+- [AnonymousAt3/cyberdoor](https://github.com/AnonymousAt3/cyberdoor) - Automated Payload Generator Tool
+- [makdosx/mip22](https://github.com/makdosx/mip22) - :computer: :iphone: mip22 is a advanced phishing tool
 - [IvanGlinkin/Port-enumeration](https://github.com/IvanGlinkin/Port-enumeration) - Have you ever faced with the lack of possibility of using NMap? For instance if you have reverse shell as an unprivileged user and there are no useful tools preinstalled? This is a small script which 
 - [IvanGlinkin/Host-enumeration](https://github.com/IvanGlinkin/Host-enumeration) - Have you ever faced with the lack of possibility of using NMap? For instance if you have reverse shell as an unprivileged user and there are no useful tools preinstalled? This is a small script which 
 - [IvanGlinkin/Domain_checker](https://github.com/IvanGlinkin/Domain_checker) - Domain_checker application is the trial/demo version for the new EASM (External Attack Surface Management) system called HydrAttack (hydrattack.com), the main idea of which is, based only on the domai
@@ -1195,7 +1208,7 @@
 - [sickcodes/osx-serial-generator](https://github.com/sickcodes/osx-serial-generator) - Mac Serial Generator - Generate complete sets of Serial Numbers for OSX-KVM, Docker-OSX and of course, OpenCore.
 - [GONZOsint/Namechk](https://github.com/GONZOsint/Namechk) - Osint tool based on namechk.com for checking usernames on more than 100 websites, forums and social networks.
 - [GONZOsint/WhatCMS](https://github.com/GONZOsint/WhatCMS) - CMS Detection and Exploit Kit based on Whatcms.org API
-- [Coordinate-Cat/osint-tools-cli](https://github.com/Coordinate-Cat/osint-tools-cli) - 🔴 [Stopping] This is a cli version of the cheat sheet for easy access. It can be navigated without using commands.
+- [Coordinate-Cat/osint-tools-cli](https://github.com/Coordinate-Cat/osint-tools-cli) - This is a cli version of the cheat sheet for easy access. It can be navigated without using commands.
 - [cipher387/grep_for_osint](https://github.com/cipher387/grep_for_osint) - GREP FOR OSINT is a set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails 
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [harshnandwana/hussh](https://github.com/harshnandwana/hussh) - a script that  is fairly reliable for web OSINT
