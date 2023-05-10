@@ -175,7 +175,7 @@
 - [michenriksen/aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [dhn/udon](https://github.com/dhn/udon) - A simple tool that helps to find assets/domains based on the Google Analytics ID.
 - [LukaSikic/subzy](https://github.com/LukaSikic/subzy) - Subdomain takeover vulnerability checker
-- [Yakitrak/obsidian-cli](https://github.com/Yakitrak/obsidian-cli) - This CLI tool will let you interact with Obsidian using the terminal. You are able to open, search, create, update and move notes!
+- [Yakitrak/obsidian-cli](https://github.com/Yakitrak/obsidian-cli) - Interact with Obsidian in the terminal. Open, search, create, update, move and delete notes!
 - [seekr-osint/seekr](https://github.com/seekr-osint/seekr) - A multi-purpose OSINT toolkit with a neat web-interface.
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth Attack Surface Mapping and Asset Discovery
 - [tomnomnom/assetfinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains related to a given domain
@@ -394,7 +394,7 @@
 - [Loskir/50-lines](https://github.com/Loskir/50-lines) - 
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
 - [kkoooqq/fakebrowser](https://github.com/kkoooqq/fakebrowser) - 🤖 Fake fingerprints to bypass anti-bot systems. Simulate mouse and keyboard operations to make behavior like a real person.
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [30-seconds/30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
@@ -527,7 +527,7 @@
 
 ## Others 
 
-- [cqcore/Telegram-OSINT](https://github.com/cqcore/Telegram-OSINT) - 
+- [cqcore/Telegram-OSINT](https://github.com/cqcore/Telegram-OSINT) - In-depth repository of Telegram OSINT resources covering, tools, techniques & tradecraft.
 - [CyberSecurityUP/Awesome-Red-Team-Operations](https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations) - 
 - [drfabiocastro/certwatcher-templates](https://github.com/drfabiocastro/certwatcher-templates) - Community curated list of templates for the Certwatcher.
 - [krol3/container-security-checklist](https://github.com/krol3/container-security-checklist) - Checklist for container security - devsecops practices
@@ -683,6 +683,7 @@
 
 ## Perl 
 
+- [Moham3dRiahi/Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - Th3Inspector 🕵️ Best Tool For Information Gathering 🔎
 - [htrgouvea/nipe](https://github.com/htrgouvea/nipe) - An engine to make Tor network your default gateway
 - [aleksandr-oliferuk/pcap2squid](https://github.com/aleksandr-oliferuk/pcap2squid) - Recieve raw network trafic dump in pcap-format and parse it to squid-proxy log. Then generate report for lightsquid and shows it in Web UI
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+SSL VPN tunnel services
@@ -700,6 +701,7 @@
 
 ## Python 
 
+- [t3l3machus/toxssin](https://github.com/t3l3machus/toxssin) - An XSS exploitation command-line interface and payload generator.
 - [thomasjjj/tg-keyword-trends](https://github.com/thomasjjj/tg-keyword-trends) - This script searches messages containing specified search terms in Telegram channels the user is a member of.
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
@@ -1072,7 +1074,7 @@
 - [IT-Fullstack-Dev/EmailAddressExtracting](https://github.com/IT-Fullstack-Dev/EmailAddressExtracting) - this project can extract contact email address from many site.
 - [s41r4j/phomber](https://github.com/s41r4j/phomber) - Phomber is infomation grathering tool that reverse search phone numbers and get their details, written in python3.
 - [jor6PS/DrawNmap](https://github.com/jor6PS/DrawNmap) - Friendly graphical output of the nmap tool that allows filtering by open ports
-- [pawlaczyk/sarenka](https://github.com/pawlaczyk/sarenka) - OSINT tool - gets data from services like shodan, censys etc. in one app
+- [KTZgraph/sarenka](https://github.com/KTZgraph/sarenka) - OSINT tool - gets data from services like shodan, censys etc. in one app
 - [Viralmaniar/SMWYG-Show-Me-What-You-Got](https://github.com/Viralmaniar/SMWYG-Show-Me-What-You-Got) - This tool allows you to perform OSINT and reconnaissance on an organisation or an individual. It allows one to search 1.4 Billion clear text credentials which was dumped as part of BreachCompilation l
 - [Viralmaniar/Passhunt](https://github.com/Viralmaniar/Passhunt) - Passhunt is a simple tool for searching of default credentials for network devices, web applications and more. Search through 523 vendors and their 2084 default passwords.
 - [scrapehero-code/amazon-scraper](https://github.com/scrapehero-code/amazon-scraper) - A simple web scraper to extract Product Data and Pricing from Amazon
@@ -1269,6 +1271,7 @@
 
 ## TypeScript 
 
+- [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
 - [phantombuster/web-browser-extension](https://github.com/phantombuster/web-browser-extension) - Session cookies handler
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
@@ -1285,7 +1288,7 @@
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [privatenumber/snap-tweet](https://github.com/privatenumber/snap-tweet) - Snap a screenshot of a tweet 📸
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [esrlabs/chipmunk](https://github.com/esrlabs/chipmunk) - log analysis tool
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
@@ -1321,6 +1324,7 @@
 
 ## Vala 
 
+- [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK+/Vala
 - [GNOME/geary](https://github.com/GNOME/geary) - Read-only mirror of https://gitlab.gnome.org/GNOME/geary
 - [RajSolai/TextSnatcher](https://github.com/RajSolai/TextSnatcher) - How to Copy Text from Images ? Answer is TextSnatcher !. Perform OCR operations in seconds on Linux Desktop.
 
