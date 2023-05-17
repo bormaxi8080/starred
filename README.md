@@ -162,6 +162,7 @@
 
 ## Go 
 
+- [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [securebinary/firebaseExploiter](https://github.com/securebinary/firebaseExploiter) - FirebaseExploiter is a vulnerability discovery tool that discovers Firebase Database which are open and can be exploitable. Primarily built for mass hunting bug bounties and for penetration testing.
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [nullt3r/udpx](https://github.com/nullt3r/udpx) - Fast and lightweight, UDPX is a single-packet UDP scanner written in Go that supports the discovery of over 45 services with the ability to add custom ones. It is easy to use and portable, and can be 
@@ -345,6 +346,7 @@
 
 ## JavaScript 
 
+- [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [KorySchneider/wikit](https://github.com/KorySchneider/wikit) - Wikipedia summaries from the command line
 - [alentum/sitemapper-nodejs](https://github.com/alentum/sitemapper-nodejs) - Source code of Visual Site Mapper Node.js version
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
@@ -527,6 +529,8 @@
 
 ## Others 
 
+- [DavizinBR/InstaOSINTbr](https://github.com/DavizinBR/InstaOSINTbr) - investigação de contas no instagram
+- [nsonaniya2010/SecretKeyWords](https://github.com/nsonaniya2010/SecretKeyWords) - Secret Keywords patterns - aggregated from different sources.
 - [cqcore/Telegram-OSINT](https://github.com/cqcore/Telegram-OSINT) - In-depth repository of Telegram OSINT resources covering, tools, techniques & tradecraft.
 - [CyberSecurityUP/Awesome-Red-Team-Operations](https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations) - 
 - [drfabiocastro/certwatcher-templates](https://github.com/drfabiocastro/certwatcher-templates) - Community curated list of templates for the Certwatcher.
@@ -543,7 +547,6 @@
 - [AndrewRathbun/Awesome-KAPE](https://github.com/AndrewRathbun/Awesome-KAPE) - A curated list of KAPE-related resources
 - [kr-stn/awesome-sentinel](https://github.com/kr-stn/awesome-sentinel) - curated list of awesome tools, tutorials and APIs for Copernicus Sentinel satellite data
 - [CScorza/StegoIntelligence](https://github.com/CScorza/StegoIntelligence) - Strumenti per rilevare ed estrarre informazioni nascoste all'interno di file.
-- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
 - [bormaxi8080/facebook-ban-phrases](https://github.com/bormaxi8080/facebook-ban-phrases) - List of phrases in different languages for which you can get banned on Facebook
 - [Anugrahsr/Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) - A curated list of web3Security materials and resources For Pentesters and Bug Hunters.
@@ -701,6 +704,10 @@
 
 ## Python 
 
+- [Bashfuscator/Bashfuscator](https://github.com/Bashfuscator/Bashfuscator) - A fully configurable and extendable Bash obfuscation framework. This tool is intended to help both red team and blue team.
+- [boringthegod/postmaniac](https://github.com/boringthegod/postmaniac) - Postman OSINT tool to extract creds, token, username, email & more from Postman Public Workspaces
+- [nsonaniya2010/sanfinder](https://github.com/nsonaniya2010/sanfinder) - It finds Subject Alternative Names for a given list of domains
+- [nsonaniya2010/SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer) - A tool to find subdomains and interesting things hidden inside, external Javascript files of page, folder, and Github.
 - [t3l3machus/toxssin](https://github.com/t3l3machus/toxssin) - An XSS exploitation command-line interface and payload generator.
 - [thomasjjj/tg-keyword-trends](https://github.com/thomasjjj/tg-keyword-trends) - This script searches messages containing specified search terms in Telegram channels the user is a member of.
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
@@ -760,7 +767,6 @@
 - [catspace-dev/unicheckbot](https://github.com/catspace-dev/unicheckbot) - Бот для получения информации о различных хостах с нескольких нод. Ping, проверка по http, порт чекер и ещё много чего!
 - [aaarghhh/a_TON_of_privacy](https://github.com/aaarghhh/a_TON_of_privacy) - A tool for investigating TON network and its NFT
 - [vladko312/SSTImap](https://github.com/vladko312/SSTImap) - Automatic SSTI detection tool with interactive interface
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [VNAPNIC/public-apis](https://github.com/VNAPNIC/public-apis) - A collective list of free APIs for use in software development
 - [soxoj/socid-extractor](https://github.com/soxoj/socid-extractor) - ⛏️ Extract accounts info from personal pages on various sites for OSINT purpose
 - [soxoj/gitcolombo](https://github.com/soxoj/gitcolombo) - 🧬 Extract and analyze contributors info from git repos
@@ -862,7 +868,7 @@
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [mattdood/web_scraping_example](https://github.com/mattdood/web_scraping_example) - Simple RSS feed reader for HackerNews.
 - [wapiti-scanner/wapiti](https://github.com/wapiti-scanner/wapiti) - Web vulnerability scanner written in Python3
-- [t3l3machus/psudohash](https://github.com/t3l3machus/psudohash) - Password list generator that focuses on keywords mutated by commonly used password creation patterns
+- [t3l3machus/psudohash](https://github.com/t3l3machus/psudohash) - Generates millions of keyword-based password mutations in seconds.
 - [Forichok/TelegramOnlineSpy](https://github.com/Forichok/TelegramOnlineSpy) - Simple telegram online spy logger bot
 - [S0Ulle33/telegram-message-cleaner](https://github.com/S0Ulle33/telegram-message-cleaner) - Telegram Tool that can show stats of your messages from group chats or delete these messages.
 - [zqtay/Telegram-Message-Analyzer](https://github.com/zqtay/Telegram-Message-Analyzer) - Process the exported Telegram chat history .html and generate a report message count by date, and most used words.
