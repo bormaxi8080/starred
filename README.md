@@ -66,6 +66,7 @@
 
 ## C 
 
+- [matricali/cbrutekrag](https://github.com/matricali/cbrutekrag) - Penetration tests on SSH servers using brute force or dictionary attacks. Written in C.
 - [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [fulldecent/system-bus-radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware.
@@ -162,6 +163,7 @@
 
 ## Go 
 
+- [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A CLI utility to find domain's known URLs passively from AlienVault's Open Threat Exchange, Common Crawl, Github, Intelligence X, URLScan, and the Wayback Machine.
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [securebinary/firebaseExploiter](https://github.com/securebinary/firebaseExploiter) - FirebaseExploiter is a vulnerability discovery tool that discovers Firebase Database which are open and can be exploitable. Primarily built for mass hunting bug bounties and for penetration testing.
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
@@ -178,7 +180,7 @@
 - [LukaSikic/subzy](https://github.com/LukaSikic/subzy) - Subdomain takeover vulnerability checker
 - [Yakitrak/obsidian-cli](https://github.com/Yakitrak/obsidian-cli) - Interact with Obsidian in the terminal. Open, search, create, update, move and delete notes!
 - [seekr-osint/seekr](https://github.com/seekr-osint/seekr) - A multi-purpose OSINT toolkit with a neat web-interface.
-- [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth Attack Surface Mapping and Asset Discovery
+- [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [tomnomnom/assetfinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains related to a given domain
 - [lcvvvv/kscan](https://github.com/lcvvvv/kscan) - Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。
 - [optiv/Freeze](https://github.com/optiv/Freeze) - Freeze is a payload toolkit for bypassing EDRs using suspended processes, direct syscalls, and alternative execution methods
@@ -270,14 +272,13 @@
 
 ## HTML 
 
-- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
+- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [micro-joan/D4TA-HUNTER](https://github.com/micro-joan/D4TA-HUNTER) - GUI Osint Framework with Kali Linux
 - [roottusk/vapi](https://github.com/roottusk/vapi) - vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios through Exercises.
 - [D4Vinci/EagleEye](https://github.com/D4Vinci/EagleEye) - A host-based IDS and network monitoring system (My graduation project)
 - [CyberSecurityUP/Red-Team-Management](https://github.com/CyberSecurityUP/Red-Team-Management) - 
 - [maxpoletaev/golang-book](https://github.com/maxpoletaev/golang-book) - An Introduction to programming in Go
 - [rapid7/metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
-- [inket/stts](https://github.com/inket/stts) - A simple macOS app for monitoring the status of cloud services
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [punk-security/secret-magpie-cli](https://github.com/punk-security/secret-magpie-cli) - Secret Magpie - Secret Detection Tool
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
@@ -346,6 +347,7 @@
 
 ## JavaScript 
 
+- [arkime/arkime](https://github.com/arkime/arkime) - Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [KorySchneider/wikit](https://github.com/KorySchneider/wikit) - Wikipedia summaries from the command line
 - [alentum/sitemapper-nodejs](https://github.com/alentum/sitemapper-nodejs) - Source code of Visual Site Mapper Node.js version
@@ -448,7 +450,7 @@
 - [KernelPan1k/google-dork-builder](https://github.com/KernelPan1k/google-dork-builder) - Make Google Dork with firefox addon :mag:
 - [lettapp/ytcs](https://github.com/lettapp/ytcs) - Comments Search for Youtube is a lightweight Chrome extension to search youtube comments without leaving the site.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube Extension: Enrich your YouTube experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧docu. /HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide youtube distr
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube Extension (Top100): Enrich your experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧write HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide youtube distr
 - [facundoolano/google-play-scraper](https://github.com/facundoolano/google-play-scraper) - Node.js scraper to get data from Google Play
 - [ericyd/gdrive-copy](https://github.com/ericyd/gdrive-copy) - Web app to copy a Google Drive folder
 - [willin/github-trending](https://github.com/willin/github-trending) - :octocat: Github Daily Trending Archives
@@ -529,7 +531,8 @@
 
 ## Others 
 
-- [DavizinBR/InstaOSINTbr](https://github.com/DavizinBR/InstaOSINTbr) - investigação de contas no instagram
+- [OffcierCia/non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide) - The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome!
+- [DavizinBR/SocialOSINTbr](https://github.com/DavizinBR/SocialOSINTbr) - investigação de contas nas redes sociais
 - [nsonaniya2010/SecretKeyWords](https://github.com/nsonaniya2010/SecretKeyWords) - Secret Keywords patterns - aggregated from different sources.
 - [cqcore/Telegram-OSINT](https://github.com/cqcore/Telegram-OSINT) - In-depth repository of Telegram OSINT resources covering, tools, techniques & tradecraft.
 - [CyberSecurityUP/Awesome-Red-Team-Operations](https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations) - 
@@ -547,6 +550,7 @@
 - [AndrewRathbun/Awesome-KAPE](https://github.com/AndrewRathbun/Awesome-KAPE) - A curated list of KAPE-related resources
 - [kr-stn/awesome-sentinel](https://github.com/kr-stn/awesome-sentinel) - curated list of awesome tools, tutorials and APIs for Copernicus Sentinel satellite data
 - [CScorza/StegoIntelligence](https://github.com/CScorza/StegoIntelligence) - Strumenti per rilevare ed estrarre informazioni nascoste all'interno di file.
+- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
 - [bormaxi8080/facebook-ban-phrases](https://github.com/bormaxi8080/facebook-ban-phrases) - List of phrases in different languages for which you can get banned on Facebook
 - [Anugrahsr/Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) - A curated list of web3Security materials and resources For Pentesters and Bug Hunters.
@@ -629,6 +633,7 @@
 - [AndrewRathbun/DFIRMindMaps](https://github.com/AndrewRathbun/DFIRMindMaps) - A repository of DFIR-related Mind Maps geared towards the visual learners!
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
+- [WebBreacher/WhatsMyName](https://github.com/WebBreacher/WhatsMyName) - This repository has the JSON file required to perform user enumeration on various websites.
 - [smicallef/awesome-osint](https://github.com/smicallef/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [Sprp77/OSINT_Intel_Tracker](https://github.com/Sprp77/OSINT_Intel_Tracker) - OSINT Intelligence for different areas ( useful for different type of investigations and learning etc)
@@ -704,6 +709,11 @@
 
 ## Python 
 
+- [naksyn/Pyramid](https://github.com/naksyn/Pyramid) - a tool to help operate in EDRs' blind spots
+- [mschwager/fierce](https://github.com/mschwager/fierce) - A DNS reconnaissance tool for locating non-contiguous IP space.
+- [unstabl3/recce](https://github.com/unstabl3/recce) - Domain availbility checker
+- [v4d1/Dome](https://github.com/v4d1/Dome) - Dome - Subdomain Enumeration Tool. Fast and reliable python script that makes active and/or passive scan to obtain subdomains and search for open ports.
+- [CScorza/BruteForceDecryptPDF](https://github.com/CScorza/BruteForceDecryptPDF) - Decriptazione di un file PDF con calcolo del Tempo - Hash - Metadati
 - [Bashfuscator/Bashfuscator](https://github.com/Bashfuscator/Bashfuscator) - A fully configurable and extendable Bash obfuscation framework. This tool is intended to help both red team and blue team.
 - [boringthegod/postmaniac](https://github.com/boringthegod/postmaniac) - Postman OSINT tool to extract creds, token, username, email & more from Postman Public Workspaces
 - [nsonaniya2010/sanfinder](https://github.com/nsonaniya2010/sanfinder) - It finds Subject Alternative Names for a given list of domains
@@ -767,6 +777,7 @@
 - [catspace-dev/unicheckbot](https://github.com/catspace-dev/unicheckbot) - Бот для получения информации о различных хостах с нескольких нод. Ping, проверка по http, порт чекер и ещё много чего!
 - [aaarghhh/a_TON_of_privacy](https://github.com/aaarghhh/a_TON_of_privacy) - A tool for investigating TON network and its NFT
 - [vladko312/SSTImap](https://github.com/vladko312/SSTImap) - Automatic SSTI detection tool with interactive interface
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [VNAPNIC/public-apis](https://github.com/VNAPNIC/public-apis) - A collective list of free APIs for use in software development
 - [soxoj/socid-extractor](https://github.com/soxoj/socid-extractor) - ⛏️ Extract accounts info from personal pages on various sites for OSINT purpose
 - [soxoj/gitcolombo](https://github.com/soxoj/gitcolombo) - 🧬 Extract and analyze contributors info from git repos
@@ -859,7 +870,7 @@
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
 - [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A low-code Machine Learning platform to help developers build #AI solutions
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship AI powered projects to production in a fast and scalable way.
 - [yurijmikhalevich/rclip](https://github.com/yurijmikhalevich/rclip) - AI-Powered Command-Line Photo Search Tool
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [punk-security/Timeline](https://github.com/punk-security/Timeline) - A tool for creating SVG timelines from simple JSON input.
@@ -1024,7 +1035,6 @@
 - [megadose/ignorant](https://github.com/megadose/ignorant) - ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [soxoj/telegram-bot-dumper](https://github.com/soxoj/telegram-bot-dumper) - 🔪 Dumper & ripper for Telegram bots by token
-- [WebBreacher/WhatsMyName](https://github.com/WebBreacher/WhatsMyName) - This repository has the unified data required to perform user enumeration on various websites. Content is in a JSON file and can easily be used in other projects.
 - [sinwindie/OSINT](https://github.com/sinwindie/OSINT) - Collections of tools and methods created to aid in OSINT collection
 - [thenurhabib/tenssens](https://github.com/thenurhabib/tenssens) - Tenssens framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources.
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - :mag: A Complete Osint Tool
@@ -1078,7 +1088,7 @@
 - [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email
 - [AzizKpln/Moriarty-Project](https://github.com/AzizKpln/Moriarty-Project) - This tool gives information about the phone number that you entered.
 - [IT-Fullstack-Dev/EmailAddressExtracting](https://github.com/IT-Fullstack-Dev/EmailAddressExtracting) - this project can extract contact email address from many site.
-- [s41r4j/phomber](https://github.com/s41r4j/phomber) - Phomber is infomation grathering tool that reverse search phone numbers and get their details, written in python3.
+- [s41r4j/phomber](https://github.com/s41r4j/phomber) - [PH0MBER]: An open source infomation grathering & reconnaissance framework!
 - [jor6PS/DrawNmap](https://github.com/jor6PS/DrawNmap) - Friendly graphical output of the nmap tool that allows filtering by open ports
 - [KTZgraph/sarenka](https://github.com/KTZgraph/sarenka) - OSINT tool - gets data from services like shodan, censys etc. in one app
 - [Viralmaniar/SMWYG-Show-Me-What-You-Got](https://github.com/Viralmaniar/SMWYG-Show-Me-What-You-Got) - This tool allows you to perform OSINT and reconnaissance on an organisation or an individual. It allows one to search 1.4 Billion clear text credentials which was dumped as part of BreachCompilation l
@@ -1194,6 +1204,8 @@
 
 ## Shell 
 
+- [iamj0ker/bypass-403](https://github.com/iamj0ker/bypass-403) - A simple script just made for self use for bypassing 403
+- [yuyudhn/TLDHunt](https://github.com/yuyudhn/TLDHunt) - Domain Availability Checker
 - [AnonymousAt3/cyberdoor](https://github.com/AnonymousAt3/cyberdoor) - Automated Payload Generator Tool
 - [makdosx/mip22](https://github.com/makdosx/mip22) - :computer: :iphone: mip22 is a advanced phishing tool
 - [IvanGlinkin/Port-enumeration](https://github.com/IvanGlinkin/Port-enumeration) - Have you ever faced with the lack of possibility of using NMap? For instance if you have reverse shell as an unprivileged user and there are no useful tools preinstalled? This is a small script which 
@@ -1260,6 +1272,7 @@
 
 ## Swift 
 
+- [inket/stts](https://github.com/inket/stts) - A simple macOS app for monitoring the status of cloud services
 - [vsaravind007/nodeScratchpad](https://github.com/vsaravind007/nodeScratchpad) - Evaluate Nodejs Code Snippets From Menubar! :computer:
 - [RoyalIcing/Lantern](https://github.com/RoyalIcing/Lantern) - Mac app for website auditing and crawling
 - [daniel-sanche/KubeMonitor](https://github.com/daniel-sanche/KubeMonitor) - KubeMonitor is a macOS app that displays information about your active Kubernetes cluster in your menu bar
@@ -1300,7 +1313,7 @@
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [httptoolkit/httptoolkit-desktop](https://github.com/httptoolkit/httptoolkit-desktop) - Electron wrapper to build and distribute HTTP Toolkit for the desktop
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - Powerful cross-platform MQTT 5.0 Desktop, CLI, and WebSocket client tools
-- [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [BootBoi/android-app](https://github.com/BootBoi/android-app) - Turn on/off your remote machine without leaving your couch!
 - [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [diego3g/rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire: (under development)
