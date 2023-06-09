@@ -163,6 +163,7 @@
 
 ## Go 
 
+- [denandz/sourcemapper](https://github.com/denandz/sourcemapper) - Extract JavaScript source trees from Sourcemap files
 - [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A CLI utility to find domain's known URLs from AlienVault's Open Threat Exchange, Common Crawl, Github, Intelligence X, URLScan, and the Wayback Machine.
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [securebinary/firebaseExploiter](https://github.com/securebinary/firebaseExploiter) - FirebaseExploiter is a vulnerability discovery tool that discovers Firebase Database which are open and can be exploitable. Primarily built for mass hunting bug bounties and for penetration testing.
@@ -272,6 +273,7 @@
 
 ## HTML 
 
+- [hrbrmstr/account-analysis](https://github.com/hrbrmstr/account-analysis) - Twitter account analysis
 - [ustayready/CredSniper](https://github.com/ustayready/CredSniper) - CredSniper is a phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [micro-joan/D4TA-HUNTER](https://github.com/micro-joan/D4TA-HUNTER) - GUI Osint Framework with Kali Linux
@@ -409,7 +411,7 @@
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
-- [Daniel31x13/linkwarden](https://github.com/Daniel31x13/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
 - [jasonlong/isometric-contributions](https://github.com/jasonlong/isometric-contributions) - Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.
 - [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
@@ -465,7 +467,6 @@
 - [bellingcat/sar-interference-tracker](https://github.com/bellingcat/sar-interference-tracker) - A Google Earth Engine tool for identifying satellite radar interference.
 - [bellingcat/google-apps-script](https://github.com/bellingcat/google-apps-script) - A collection of handy Google Apps Script code snippets
 - [tanaikech/ResumableUploadForGoogleDrive_js](https://github.com/tanaikech/ResumableUploadForGoogleDrive_js) - This is a Javascript library to achieve the resumable upload for Google Drive.
-- [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
 - [bormaxi8080/knex-extensions](https://github.com/bormaxi8080/knex-extensions) - JavaScript Knex.js for PostgreSQL Extension Library
 - [bormaxi8080/whatsapp-verifier](https://github.com/bormaxi8080/whatsapp-verifier) - Check if a phone number(s) exists on WhatsApp
 - [linkedtales/scrapedin](https://github.com/linkedtales/scrapedin) - LinkedIn Scraper (currently working 2020)
@@ -534,6 +535,7 @@
 
 ## Others 
 
+- [C3n7ral051nt4g3ncy/GitOSINT_Bot](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot) - GitOSINT is a Discord bot that helps to find information on GitHub users
 - [DeadS3c/DarkWeb](https://github.com/DeadS3c/DarkWeb) - Repository to include the findings for the Dark Web
 - [OffcierCia/non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide) - The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome!
 - [DavizinBR/SocialOSINTbr](https://github.com/DavizinBR/SocialOSINTbr) - investigação de contas nas redes sociais
@@ -714,6 +716,8 @@
 
 ## Python 
 
+- [evildevill/Hackerwasi](https://github.com/evildevill/Hackerwasi) - Hackerwasii is an information collection tool (OSINT) which aims to carry out research on a French, Swiss, Luxembourgish or Belgian person. It provides various modules that allow efficient searches. H
+- [skelsec/pypykatz](https://github.com/skelsec/pypykatz) - Mimikatz implementation in pure Python
 - [mamun-sec/NetDahar](https://github.com/mamun-sec/NetDahar) - A network logging tool that logs per process activities
 - [p0dalirius/GeoWordlists](https://github.com/p0dalirius/GeoWordlists) - GeoWordlists is a tool to generate wordlists of passwords containing cities at a defined distance around the client city.
 - [DeadS3c/Proxy](https://github.com/DeadS3c/Proxy) - Tool for search proxies
@@ -739,7 +743,7 @@
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 - [den4uk/andriller](https://github.com/den4uk/andriller) - 📱 Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.
-- [FortyNorthSecurity/Just-Metadata](https://github.com/FortyNorthSecurity/Just-Metadata) - Just-Metadata is a tool that gathers and analyzes metadata about IP addresses.  It attempts to find relationships between systems within a large dataset.
+- [RedSiege/Just-Metadata](https://github.com/RedSiege/Just-Metadata) - Just-Metadata is a tool that gathers and analyzes metadata about IP addresses.  It attempts to find relationships between systems within a large dataset.
 - [m8sec/pymeta](https://github.com/m8sec/pymeta) - Pymeta will search the web for files on a domain to download and extract metadata. This technique can be used to identify: domains, usernames, software/version numbers and naming conventions.
 - [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -877,7 +881,7 @@
 - [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq) - Distributed task queue with full async support
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [sergo-code/seleniumwire-binance-auth](https://github.com/sergo-code/seleniumwire-binance-auth) - Авторизация на сайте Binance с использованием Selenium. Получение токенов авторизации для дальнейших действий на бирже.
-- [sergo-code/hh-ru-auto-resume-raising](https://github.com/sergo-code/hh-ru-auto-resume-raising) - 
+- [sergo-code/hh-ru-auto-resume-raising](https://github.com/sergo-code/hh-ru-auto-resume-raising) - Программа для автоматического подъема резюме на HeadHunter каждые 4 часа. Альтернатива платной услуге Продвижение.LITE от HeadHunter.
 - [termuxhackers-id/SIGIT](https://github.com/termuxhackers-id/SIGIT) - SIGIT - Simple Information Gathering Toolkit
 - [Scille/parsec-cloud](https://github.com/Scille/parsec-cloud) - Open source Dropbox-like file sharing with full client encryption !
 - [Alb-310/Geogramint](https://github.com/Alb-310/Geogramint) - An OSINT Geolocalization tool for Telegram that find nearby users and groups 📡🌍🔍
@@ -1153,7 +1157,7 @@
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
 - [edoardottt/takeover](https://github.com/edoardottt/takeover) - Sub-Domain TakeOver Vulnerability Scanner (edoardottt fork)
 - [bellingcat/Telepathy](https://github.com/bellingcat/Telepathy) - Public release of Telepathy, an OSINT toolkit for investigating Telegram chats.
-- [C3n7ral051nt4g3ncy/Prot1ntelligence](https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence) - Protintelligence is a Python script for the Cyber Community. It also uses NeutrOSINT made by Kr0wZ. Will help you get info on Protonmail accounts and users, ProtonVPN IP adresses, ProtonMail users' PG
+- [C3n7ral051nt4g3ncy/Prot1ntelligence](https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence) - Protintelligence is a Python script for the OSINT and Cyber Community. This tool helps you to find intelligence on Protonmail users.
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [mahenzon/aiogram-lessons](https://github.com/mahenzon/aiogram-lessons) - Небольшая серия уроков по работе с библиотекой aiogram
 
@@ -1328,7 +1332,7 @@
 - [esrlabs/chipmunk](https://github.com/esrlabs/chipmunk) - log analysis tool
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [httptoolkit/httptoolkit-desktop](https://github.com/httptoolkit/httptoolkit-desktop) - Electron wrapper to build and distribute HTTP Toolkit for the desktop
-- [emqx/MQTTX](https://github.com/emqx/MQTTX) - Powerful cross-platform MQTT 5.0 Desktop, CLI, and WebSocket client tools
+- [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [BootBoi/android-app](https://github.com/BootBoi/android-app) - Turn on/off your remote machine without leaving your couch!
 - [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
@@ -1353,6 +1357,7 @@
 - [quirrel-dev/secure-e2ee](https://github.com/quirrel-dev/secure-e2ee) - Secure end-to-end-encryption for Node.js.
 - [EdJoPaTo/website-changed-bot](https://github.com/EdJoPaTo/website-changed-bot) - This Telegram Bot can notify you on changed website source
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
+- [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
 - [bormaxi8080/qr-bruteforce](https://github.com/bormaxi8080/qr-bruteforce) - Attempts to get a valid random COVID-19 QR certificates from gosuslugi.ru
 - [bormaxi8080/unlabelling](https://github.com/bormaxi8080/unlabelling) - Abolish labels of ‘foreign agents’ media
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
