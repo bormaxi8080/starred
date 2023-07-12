@@ -691,6 +691,7 @@
 
 ## PHP 
 
+- [chris-koch-penn/gpt3_security_vulnerability_scanner](https://github.com/chris-koch-penn/gpt3_security_vulnerability_scanner) - GPT-3 found hundreds of security vulnerabilities in this repo
 - [horde/imp](https://github.com/horde/imp) - A web based webmail system
 - [hisxo/SecLists](https://github.com/hisxo/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [nastyox/Repo-Roster](https://github.com/nastyox/Repo-Roster) - Shout-out supporters in your GitHub README file.
@@ -728,6 +729,11 @@
 
 ## Python 
 
+- [JusticeRage/Gepetto](https://github.com/JusticeRage/Gepetto) - IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up reverse-engineering
+- [tenable/pwndbg](https://github.com/tenable/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
+- [quentinhardy/odat](https://github.com/quentinhardy/odat) - ODAT: Oracle Database Attacking Tool
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensi
+- [blackhatethicalhacking/DDoSlayer](https://github.com/blackhatethicalhacking/DDoSlayer) - An Advanced Layer 7 DDoS tool
 - [SpiderLabs/masher](https://github.com/SpiderLabs/masher) - multiple password 'asher using Python’s hashlib
 - [SpiderLabs/HostHunter](https://github.com/SpiderLabs/HostHunter) - HostHunter a recon tool for discovering hostnames using OSINT techniques.
 - [SpiderLabs/snappy](https://github.com/SpiderLabs/snappy) - 
@@ -891,7 +897,7 @@
 - [rootm0s/WinPwnage](https://github.com/rootm0s/WinPwnage) - UAC bypass, Elevate, Persistence methods
 - [Owez/yark](https://github.com/Owez/yark) - YouTube archiving made simple.
 - [s0md3v/Parth](https://github.com/s0md3v/Parth) - Heuristic Vulnerable Parameter Scanner
-- [rly0nheart/facebook-downloader](https://github.com/rly0nheart/facebook-downloader) - Facebook video downloader
+- [bellingcat/facebook-downloader](https://github.com/bellingcat/facebook-downloader) - Facebook video downloader
 - [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye) - Username enumeration & reconnaisance suite
 - [TrueTheos/God-s-Eye](https://github.com/TrueTheos/God-s-Eye) - God's Eye - [GUI] Email, IP and Nickname OSINT & Password breach hunting tool.
 - [r4bin/web-eyes](https://github.com/r4bin/web-eyes) - OSINT tools for website research
@@ -1173,7 +1179,7 @@
 - [joeyism/linkedin_scraper](https://github.com/joeyism/linkedin_scraper) - A library that scrapes Linkedin for user data
 - [megadose/toutatis](https://github.com/megadose/toutatis) - Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
 - [matamorphosis/Scrummage](https://github.com/matamorphosis/Scrummage) - The Ultimate OSINT and Threat Hunting Framework
-- [M157q/linkedin2md](https://github.com/M157q/linkedin2md) - (DEPRECATED) Export public LinkedIn profile to Markdown format
+- [fkztw/linkedin2md](https://github.com/fkztw/linkedin2md) - (DEPRECATED) Export public LinkedIn profile to Markdown format
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - This script lets you check whether a specific phone number is connected to a Telegram account.
@@ -1214,6 +1220,8 @@
 
 ## Rust 
 
+- [shadawck/glit](https://github.com/shadawck/glit) - Retrieve all mails of users related to a git repository, a git user or a git organization
+- [0xKoda/pwnd-GPT](https://github.com/0xKoda/pwnd-GPT) - AI assisted incident response for any cyber issue. Clear malware, patch networks, isolate machines, perform active defence with guided terminal commands.
 - [sreedevk/deduplicator](https://github.com/sreedevk/deduplicator) - Filter, Sort & Delete Duplicate Files Recursively
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
@@ -1251,6 +1259,9 @@
 
 ## Shell 
 
+- [gustanini/Linux_QuickEnum](https://github.com/gustanini/Linux_QuickEnum) - QuickEnum is a tool designed to help with privilege escalation on Linux systems
+- [gustanini/ExploitationBundle](https://github.com/gustanini/ExploitationBundle) - Bash script that automates the downloading of various exploitation tools.
+- [gustanini/dirspider](https://github.com/gustanini/dirspider) - Bash script automating directory brute forcing and crawling/spider.
 - [iamj0ker/bypass-403](https://github.com/iamj0ker/bypass-403) - A simple script just made for self use for bypassing 403
 - [yuyudhn/TLDHunt](https://github.com/yuyudhn/TLDHunt) - Domain Availability Checker
 - [AnonymousAt3/cyberdoor](https://github.com/AnonymousAt3/cyberdoor) - Automated Payload Generator Tool
@@ -1338,7 +1349,7 @@
 ## TypeScript 
 
 - [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison) - 📬 A quick comparison of private and / or secure email providers
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🌐 All-in-one website OSINT tool
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🌐 All-in-one website OSINT tool for analysing any website
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
 - [phantombuster/web-browser-extension](https://github.com/phantombuster/web-browser-extension) - Session cookies handler
@@ -1357,7 +1368,7 @@
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [privatenumber/snap-tweet](https://github.com/privatenumber/snap-tweet) - Snap a screenshot of a tweet 📸
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [esrlabs/chipmunk](https://github.com/esrlabs/chipmunk) - log analysis tool
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
