@@ -169,6 +169,7 @@
 
 ## Go 
 
+- [TheYahya/enola](https://github.com/TheYahya/enola) - This is Sherlock's sister, Modern shiny CLI tool written with Golang to help you: 🔎 Hunt down social media accounts by username across social networks
 - [pion/stun](https://github.com/pion/stun) - A Go implementation of STUN
 - [Velocidex/velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
 - [Rohansjamadagni/lmt](https://github.com/Rohansjamadagni/lmt) - lmt is a cli program written in go that can be used to run applications with resource limits enforced using cgroupsv2
@@ -303,7 +304,6 @@
 - [rapid7/metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [punk-security/secret-magpie](https://github.com/punk-security/secret-magpie) - Secret Magpie - Secret Detection Tool
-- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [Anon-Planet/thgtoa](https://github.com/Anon-Planet/thgtoa) - The comprehensive guide for online anonymity and OpSec.
 - [adamjgrant/link-shortener](https://github.com/adamjgrant/link-shortener) - Simple Airtable-backend link shortener
 - [legly/SamSploit](https://github.com/legly/SamSploit) - A professional ethical hacking tool.
@@ -403,7 +403,6 @@
 - [ZYSzys/github-personal-stars](https://github.com/ZYSzys/github-personal-stars) - :star: Count your personal repos' total stars.
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
 - [ZYSzys/awesome-captcha](https://github.com/ZYSzys/awesome-captcha) - :key: Curated list of awesome captcha libraries and crack tools.
-- [WebBreacher/obsidian-osint-templates](https://github.com/WebBreacher/obsidian-osint-templates) - These templates are suggestions of how the Obsidian notetaking tool can be used during an OSINT investigation. The example data in those files should allow you to make some connections (see what I did
 - [terkelg/ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App.
 - [danielbuechele/goofy](https://github.com/danielbuechele/goofy) - Desktop client for Facebook Messenger
 - [720kb/ndm](https://github.com/720kb/ndm) - :computer: npm desktop manager https://720kb.github.io/ndm
@@ -614,6 +613,7 @@
 - [MegadodoPublications/exploits](https://github.com/MegadodoPublications/exploits) - Some of my public exploits
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [Ginsberg5150/Discord-and-Telegram-OSINT-references](https://github.com/Ginsberg5150/Discord-and-Telegram-OSINT-references) - Small repo for Telegram and Discord OSINT and research
+- [WebBreacher/obsidian-osint-templates](https://github.com/WebBreacher/obsidian-osint-templates) - These templates are suggestions of how the Obsidian notetaking tool can be used during an OSINT investigation. The example data in those files should allow you to make some connections (see what I did
 - [huntflow/api](https://github.com/huntflow/api) - Хантфлоу API
 - [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
 - [thehappydinoa/awesome-censys-queries](https://github.com/thehappydinoa/awesome-censys-queries) - A collection of fascinating and bizarre Censys Search Queries
@@ -745,12 +745,16 @@
 
 ## Python 
 
+- [falkensmz/tw1tter0s1nt](https://github.com/falkensmz/tw1tter0s1nt) - Python tool that automates the process of Twitter OSiNT investigation using twint.
+- [N0rz3/TraxOsint](https://github.com/N0rz3/TraxOsint) - Osint tool for track ip adress
+- [EmmiBevensee/social-media-analysis-toolkit](https://github.com/EmmiBevensee/social-media-analysis-toolkit) - Tools I'm developing to analyze social media, particularly hate and disinformation, at scale.
+- [SMAT-Lab/Scalpel](https://github.com/SMAT-Lab/Scalpel) - Scalpel: The Python Static Analysis Framework
 - [TURROKS/CVE_Prioritizer](https://github.com/TURROKS/CVE_Prioritizer) - Streamline vulnerability patching with CVSS, EPSS, and CISA's Known Exploited Vulnerabilities. Prioritize actions based on real-time threat information, gain a competitive advantage, and stay informed
 - [infobyte/emploleaks](https://github.com/infobyte/emploleaks) - An OSINT tool that helps detect members of a company with leaked credentials
 - [blackorbird/APT_REPORT](https://github.com/blackorbird/APT_REPORT) - Interesting APT Report Collection And Some Special IOC
 - [tomchang25/whisper-auto-transcribe](https://github.com/tomchang25/whisper-auto-transcribe) - Auto transcribe tool based on whisper
 - [soderstromkr/whisper-local-transcribe](https://github.com/soderstromkr/whisper-local-transcribe) - Simple implementation of OpenAI's whisper model to transcribe audio files from your local folders.
-- [bellingcat/whisperbox-transcribe](https://github.com/bellingcat/whisperbox-transcribe) - Easy to deploy API for transcribing/translating video and audio using OpenAI's Whisper model and more.
+- [bellingcat/whisperbox-transcribe](https://github.com/bellingcat/whisperbox-transcribe) - Easy to deploy API for transcribing and translating audio / video using OpenAI's whisper model.
 - [coldtype/coldtype](https://github.com/coldtype/coldtype) - cross-platform display typography in python
 - [A-poc/certSniff](https://github.com/A-poc/certSniff) - A certificate transparency log keyword sniffer written in python
 - [gnebbia/pdlist](https://github.com/gnebbia/pdlist) - A passive subdomain finder
@@ -1128,7 +1132,6 @@
 - [saeeddhqan/Maryam](https://github.com/saeeddhqan/Maryam) - Maryam: Open-source Intelligence(OSINT) Framework
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [AstraaDev/Discord-All-Tools-In-One](https://github.com/AstraaDev/Discord-All-Tools-In-One) - ATIO is a AIO Script Developed with Python3. It gathers a total of 23 Discord tools (including a RAT, a Raid Tool, a Token Grabber, a Crash Video Maker, etc). It has a pleasant and intuitive interface
-- [JakeWnuk/SickNerd](https://github.com/JakeWnuk/SickNerd) - CLI tool for Google Dorking with the ability to fetch and filter dorks from GHDB, save and load results, and search multiple domains.
 - [Cillian-Collins/dirscraper](https://github.com/Cillian-Collins/dirscraper) - OSINT scanning tool which discovers and maps directories found in javascript files hosted on a website.
 - [enemy-submarine/pidrila](https://github.com/enemy-submarine/pidrila) - Python Interactive Deepweb-oriented Rapid Intelligent Link Analyzer
 - [laramies/metagoofil](https://github.com/laramies/metagoofil) - Metadata harvester
@@ -1394,7 +1397,7 @@
 ## TypeScript 
 
 - [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison) - 📬 A quick comparison of private and / or secure email providers
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🌐 All-in-one OSINT tool for analysing any website
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
 - [phantombuster/web-browser-extension](https://github.com/phantombuster/web-browser-extension) - Session cookies handler
@@ -1421,6 +1424,7 @@
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [BootBoi/android-app](https://github.com/BootBoi/android-app) - Turn on/off your remote machine without leaving your couch!
+- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [diego3g/rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire: (under development)
 - [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂
@@ -1447,7 +1451,7 @@
 - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
 - [bormaxi8080/qr-bruteforce](https://github.com/bormaxi8080/qr-bruteforce) - Attempts to get a valid random COVID-19 QR certificates from gosuslugi.ru
 - [bormaxi8080/unlabelling](https://github.com/bormaxi8080/unlabelling) - Abolish labels of ‘foreign agents’ media
-- [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
+- [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE.
 
 ## Vala 
 
