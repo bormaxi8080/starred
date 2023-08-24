@@ -13,6 +13,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
+- [Crystal](#crystal)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -66,6 +67,7 @@
 
 ## C 
 
+- [3nock/OTE](https://github.com/3nock/OTE) - OSINT Template Engine
 - [nccgroup/Sniffle](https://github.com/nccgroup/Sniffle) - A sniffer for Bluetooth 5 and 4.x LE
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [Sysinternals/SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - 
@@ -152,6 +154,10 @@
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
+## Crystal 
+
+- [hahwul/noir](https://github.com/hahwul/noir) - ♠️ Noir is an attack surface detector form source code.
+
 ## Dart 
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
@@ -195,7 +201,7 @@
 - [Narasimha1997/fake-sms](https://github.com/Narasimha1997/fake-sms) - A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
 - [michenriksen/aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [dhn/udon](https://github.com/dhn/udon) - A simple tool that helps to find assets/domains based on the Google Analytics ID.
-- [LukaSikic/subzy](https://github.com/LukaSikic/subzy) - Subdomain takeover vulnerability checker
+- [PentestPad/subzy](https://github.com/PentestPad/subzy) - Subdomain takeover vulnerability checker
 - [Yakitrak/obsidian-cli](https://github.com/Yakitrak/obsidian-cli) - Interact with Obsidian in the terminal. Open, search, create, update, move and delete notes!
 - [seekr-osint/seekr](https://github.com/seekr-osint/seekr) - A multi-purpose OSINT toolkit with a neat web-interface.
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
@@ -459,7 +465,6 @@
 - [mailcheck/mailcheck](https://github.com/mailcheck/mailcheck) - Reduce misspelled email addresses in your web apps.
 - [soufianesakhi/feedly-filtering-and-sorting](https://github.com/soufianesakhi/feedly-filtering-and-sorting) - Enhance the feedly website with advanced filtering and sorting capabilities
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories.
-- [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
 - [frenchbread/private-ip](https://github.com/frenchbread/private-ip) - Check if IP address is private.
 - [sickcodes/Vulnogram](https://github.com/sickcodes/Vulnogram) - Vulnogram is a tool for creating and editing CVE information in CVE JSON format
 - [ohsusannamarie/ezLinkPreview-Chrome-Extension-v6.24](https://github.com/ohsusannamarie/ezLinkPreview-Chrome-Extension-v6.24) - 
@@ -524,7 +529,6 @@
 ## Makefile 
 
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [PartialVolume/shredos.x86_64](https://github.com/PartialVolume/shredos.x86_64) - Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe
 
 ## Markdown 
@@ -629,6 +633,7 @@
 - [cipher387/code-understanding-tools](https://github.com/cipher387/code-understanding-tools) - Tools for understanding other people's code
 - [C3n7ral051nt4g3ncy/OSINT_Inception-links](https://github.com/C3n7ral051nt4g3ncy/OSINT_Inception-links) - Current links from the OSINT Inception start-me project
 - [EdOverflow/bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [woj-ciech/LeakLooker](https://github.com/woj-ciech/LeakLooker) - Find open databases - Powered by Binaryedge.io
 - [Tek-Security-Group/Password-Repo](https://github.com/Tek-Security-Group/Password-Repo) - 
 - [Hack-with-Github/Awesome-Security-Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists) - A collection of various GitHub gists for hackers, pentesters and security researchers
@@ -745,6 +750,10 @@
 
 ## Python 
 
+- [N0rz3/Eyes](https://github.com/N0rz3/Eyes) - 🕵️ Email osint tool
+- [N0rz3/Inspector](https://github.com/N0rz3/Inspector) - Osint tool (👁️ phone-number tracker)
+- [N0rz3/GitSint](https://github.com/N0rz3/GitSint) - 🕵️ OSINT Tool (github tracker)
+- [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [falkensmz/tw1tter0s1nt](https://github.com/falkensmz/tw1tter0s1nt) - Python tool that automates the process of Twitter OSiNT investigation using twint.
 - [N0rz3/TraxOsint](https://github.com/N0rz3/TraxOsint) - Osint tool for track ip adress
 - [EmmiBevensee/social-media-analysis-toolkit](https://github.com/EmmiBevensee/social-media-analysis-toolkit) - Tools I'm developing to analyze social media, particularly hate and disinformation, at scale.
