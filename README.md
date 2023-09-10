@@ -126,6 +126,7 @@
 
 ## C++ 
 
+- [StefanoDeVuono/steghide](https://github.com/StefanoDeVuono/steghide) - 
 - [jselbie/stunserver](https://github.com/jselbie/stunserver) - Version 1.2. This is the source code to STUNTMAN - an open source STUN server and client code by john selbie.  Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards co
 - [hpdeifel/pdfgrep](https://github.com/hpdeifel/pdfgrep) - Read-only mirror of https://gitlab.com/pdfgrep/pdfgrep - please open issues/merge-requests there
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
@@ -148,6 +149,7 @@
 - [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - A list of public penetration test reports published by several consulting firms and academic security groups.
 - [Bafomet666/Bigbro](https://github.com/Bafomet666/Bigbro) - Инструмент OSINT, для поиска людей перешедших по ссылке /радиус разброса 1-30 метров. Работает под kali linux and termux.  Есть бесплатная версия и premium.
 - [Bafomet666/OSINT-SAN](https://github.com/Bafomet666/OSINT-SAN) - OSINT-SAN Framework дает возможность быстро находить информацию и деанонимизировать пользователей сети интернет.
+- [cipher387/osintmap](https://github.com/cipher387/osintmap) - Worldwide map of OSINT tools. 614 services (cadastral maps, business registries, public transport maps, passengers lists, venicle information).
 - [abhijithb200/investigator](https://github.com/abhijithb200/investigator) - An online handy-recon tool
 
 ## Clojure 
@@ -175,6 +177,7 @@
 
 ## Go 
 
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - ChatGPT in terminal without needing API keys
 - [TheYahya/enola](https://github.com/TheYahya/enola) - This is Sherlock's sister, Modern shiny CLI tool written with Golang to help you: 🔎 Hunt down social media accounts by username across social networks
 - [pion/stun](https://github.com/pion/stun) - A Go implementation of STUN
@@ -329,7 +332,6 @@
 - [cipher387/passengers_lists_and_migrants_records](https://github.com/cipher387/passengers_lists_and_migrants_records) - Collections of services for search data from passengers lists and emigrants records
 - [cipher387/public_transport_maps](https://github.com/cipher387/public_transport_maps) - Collection of online public transport maps
 - [HOPain/OSINT-Search-Tools](https://github.com/HOPain/OSINT-Search-Tools) - Complex OSINT Search Tools 🕵️‍♂️🔥
-- [cipher387/osintmap](https://github.com/cipher387/osintmap) - Worldwide map of OSINT tools. 614 services (cadastral maps, business registries, public transport maps, passengers lists, venicle information).
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [cipher387/hashtags_and_keywords_social_media_quick_search](https://github.com/cipher387/hashtags_and_keywords_social_media_quick_search) - Tool of the buttons for quick search keywords ans hashtags in 70 different social media platforms
 - [sharatsachin/ytplaylist-len](https://github.com/sharatsachin/ytplaylist-len) - A small web app to get the lengths of playlists on YouTube
@@ -559,6 +561,7 @@
 
 ## Others 
 
+- [adrianlois/DFIR-Detection-Engineering](https://github.com/adrianlois/DFIR-Detection-Engineering) - Digital Forensics Incident Response and Detection engineering: Análisis forense de artefactos comunes y no tan comunes. Técnicas anti-forense y detección de técnicas utilizadas por actores maliciosos 
 - [wddadk/Discord-OSINT](https://github.com/wddadk/Discord-OSINT) - 
 - [wddadk/OSINT-for-countries](https://github.com/wddadk/OSINT-for-countries) - Methodology, links, tools for OSINT in different countries
 - [cqcore/Data-OSINT](https://github.com/cqcore/Data-OSINT) - You can find links to data acquisition websites.
@@ -753,6 +756,9 @@
 
 ## Python 
 
+- [Nekmo/dirhunt](https://github.com/Nekmo/dirhunt) - Find web directories without bruteforce
+- [devanshbatham/OpenRedireX](https://github.com/devanshbatham/OpenRedireX) - A fuzzer for detecting open redirect vulnerabilities
+- [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing
 - [hastagAB/Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts) - A Curated list of Awesome Python Scripts that Automate Stuffs.
 - [devanshbatham/FavFreak](https://github.com/devanshbatham/FavFreak) - Making Favicon.ico based Recon Great again !
 - [x90skysn3k/brutespray](https://github.com/x90skysn3k/brutespray) - Brute-Forcing from Nmap output - Automatically attempts default creds on found services.
@@ -860,7 +866,7 @@
 - [aels/mailtools](https://github.com/aels/mailtools) - Perfect scripts for all the hustle we have with mailing
 - [jsvine/waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
 - [GerbenJavado/LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files
-- [AdonsIzaguirre/DirRunner](https://github.com/AdonsIzaguirre/DirRunner) - Enumeration & fingerprint tool
+- [sp34rh34d/DirRunner](https://github.com/sp34rh34d/DirRunner) - Enumeration & fingerprint tool
 - [laluka/bypass-url-parser](https://github.com/laluka/bypass-url-parser) - bypass-url-parser
 - [password123456/CertVerify](https://github.com/password123456/CertVerify) - A scanner that files with compromised or untrusted code signing certificates written in python.
 - [nicholasaleks/CrackQL](https://github.com/nicholasaleks/CrackQL) - CrackQL is a GraphQL password brute-force and fuzzing utility.
@@ -928,7 +934,7 @@
 - [Te-k/pybinaryedge](https://github.com/Te-k/pybinaryedge) - Python 3 Wrapper for the BinaryEdge API https://www.binaryedge.io/
 - [bwimpsett/CloudBunny](https://github.com/bwimpsett/CloudBunny) - CloudBunny is a tool to capture the real IP of the server that uses a WAF as a proxy or protection. In this tool we used three search engines to search domain information: Shodan, Censys and Zoomeye.
 - [h4fan/autozm](https://github.com/h4fan/autozm) - 利用zoomeye api搜索c段ip和端口，存入sqlite进行查询
-- [SobrioRiot/The_spy_job](https://github.com/SobrioRiot/The_spy_job) - The Spy's Job is a tool focused on OSINT. IP, Whois, Subdomains, Open Ports, OS, CF real IP,  Phone, Email, Name, Nick, photo, and much more.
+- [H0wardR0ark/The_spy_job](https://github.com/H0wardR0ark/The_spy_job) - The Spy's Job is a tool focused on OSINT. IP, Whois, Subdomains, Open Ports, OS, CF real IP,  Phone, Email, Name, Nick, photo, and much more.
 - [Zeyad-Azima/Need-IP](https://github.com/Zeyad-Azima/Need-IP) - A tool for Pentesters & BugHunters to collect IPs of company, server, Operating System & many more
 - [starnightcyber/ZoomEye](https://github.com/starnightcyber/ZoomEye) - A script used to get data from ZoomEye
 - [knownsec/ZoomEye-python](https://github.com/knownsec/ZoomEye-python) - ZoomEye-python: The official Python library and CLI by Knownsec 404 Team.
@@ -1320,6 +1326,7 @@
 
 ## Shell 
 
+- [D3Ext/WEF](https://github.com/D3Ext/WEF) - Wi-Fi Exploitation Framework
 - [0xKayala/NucleiFuzzer](https://github.com/0xKayala/NucleiFuzzer) - NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications
 - [samhaxr/recox](https://github.com/samhaxr/recox) - Master script for web reconnaissance
 - [blackhatethicalhacking/Nucleimonst3r](https://github.com/blackhatethicalhacking/Nucleimonst3r) - Nucleimonst3r is a powerful vulnerability scanner that can help Bug Bounty Hunters find low hanging fruit vulnerabilities for known CVEs and exploits but also gather all the technology running behind 
