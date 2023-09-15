@@ -177,6 +177,8 @@
 
 ## Go 
 
+- [devanshbatham/headerpwn](https://github.com/devanshbatham/headerpwn) - A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers
+- [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - ChatGPT in terminal without needing API keys
 - [TheYahya/enola](https://github.com/TheYahya/enola) - This is Sherlock's sister, Modern shiny CLI tool written with Golang to help you: 🔎 Hunt down social media accounts by username across social networks
@@ -378,6 +380,7 @@
 
 ## JavaScript 
 
+- [digitalmethodsinitiative/zeeschuimer](https://github.com/digitalmethodsinitiative/zeeschuimer) - A browser extension to collect social media data with.
 - [seintpl/NAMINT](https://github.com/seintpl/NAMINT) - A simple javascript tool to prepare possible name and login search patterns with links.
 - [seintpl/ytxtractor](https://github.com/seintpl/ytxtractor) - ytxtractor - a simple javascript tool to extract images from a Youtube video.
 - [hakluke/weaponised-XSS-payloads](https://github.com/hakluke/weaponised-XSS-payloads) - XSS payloads designed to turn alert(1) into P1
@@ -387,7 +390,6 @@
 - [alentum/sitemapper-nodejs](https://github.com/alentum/sitemapper-nodejs) - Source code of Visual Site Mapper Node.js version
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [narrowtux/userscripts](https://github.com/narrowtux/userscripts) - various browser userscripts for grease/tapermonkey extensions
-- [janosgyerik/bashoneliners](https://github.com/janosgyerik/bashoneliners) - A collection of practical or just pure awesome bash one-liners or shell script tips and tricks for GNU Linux, UNIX or BSD systems. Open, collaborative system, user friendly, with functions to contribu
 - [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
 - [bormaxi8080/fb-group-users-parser](https://github.com/bormaxi8080/fb-group-users-parser) - Facebook Group Users Parser written on Node.js
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp
@@ -480,7 +482,7 @@
 - [KernelPan1k/google-dork-builder](https://github.com/KernelPan1k/google-dork-builder) - Make Google Dork with firefox addon :mag:
 - [lettapp/ytcs](https://github.com/lettapp/ytcs) - Chrome extension to easily search youtube comments.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube Extension (Top100): Enrich your experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧write HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide youtube distr
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube & Video experience & choice [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧help]⚙️⋮⋮🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨⋮⋮ youtube playback, youtube content discovery, youtube p
 - [facundoolano/google-play-scraper](https://github.com/facundoolano/google-play-scraper) - Node.js scraper to get data from Google Play
 - [ericyd/gdrive-copy](https://github.com/ericyd/gdrive-copy) - Web app to copy a Google Drive folder
 - [willin/github-trending](https://github.com/willin/github-trending) - :octocat: Github Daily Trending Archives
@@ -524,7 +526,7 @@
 ## Lua 
 
 - [SpiderLabs/Nmap-Tools](https://github.com/SpiderLabs/Nmap-Tools) - SpiderLabs shared Nmap Tools
-- [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running) - CDN Up and Running - Building a CDN from Scratch to Learn about CDN
+- [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running) - CDN Up and Running - Building a CDN from Scratch to Learn about CDN, Nginx, Lua, Prometheus, Grafana, Load balancing, and Containers.
 - [vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
 - [scipag/vulscan](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE
 
@@ -561,6 +563,7 @@
 
 ## Others 
 
+- [osintbrazuca/osint-brazuca](https://github.com/osintbrazuca/osint-brazuca) - Repositório criado com intuito de reunir informações, fontes(websites/portais) e tricks de OSINT dentro do contexto Brasil.
 - [adrianlois/DFIR-Detection-Engineering](https://github.com/adrianlois/DFIR-Detection-Engineering) - Digital Forensics Incident Response and Detection engineering: Análisis forense de artefactos comunes y no tan comunes. Técnicas anti-forense y detección de técnicas utilizadas por actores maliciosos 
 - [wddadk/Discord-OSINT](https://github.com/wddadk/Discord-OSINT) - 
 - [wddadk/OSINT-for-countries](https://github.com/wddadk/OSINT-for-countries) - Methodology, links, tools for OSINT in different countries
@@ -748,6 +751,7 @@
 
 ## PowerShell 
 
+- [0xJs/domain_audit](https://github.com/0xJs/domain_audit) - Audit tool for Active Directory. Automates a lot of checks from a pentester perspective.
 - [ItsCyberAli/PowerMeUp](https://github.com/ItsCyberAli/PowerMeUp) - A small library of powershell scripts for post exploitation that you may need or use! It is also a custom reverse shell that you can use to add modules of your choice and not be stuck to things you do
 - [Johnng007/Live-Forensicator](https://github.com/Johnng007/Live-Forensicator) - Powershell Script to aid Incidence Response and Live Forensics |  Bash Script for MacOS Live Forensics and Incidence Response
 - [1njected/CMLoot](https://github.com/1njected/CMLoot) - Find interesting files stored on (System Center) Configuration Manager (SCCM/CM) SMB shares
@@ -756,6 +760,10 @@
 
 ## Python 
 
+- [Beercow/OneDriveExplorer](https://github.com/Beercow/OneDriveExplorer) - OneDriveExplorer is a command line and GUI based application for reconstructing the folder structure of OneDrive from the &lt;UserCid&gt;.dat and &lt;UserCid&gt;.dat.previous file.
+- [t3l3machus/BabelStrike](https://github.com/t3l3machus/BabelStrike) - BabelStrike takes a full names list as input and performs 1. Romanization of non-English names (based on language alphabet transliteration maps) AND|OR 2. implements name-to-username conversions based
+- [websecnl/MagickByteSelector](https://github.com/websecnl/MagickByteSelector) - Burp Suite Extension for inserting a magick byte into responder's request
+- [the-robot/sqliv](https://github.com/the-robot/sqliv) - massive SQL injection vulnerability scanner
 - [Nekmo/dirhunt](https://github.com/Nekmo/dirhunt) - Find web directories without bruteforce
 - [devanshbatham/OpenRedireX](https://github.com/devanshbatham/OpenRedireX) - A fuzzer for detecting open redirect vulnerabilities
 - [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing
@@ -881,6 +889,7 @@
 - [TheYoke/PngBin](https://github.com/TheYoke/PngBin) - Convert any binary data to a PNG image file and vice versa.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [JoseHenriqueSiqueira/Whatsapp_Instagram_Messanger_ChatGPT_OpenAI](https://github.com/JoseHenriqueSiqueira/Whatsapp_Instagram_Messanger_ChatGPT_OpenAI) - This repository showcases a ChatBot integrated with WhatsApp, using OpenAI API (such as ChatGPT). With it, you can interact with a highly trained language model to answer your questions and perform sp
+- [janosgyerik/bashoneliners](https://github.com/janosgyerik/bashoneliners) - A collection of practical or just pure awesome bash one-liners or shell script tips and tricks for GNU Linux, UNIX or BSD systems. Open, collaborative system, user friendly, with functions to contribu
 - [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
 - [aio-libs/yarl](https://github.com/aio-libs/yarl) - Yet another URL library
 - [josephcslater/array_to_latex](https://github.com/josephcslater/array_to_latex) - 
