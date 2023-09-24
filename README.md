@@ -118,6 +118,8 @@
 
 ## C# # 
 
+- [sqids/sqids-dotnet](https://github.com/sqids/sqids-dotnet) - Official .NET port of Sqids. Generate short YouTube-like IDs from numbers.
+- [cube0x0/KrbRelay](https://github.com/cube0x0/KrbRelay) - Framework for Kerberos relaying
 - [vivami/SauronEye](https://github.com/vivami/SauronEye) - Search tool to find specific files containing specific words, i.e. files containing passwords..
 - [r4wd3r/Suborner](https://github.com/r4wd3r/Suborner) - 
 - [punk-security/smbeagle](https://github.com/punk-security/smbeagle) - SMBeagle - Fileshare auditing tool.
@@ -129,7 +131,7 @@
 - [StefanoDeVuono/steghide](https://github.com/StefanoDeVuono/steghide) - 
 - [jselbie/stunserver](https://github.com/jselbie/stunserver) - Version 1.2. This is the source code to STUNTMAN - an open source STUN server and client code by john selbie.  Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards co
 - [hpdeifel/pdfgrep](https://github.com/hpdeifel/pdfgrep) - Read-only mirror of https://gitlab.com/pdfgrep/pdfgrep - please open issues/merge-requests there
-- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, StarRocks
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
 - [pantyusha/nesca](https://github.com/pantyusha/nesca) - The legendary netstalking NEtwork SCAnner
 - [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) - 
@@ -177,6 +179,8 @@
 
 ## Go 
 
+- [tomnomnom/unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin
+- [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
 - [devanshbatham/headerpwn](https://github.com/devanshbatham/headerpwn) - A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
@@ -308,6 +312,7 @@
 - [hrbrmstr/account-analysis](https://github.com/hrbrmstr/account-analysis) - Twitter account analysis
 - [ustayready/CredSniper](https://github.com/ustayready/CredSniper) - CredSniper is a phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
+- [janosgyerik/bashoneliners](https://github.com/janosgyerik/bashoneliners) - A collection of practical or just pure awesome bash one-liners or shell script tips and tricks for GNU Linux, UNIX or BSD systems. Open, collaborative system, user friendly, with functions to contribu
 - [micro-joan/D4TA-HUNTER](https://github.com/micro-joan/D4TA-HUNTER) - GUI Osint Framework with Kali Linux
 - [roottusk/vapi](https://github.com/roottusk/vapi) - vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios through Exercises.
 - [D4Vinci/EagleEye](https://github.com/D4Vinci/EagleEye) - A host-based IDS and network monitoring system (My graduation project)
@@ -380,6 +385,7 @@
 
 ## JavaScript 
 
+- [duckduckgo/tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
 - [digitalmethodsinitiative/zeeschuimer](https://github.com/digitalmethodsinitiative/zeeschuimer) - A browser extension to collect social media data with.
 - [seintpl/NAMINT](https://github.com/seintpl/NAMINT) - A simple javascript tool to prepare possible name and login search patterns with links.
 - [seintpl/ytxtractor](https://github.com/seintpl/ytxtractor) - ytxtractor - a simple javascript tool to extract images from a Youtube video.
@@ -401,6 +407,7 @@
 - [burlesco/burlesco](https://github.com/burlesco/burlesco) - Leia notícias sem ser assinante, burle o paywall (WebExtension)
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
+- [apify/apify-client-js](https://github.com/apify/apify-client-js) - Apify API client for JavaScript / Node.js.
 - [apify/actor-scraper](https://github.com/apify/actor-scraper) - House of Apify Scrapers. Generic scraping actors with a simple UI to handle complex web crawling and scraping use cases.
 - [apify/proxy-chain](https://github.com/apify/proxy-chain) - Node.js implementation of a proxy server (think Squid) with support for SSL, authentication and upstream proxy chaining.
 - [tejado/telegram-nearby-map](https://github.com/tejado/telegram-nearby-map) - Discover the location of nearby Telegram users 📡🌍
@@ -482,7 +489,7 @@
 - [KernelPan1k/google-dork-builder](https://github.com/KernelPan1k/google-dork-builder) - Make Google Dork with firefox addon :mag:
 - [lettapp/ytcs](https://github.com/lettapp/ytcs) - Chrome extension to easily search youtube comments.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube & Video experience & choice [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧help]⚙️⋮⋮🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨⋮⋮ youtube playback, youtube content discovery, youtube p
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧Please help] ⚙️⋮⋮⋮[🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨 youtube playback, youtube content discovery, youtube
 - [facundoolano/google-play-scraper](https://github.com/facundoolano/google-play-scraper) - Node.js scraper to get data from Google Play
 - [ericyd/gdrive-copy](https://github.com/ericyd/gdrive-copy) - Web app to copy a Google Drive folder
 - [willin/github-trending](https://github.com/willin/github-trending) - :octocat: Github Daily Trending Archives
@@ -563,6 +570,8 @@
 
 ## Others 
 
+- [bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline) - bormaxi8080 OSINT timeline with collection of tools, services and investigations
+- [sgxgsx/osint-tools](https://github.com/sgxgsx/osint-tools) - OSINT open-source tools catalog
 - [osintbrazuca/osint-brazuca](https://github.com/osintbrazuca/osint-brazuca) - Repositório criado com intuito de reunir informações, fontes(websites/portais) e tricks de OSINT dentro do contexto Brasil.
 - [adrianlois/DFIR-Detection-Engineering](https://github.com/adrianlois/DFIR-Detection-Engineering) - Digital Forensics Incident Response and Detection engineering: Análisis forense de artefactos comunes y no tan comunes. Técnicas anti-forense y detección de técnicas utilizadas por actores maliciosos 
 - [wddadk/Discord-OSINT](https://github.com/wddadk/Discord-OSINT) - 
@@ -706,7 +715,7 @@
 - [ukwa/awesome-web-archiving](https://github.com/ukwa/awesome-web-archiving) - An Awesome List for getting started with web archiving
 - [Dutchosintguy/OSINT-Discord-resources](https://github.com/Dutchosintguy/OSINT-Discord-resources) - Some OSINT Discord resources
 - [karthik997/Forensic_Toolkit](https://github.com/karthik997/Forensic_Toolkit) - Major tools used for Digital Forensic Investigation, includes tools used for Image, Audio, Memory, Network and Disk Image data analysis. Helpful resource for CTF Challenges.
-- [CaledoniaProject/awesome-opensource-security](https://github.com/CaledoniaProject/awesome-opensource-security) - A list of interesting open-source tools
+- [CaledoniaProject/awesome-opensource-security](https://github.com/CaledoniaProject/awesome-opensource-security) - A list of interesting open-source security tools, mostly reviewed and commented by me.
 - [ShivamRai2003/SQL-Injection-Google-Dork-List](https://github.com/ShivamRai2003/SQL-Injection-Google-Dork-List) - Updated 6000 Sql Injection Google Dork 2021
 - [C4T4P1LL4/youtube-dorks](https://github.com/C4T4P1LL4/youtube-dorks) - youtube dork queries for default file names
 - [alfazzafashion/Backlink-dorks](https://github.com/alfazzafashion/Backlink-dorks) - google dork for search top backlink
@@ -760,9 +769,14 @@
 
 ## Python 
 
+- [erev0s/VAmPI](https://github.com/erev0s/VAmPI) - Vulnerable REST API with OWASP top 10 vulnerabilities for security testing
+- [opengeos/leafmap](https://github.com/opengeos/leafmap) - A Python package for interactive mapping and geospatial analysis  with minimal coding in a Jupyter environment
+- [sgxgsx/ViberOSINT](https://github.com/sgxgsx/ViberOSINT) - Viber Osint helper tool to save your time through automation and help you find registered users.
+- [anmolksachan/ThreatTracer](https://github.com/anmolksachan/ThreatTracer) - ThreatTracer - A python Script to identify CVE by name & version by @FR13ND0x7F
+- [KasRoudra/PyPhisher](https://github.com/KasRoudra/PyPhisher) - Easy to use phishing tool with 77 website templates. Author is not responsible for any misuse.
 - [Beercow/OneDriveExplorer](https://github.com/Beercow/OneDriveExplorer) - OneDriveExplorer is a command line and GUI based application for reconstructing the folder structure of OneDrive from the &lt;UserCid&gt;.dat and &lt;UserCid&gt;.dat.previous file.
 - [t3l3machus/BabelStrike](https://github.com/t3l3machus/BabelStrike) - BabelStrike takes a full names list as input and performs 1. Romanization of non-English names (based on language alphabet transliteration maps) AND|OR 2. implements name-to-username conversions based
-- [websecnl/MagickByteSelector](https://github.com/websecnl/MagickByteSelector) - Burp Suite Extension for inserting a magick byte into responder's request
+- [websecnl/MagicByteSelector](https://github.com/websecnl/MagicByteSelector) - Burp Suite Extension for inserting a magic byte into responder's request
 - [the-robot/sqliv](https://github.com/the-robot/sqliv) - massive SQL injection vulnerability scanner
 - [Nekmo/dirhunt](https://github.com/Nekmo/dirhunt) - Find web directories without bruteforce
 - [devanshbatham/OpenRedireX](https://github.com/devanshbatham/OpenRedireX) - A fuzzer for detecting open redirect vulnerabilities
@@ -889,7 +903,6 @@
 - [TheYoke/PngBin](https://github.com/TheYoke/PngBin) - Convert any binary data to a PNG image file and vice versa.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [JoseHenriqueSiqueira/Whatsapp_Instagram_Messanger_ChatGPT_OpenAI](https://github.com/JoseHenriqueSiqueira/Whatsapp_Instagram_Messanger_ChatGPT_OpenAI) - This repository showcases a ChatBot integrated with WhatsApp, using OpenAI API (such as ChatGPT). With it, you can interact with a highly trained language model to answer your questions and perform sp
-- [janosgyerik/bashoneliners](https://github.com/janosgyerik/bashoneliners) - A collection of practical or just pure awesome bash one-liners or shell script tips and tricks for GNU Linux, UNIX or BSD systems. Open, collaborative system, user friendly, with functions to contribu
 - [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
 - [aio-libs/yarl](https://github.com/aio-libs/yarl) - Yet another URL library
 - [josephcslater/array_to_latex](https://github.com/josephcslater/array_to_latex) - 
@@ -933,7 +946,6 @@
 - [helviojunior/turbosearch](https://github.com/helviojunior/turbosearch) - The most powerfull Web Content Scanner
 - [D4Vinci/One-Lin3r](https://github.com/D4Vinci/One-Lin3r) - Gives you one-liners that aids in penetration testing operations, privilege escalation and more
 - [machine1337/pycrypt](https://github.com/machine1337/pycrypt) - Python Based Crypter That Can Bypass Any Kinds Of Antivirus Products
-- [xHak9x/PYcrypt](https://github.com/xHak9x/PYcrypt) - PYcrypt - 'python backdoor' framework
 - [hippiiee/osgint](https://github.com/hippiiee/osgint) - OSINT tool to find informations about a github user (email2username, username2email, creation date ...)
 - [humandecoded/twayback](https://github.com/humandecoded/twayback) - Automate downloading archived deleted Tweets.
 - [curosim/facebook-leak-search](https://github.com/curosim/facebook-leak-search) - There's a useful hidden service to search through the Facebook 2021 Data Leak. This is the Python wrapper to query the hidden service.
@@ -1145,8 +1157,6 @@
 - [SharadKumar97/OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - Performs OSINT scan on email/domain/ip_address/organization using OSINT-SPY. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep 
 - [OsintDojo/OSINT](https://github.com/OsintDojo/OSINT) - Collections of tools and methods created to aid in OSINT collection
 - [m4ll0k/SecretFinder](https://github.com/m4ll0k/SecretFinder) - SecretFinder - A python script for find sensitive data (apikeys, accesstoken,jwt,..) and search anything on javascript files
-- [m4ll0k/takeover](https://github.com/m4ll0k/takeover) - Sub-Domain TakeOver Vulnerability Scanner
-- [m4ll0k/Infoga](https://github.com/m4ll0k/Infoga) - Infoga - Email OSINT
 - [GONZOsint/pywhatcms](https://github.com/GONZOsint/pywhatcms) - Unofficial WhatCMS API package
 - [GONZOsint/geowifi](https://github.com/GONZOsint/geowifi) - Search WiFi geolocation data by BSSID and SSID on different public databases.
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
@@ -1335,6 +1345,7 @@
 
 ## Shell 
 
+- [dosyago/chai](https://github.com/dosyago/chai) - chai - Experience Zero Trust security with Chai! Convert and view documents as vivid images right in your browser. No mandatory downloads, no hassle—just pure, joyful security! 🌈
 - [D3Ext/WEF](https://github.com/D3Ext/WEF) - Wi-Fi Exploitation Framework
 - [0xKayala/NucleiFuzzer](https://github.com/0xKayala/NucleiFuzzer) - NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications
 - [samhaxr/recox](https://github.com/samhaxr/recox) - Master script for web reconnaissance
@@ -1440,7 +1451,6 @@
 - [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos) - Restoring old and blurry face photos with AI.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
-- [apify/apify-client-js](https://github.com/apify/apify-client-js) - Apify API client for JavaScript / Node.js.
 - [apify/got-scraping](https://github.com/apify/got-scraping) - HTTP client made for scraping based on got.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map) - An Obsidian plugin for displaying markdown notes as mind maps using Markmap.
