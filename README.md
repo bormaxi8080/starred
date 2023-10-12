@@ -67,6 +67,7 @@
 
 ## C 
 
+- [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tool
 - [3nock/OTE](https://github.com/3nock/OTE) - OSINT Template Engine
 - [nccgroup/Sniffle](https://github.com/nccgroup/Sniffle) - A sniffer for Bluetooth 5 and 4.x LE
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
@@ -129,6 +130,8 @@
 
 ## C++ 
 
+- [frkngksl/Shoggoth](https://github.com/frkngksl/Shoggoth) - Shoggoth: Asmjit Based Polymorphic Encryptor
+- [ivan-sincek/invoker](https://github.com/ivan-sincek/invoker) - Penetration testing utility and antivirus assessment tool.
 - [klezVirus/SilentMoonwalk](https://github.com/klezVirus/SilentMoonwalk) - PoC Implementation of a fully dynamic call stack spoofer
 - [cartographer-project/cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
 - [StefanoDeVuono/steghide](https://github.com/StefanoDeVuono/steghide) - 
@@ -182,6 +185,7 @@
 
 ## Go 
 
+- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [MrEmpy/mantra](https://github.com/MrEmpy/mantra) - 「🔑」A tool used to hunt down API key leaks in JS files and pages
@@ -390,6 +394,7 @@
 
 ## JavaScript 
 
+- [AFP-Medialab/verification-plugin](https://github.com/AFP-Medialab/verification-plugin) - A verification “Swiss army knife” helping journalists, fact-checkers, and human rights defenders to save time and be more efficient in their fact-checking and debunking tasks on social networks especi
 - [duckduckgo/tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
 - [digitalmethodsinitiative/zeeschuimer](https://github.com/digitalmethodsinitiative/zeeschuimer) - A browser extension to collect social media data with.
 - [seintpl/NAMINT](https://github.com/seintpl/NAMINT) - A simple javascript tool to prepare possible name and login search patterns with links.
@@ -399,7 +404,6 @@
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [KorySchneider/wikit](https://github.com/KorySchneider/wikit) - Wikipedia summaries from the command line
 - [alentum/sitemapper-nodejs](https://github.com/alentum/sitemapper-nodejs) - Source code of Visual Site Mapper Node.js version
-- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [narrowtux/userscripts](https://github.com/narrowtux/userscripts) - various browser userscripts for grease/tapermonkey extensions
 - [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
 - [bormaxi8080/fb-group-users-parser](https://github.com/bormaxi8080/fb-group-users-parser) - Facebook Group Users Parser written on Node.js
@@ -493,7 +497,7 @@
 - [KernelPan1k/google-dork-builder](https://github.com/KernelPan1k/google-dork-builder) - Make Google Dork with firefox addon :mag:
 - [lettapp/ytcs](https://github.com/lettapp/ytcs) - Chrome extension to easily search youtube comments.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧Please help]       ⚙️⋮[🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨 youtube playback, content discovery, player, ext
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top~100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra button
 - [facundoolano/google-play-scraper](https://github.com/facundoolano/google-play-scraper) - Node.js scraper to get data from Google Play
 - [ericyd/gdrive-copy](https://github.com/ericyd/gdrive-copy) - Web app to copy a Google Drive folder
 - [willin/github-trending](https://github.com/willin/github-trending) - :octocat: Github Daily Trending Archives
@@ -577,6 +581,8 @@
 
 ## Others 
 
+- [OSINT-mindset/osint-cases-ru](https://github.com/OSINT-mindset/osint-cases-ru) - Решения различных OSINT-задач / OSINT tasks writeups in Russian
+- [OSINT-mindset/vk-osint-ru](https://github.com/OSINT-mindset/vk-osint-ru) - Набор инструментов для OSINT в VKontakte. Основано на материалах Rawrdcore
 - [ranlo/OSINT-Tools-Israel](https://github.com/ranlo/OSINT-Tools-Israel) - Websites and tools for OSINT investigations pertaining to Israel
 - [bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline) - bormaxi8080 OSINT timeline with collection of tools, services and investigations
 - [sgxgsx/osint-tools](https://github.com/sgxgsx/osint-tools) - OSINT open-source tools catalog
@@ -754,6 +760,7 @@
 
 ## Pascal 
 
+- [MojtabaTajik/Robber](https://github.com/MojtabaTajik/Robber) - Robber is open source tool for finding executables prone to DLL hijacking
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
 
 ## Perl 
@@ -778,6 +785,27 @@
 
 ## Python 
 
+- [z4l4mi/IpGeo](https://github.com/z4l4mi/IpGeo) - 
+- [guibacellar/TEx](https://github.com/guibacellar/TEx) - Telegram Monitor
+- [stanykey/telegram-explorer](https://github.com/stanykey/telegram-explorer) - educational project: obtain the history of Telegram chat for a certain period of time
+- [snare/voltron](https://github.com/snare/voltron) - A hacky debugger UI for hackers
+- [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
+- [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
+- [soxoj/mailto_analyzer](https://github.com/soxoj/mailto_analyzer) - PoC analyzer of your email address exposure on various services
+- [pwnfoo/NTLMRecon](https://github.com/pwnfoo/NTLMRecon) - Enumerate information from NTLM authentication enabled web endpoints 🔎
+- [m-bain/webvid](https://github.com/m-bain/webvid) - Large-scale text-video dataset. 10 million captioned short videos.
+- [m-bain/video2dataset](https://github.com/m-bain/video2dataset) - Easily create large video dataset from video urls
+- [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
+- [OSINT-mindset/domru-customer-check](https://github.com/OSINT-mindset/domru-customer-check) - Get additional information about Dom.ru customers with API interface
+- [OSINT-mindset/pinterest-email-checker](https://github.com/OSINT-mindset/pinterest-email-checker) - Get Pinterest account by email with API interface
+- [OSINT-mindset/odnoklassniki-checker](https://github.com/OSINT-mindset/odnoklassniki-checker) - Get info about accounts of ok.ru by phone number / email address
+- [OSINT-mindset/gmail-analytics-check](https://github.com/OSINT-mindset/gmail-analytics-check) - Get gmail alternate email and GAIA ID by gmail with API interface
+- [OSINT-mindset/skype-contact-parser](https://github.com/OSINT-mindset/skype-contact-parser) - Resolve Skype accounts by phone number with API interface
+- [OSINT-mindset/YaSeekerUltra](https://github.com/OSINT-mindset/YaSeekerUltra) - Advanced version of YaSeeker tool for gathering of information about Yandex account
+- [sap8899/reportly](https://github.com/sap8899/reportly) - Reportly is an AzureAD user activity report tool.
+- [ecthros/pina-colada](https://github.com/ecthros/pina-colada) - A powerful and extensible wireless drop box
+- [jpotts18/stylometry](https://github.com/jpotts18/stylometry) - A Stylometry Library for Python
+- [franckferman/MetaDetective](https://github.com/franckferman/MetaDetective) - 🕵️ Unleash Metadata Intelligence with MetaDetective. Your Assistant Beyond Metagoofil.
 - [xnl-h4ck3r/waymore](https://github.com/xnl-h4ck3r/waymore) - Find way more from the Wayback Machine!
 - [fuckwbored/fishsec](https://github.com/fuckwbored/fishsec) - 
 - [tand826/vid2img](https://github.com/tand826/vid2img) - Extract frames from a video.
@@ -882,6 +910,7 @@
 - [RedSiege/Just-Metadata](https://github.com/RedSiege/Just-Metadata) - Just-Metadata is a tool that gathers and analyzes metadata about IP addresses.  It attempts to find relationships between systems within a large dataset.
 - [m8sec/pymeta](https://github.com/m8sec/pymeta) - Pymeta will search the web for files on a domain to download and extract metadata. This technique can be used to identify: domains, usernames, software/version numbers and naming conventions.
 - [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework
+- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [thewhiteh4t/FinalRecon](https://github.com/thewhiteh4t/FinalRecon) - All In One Web Recon
 - [jzck/horqrux](https://github.com/jzck/horqrux) - QR code splitting
@@ -976,7 +1005,6 @@
 - [Te-k/pybinaryedge](https://github.com/Te-k/pybinaryedge) - Python 3 Wrapper for the BinaryEdge API https://www.binaryedge.io/
 - [bwimpsett/CloudBunny](https://github.com/bwimpsett/CloudBunny) - CloudBunny is a tool to capture the real IP of the server that uses a WAF as a proxy or protection. In this tool we used three search engines to search domain information: Shodan, Censys and Zoomeye.
 - [h4fan/autozm](https://github.com/h4fan/autozm) - 利用zoomeye api搜索c段ip和端口，存入sqlite进行查询
-- [KnowsWho/The_spy_job](https://github.com/KnowsWho/The_spy_job) - The Spy's Job is a tool focused on OSINT. IP, Whois, Subdomains, Open Ports, OS, CF real IP,  Phone, Email, Name, Nick, photo, and much more.
 - [Zeyad-Azima/Need-IP](https://github.com/Zeyad-Azima/Need-IP) - A tool for Pentesters & BugHunters to collect IPs of company, server, Operating System & many more
 - [starnightcyber/ZoomEye](https://github.com/starnightcyber/ZoomEye) - A script used to get data from ZoomEye
 - [knownsec/ZoomEye-python](https://github.com/knownsec/ZoomEye-python) - ZoomEye-python: The official Python library and CLI by Knownsec 404 Team.
@@ -1024,7 +1052,7 @@
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
 - [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to databases.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to datasources.
 - [yurijmikhalevich/rclip](https://github.com/yurijmikhalevich/rclip) - AI-Powered Command-Line Photo Search Tool
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [punk-security/Timeline](https://github.com/punk-security/Timeline) - A tool for creating SVG timelines from simple JSON input.
@@ -1048,7 +1076,7 @@
 - [niklasb/dryscrape](https://github.com/niklasb/dryscrape) - [not actively maintained] A lightweight Python library that uses Webkit to enable easy scraping of dynamic, Javascript-heavy web pages
 - [developers-against-repressions/devs-against-the-machine](https://github.com/developers-against-repressions/devs-against-the-machine) - I онлайн-хакатон в поддержку политических заключенных
 - [lctrcl/crwg](https://github.com/lctrcl/crwg) - Custom Russian WordList Generator
-- [depop/celery-message-consumer](https://github.com/depop/celery-message-consumer) - Tool for using the battle-tested `bin/celery` worker to consume vanilla AMQP messages (i.e. not Celery tasks)
+- [depoplabs/celery-message-consumer](https://github.com/depoplabs/celery-message-consumer) - Tool for using the battle-tested `bin/celery` worker to consume vanilla AMQP messages (i.e. not Celery tasks)
 - [Enforcer/celery-beat-example](https://github.com/Enforcer/celery-beat-example) - 
 - [developers-against-repressions/case-212](https://github.com/developers-against-repressions/case-212) - Открытое письмо специалистов IT-индустрии в защиту фигурантов «московского дела»
 - [DedSecInside/Awesome-Scripts](https://github.com/DedSecInside/Awesome-Scripts) - A collection of awesome scripts from developers around the globe.
@@ -1222,7 +1250,7 @@
 - [pushshift/api](https://github.com/pushshift/api) - Pushshift API
 - [pushshift/telegram](https://github.com/pushshift/telegram) - Pushshift Telegram Ingest
 - [pushshift/tiktok](https://github.com/pushshift/tiktok) - Module to access TikTok Private API
-- [l4rm4nd/XingDumper](https://github.com/l4rm4nd/XingDumper) - Python 3 script to dump company employees from XING API
+- [l4rm4nd/XingDumper](https://github.com/l4rm4nd/XingDumper) - Python 3 script to dump/scrape/extract company employees from XING API
 - [drego85/tosint](https://github.com/drego85/tosint) - OSINT analysis tools of a Telegram bot
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
 - [riz4d/WaGpScraper](https://github.com/riz4d/WaGpScraper) - A Python Oriented tool to Scrap WhatsApp Group Link using Google Dork it Scraps Whatsapp Group Links From Google Results And Gives Working Links.
@@ -1298,6 +1326,7 @@
 
 ## Ruby 
 
+- [Best2Angle/thoron](https://github.com/Best2Angle/thoron) - Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to generate simple payloads to provid
 - [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) - ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
 - [SpiderLabs/cve_server](https://github.com/SpiderLabs/cve_server) - Simple REST-style web service for the CVE searching
 - [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
@@ -1322,6 +1351,7 @@
 
 ## Rust 
 
+- [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 - [w4/pisshoff](https://github.com/w4/pisshoff) - 🧸 fully isolated honeypot ssh server using thrussh
 - [ogata-k/fakes-gen-cli](https://github.com/ogata-k/fakes-gen-cli) - Library and CLI tool for generating fake data as formatted as CSV, TSV and JSON.
 - [dfir-dd/dfir-toolkit](https://github.com/dfir-dd/dfir-toolkit) - CLI tools for forensic investigation of Windows artifacts
@@ -1411,7 +1441,7 @@
 - [m3n0sd0n4ld/GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) - GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced
 - [dougy147/scitopdf](https://github.com/dougy147/scitopdf) - bash script to quickly fetch, download and open scientific papers from Sci-Hub's database.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [dmn001/youtube_channel_archiver](https://github.com/dmn001/youtube_channel_archiver) - Starting point for archiving entire YouTube channels using yt-dlp (originally youtube-dl)
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
@@ -1460,6 +1490,7 @@
 
 ## TypeScript 
 
+- [Renumics/spotlight](https://github.com/Renumics/spotlight) - Interactively explore unstructured datasets from your dataframe.
 - [Lissy93/email-comparison](https://github.com/Lissy93/email-comparison) - 📬 A quick comparison of private and / or secure email providers
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
