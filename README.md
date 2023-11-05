@@ -138,6 +138,7 @@
 
 ## C++ 
 
+- [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
 - [tklab-tud/BSF](https://github.com/tklab-tud/BSF) - Botnet Simulation Framework
 - [frkngksl/Shoggoth](https://github.com/frkngksl/Shoggoth) - Shoggoth: Asmjit Based Polymorphic Encryptor
 - [ivan-sincek/invoker](https://github.com/ivan-sincek/invoker) - Penetration testing utility and antivirus assessment tool.
@@ -190,11 +191,15 @@
 
 ## Elixir 
 
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform
 - [atlosdotorg/atlos](https://github.com/atlosdotorg/atlos) - The open source platform for visual investigations
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## Go 
 
+- [amnezia-vpn/awg-windows](https://github.com/amnezia-vpn/awg-windows) - AmneziaWG for Windows
+- [amnezia-vpn/amnezia-wg](https://github.com/amnezia-vpn/amnezia-wg) - Amnezia-WG VPN protocol
+- [notdodo/pastego](https://github.com/notdodo/pastego) - Scrape/Parse Pastebin using GO and expression grammar (PEG)
 - [vysecurity/autovpn](https://github.com/vysecurity/autovpn) - Easily connect to a VPN in a country of your choice
 - [saeeddhqan/evine](https://github.com/saeeddhqan/evine) - Interactive CLI Web Crawler
 - [redhuntlabs/HTTPLoot](https://github.com/redhuntlabs/HTTPLoot) - An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites.
@@ -329,6 +334,7 @@
 
 ## HTML 
 
+- [MS-WEB-BN/c41n](https://github.com/MS-WEB-BN/c41n) - Automated rogue access point setup tool.
 - [Aetsu/beautyCoon](https://github.com/Aetsu/beautyCoon) - Beautify Nessus scan output
 - [Tanmay-Tiwaricyber/WcamPhish](https://github.com/Tanmay-Tiwaricyber/WcamPhish) - Grab cam shots from target's phone front camera or PC webcam just sending a link. Author will not be responsible for any misuse of this toolkit !
 - [tracelabs/tlosint-live](https://github.com/tracelabs/tlosint-live) - Trace Labs OSINT Linux Distribution based on Kali.
@@ -410,6 +416,8 @@
 
 ## JavaScript 
 
+- [arcaneiceman/kraken](https://github.com/arcaneiceman/kraken) - Kraken: A multi-platform distributed brute-force password cracking system
+- [invideu/invid-verification-plugin](https://github.com/invideu/invid-verification-plugin) - 
 - [LinaYorda/OSINTko](https://github.com/LinaYorda/OSINTko) - OSINTk.o is a customized Kali Linux-based ISO image with pre-installed packages and scripts
 - [AFP-Medialab/verification-plugin](https://github.com/AFP-Medialab/verification-plugin) - A verification “Swiss army knife” helping journalists, fact-checkers, and human rights defenders to save time and be more efficient in their fact-checking and debunking tasks on social networks especi
 - [duckduckgo/tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
@@ -464,7 +472,7 @@
 - [Loskir/50-lines](https://github.com/Loskir/50-lines) - 
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
 - [kkoooqq/fakebrowser](https://github.com/kkoooqq/fakebrowser) - 🤖 Fake fingerprints to bypass anti-bot systems. Simulate mouse and keyboard operations to make behavior like a real person.
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [Chalarangelo/30-seconds-of-interviews](https://github.com/Chalarangelo/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
@@ -514,12 +522,12 @@
 - [KernelPan1k/google-dork-builder](https://github.com/KernelPan1k/google-dork-builder) - Make Google Dork with firefox addon :mag:
 - [lettapp/ytcs](https://github.com/lettapp/ytcs) - Chrome extension to easily search youtube comments.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Top~100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top~100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰90 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra button
 - [facundoolano/google-play-scraper](https://github.com/facundoolano/google-play-scraper) - Node.js scraper to get data from Google Play
 - [ericyd/gdrive-copy](https://github.com/ericyd/gdrive-copy) - Web app to copy a Google Drive folder
 - [willin/github-trending](https://github.com/willin/github-trending) - :octocat: Github Daily Trending Archives
 - [grothkopp/goosh](https://github.com/grothkopp/goosh) - goosh.org the unofficial google shell
-- [PastVu/pastvu](https://github.com/PastVu/pastvu) - PastVu — online platform for gathering, clarifying, attribution, and discussing retro photos.
+- [PastVu/pastvu](https://github.com/PastVu/pastvu) - PastVu - an online platform for curating, annotating, attributing, and discussing vintage pictures around the world
 - [zhenyanghua/MeasureTool-GoogleMaps-V3](https://github.com/zhenyanghua/MeasureTool-GoogleMaps-V3) - A mobile friendly measure tool for Google Maps JS API v3.
 - [cipher387/phonenumberqueryconstructor](https://github.com/cipher387/phonenumberqueryconstructor) - A very simple tool that generates multiple spellings of a phone number (to effectively search for it using the OR operator and quotes)
 - [bellingcat/cloud-free-subregion](https://github.com/bellingcat/cloud-free-subregion) - Google Earth Engine application that finds Sentinel-2 images that are cloud-free in a particular area of interest.
@@ -552,6 +560,7 @@
 
 ## Kotlin 
 
+- [amnezia-vpn/awg-android](https://github.com/amnezia-vpn/awg-android) - AmneziaWG for Android
 - [fabianonline/telegram_backup](https://github.com/fabianonline/telegram_backup) - Java app to download all your telegram data.
 - [markowanga/tweet-id-scrapper](https://github.com/markowanga/tweet-id-scrapper) - The service based on Selenium and Kotlin to scrap tweets by their ids
 - [x13a/Silence](https://github.com/x13a/Silence) - Block unknown callers.
@@ -588,7 +597,7 @@
 
 ## OCaml 
 
-- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
 ## Objective-C 
 
@@ -768,6 +777,7 @@
 
 ## PHP 
 
+- [drwetter/SecLists](https://github.com/drwetter/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [chris-koch-penn/gpt3_security_vulnerability_scanner](https://github.com/chris-koch-penn/gpt3_security_vulnerability_scanner) - GPT-3 found hundreds of security vulnerabilities in this repo
 - [horde/imp](https://github.com/horde/imp) - A web based webmail system
 - [hisxo/SecLists](https://github.com/hisxo/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
@@ -809,6 +819,12 @@
 
 ## Python 
 
+- [xaitax/PatchaPalooza](https://github.com/xaitax/PatchaPalooza) - A comprehensive tool that provides an insightful analysis of Microsoft's monthly security updates.
+- [hmaverickadams/autoNTDS](https://github.com/hmaverickadams/autoNTDS) - autoNTDS is an automation script designed to simplify the process of dumping and cracking NTDS hashes using secretsdump.py and hashcat
+- [agrawalsmart7/scodescanner](https://github.com/agrawalsmart7/scodescanner) - SCodeScanner stands for Source Code scanner where the user can scans the source code for finding the Critical Vulnerabilities.
+- [Lucksi/Darkus](https://github.com/Lucksi/Darkus) - A Onion websites searcher
+- [cipher387/python-for-OSINT-21-days](https://github.com/cipher387/python-for-OSINT-21-days) - In this repository you will find sample code files for each day of the course "Python for OSINT. A 21-day course for beginners".
+- [mindcrypt/uriDeep](https://github.com/mindcrypt/uriDeep) - Unicode encoding attacks with machine learning
 - [zym1115718204/xspider](https://github.com/zym1115718204/xspider) - A Distributed web crawler system. Support for templated spider development.
 - [n0kovo/DomainDouche](https://github.com/n0kovo/DomainDouche) - OSINT tool abusing SecurityTrails domain suggestion API to find potentially related domains by keyword and brute force.
 - [radioactivetobi/geo-recon](https://github.com/radioactivetobi/geo-recon) - An OSINT CLI tool desgined to fast track IP Reputation and Geo-locaton look up for Security Analysts.
@@ -1325,7 +1341,6 @@
 - [rly0nheart/thorndyke](https://github.com/rly0nheart/thorndyke) - Lightweight username enumeration tool that checks the availability of a specified username on over 200 websites.
 - [soxoj/marple](https://github.com/soxoj/marple) - 📖 Collect links to profiles by username through search engines and analyze with various plugins
 - [soxoj/username-generation-guide](https://github.com/soxoj/username-generation-guide) - A definitive guide to generating usernames for OSINT purposes
-- [bellingcat/truthbrush](https://github.com/bellingcat/truthbrush) - API client for Truth Social
 - [bellingcat/tiktok-hashtag-analysis](https://github.com/bellingcat/tiktok-hashtag-analysis) - Provides tools to analyze hashtags within posts scraped from TikTok.
 - [bellingcat/gogettr](https://github.com/bellingcat/gogettr) - Public API client for GETTR, a "non-bias [sic] social network," designed for data archival and analysis.
 - [bellingcat/geoclustering](https://github.com/bellingcat/geoclustering) - 📍 command-line tool for clustering geolocations.
@@ -1359,7 +1374,6 @@
 - [bellingcat/snscrape](https://github.com/bellingcat/snscrape) - A social networking service scraper in Python
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
 - [edoardottt/takeover](https://github.com/edoardottt/takeover) - Sub-Domain TakeOver Vulnerability Scanner (edoardottt fork)
-- [bellingcat/Telepathy](https://github.com/bellingcat/Telepathy) - Public release of Telepathy, an OSINT toolkit for investigating Telegram chats.
 - [C3n7ral051nt4g3ncy/Prot1ntelligence](https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence) - Protintelligence is a Python script for the OSINT and Cyber Community. This tool helps you to find intelligence on Protonmail users.
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [mahenzon/aiogram-lessons](https://github.com/mahenzon/aiogram-lessons) - Небольшая серия уроков по работе с библиотекой aiogram
@@ -1378,6 +1392,7 @@
 
 ## Ruby 
 
+- [hahwul/deadfinder](https://github.com/hahwul/deadfinder) - 🏴‍☠️ Find dead-links (broken links)
 - [Best2Angle/thoron](https://github.com/Best2Angle/thoron) - Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to generate simple payloads to provid
 - [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) - ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
 - [SpiderLabs/cve_server](https://github.com/SpiderLabs/cve_server) - Simple REST-style web service for the CVE searching
@@ -1448,6 +1463,11 @@
 
 ## Shell 
 
+- [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
+- [amnezia-vpn/openvpn-server](https://github.com/amnezia-vpn/openvpn-server) - OpenVPN docker containers
+- [notdodo/Tools](https://github.com/notdodo/Tools) - List of tools
+- [mr-rizwan-syed/chomtesh](https://github.com/mr-rizwan-syed/chomtesh) - CHOMTE.SH is a powerful shell script designed to automate reconnaissance tasks during penetration testing. It utilizes various Go-based tools to gather information and identify the attack surface, mak
+- [mr-rizwan-syed/nmapAutomator](https://github.com/mr-rizwan-syed/nmapAutomator) - A script that you can run in the background!
 - [netsparker/netsparker-orb](https://github.com/netsparker/netsparker-orb) - Netsparker Enterprise Security Scan Orb
 - [mindcrypt/stegowiper](https://github.com/mindcrypt/stegowiper) - A powerful and flexible tool to apply active attacks for disrupting stegomalware
 - [MS-WEB-BN/h4rpy](https://github.com/MS-WEB-BN/h4rpy) - Automated WPA/WPA2 PSK attack tool.
@@ -1534,6 +1554,7 @@
 
 ## Swift 
 
+- [amnezia-vpn/awg-apple](https://github.com/amnezia-vpn/awg-apple) - AmneziaWG for Apple
 - [inket/stts](https://github.com/inket/stts) - A simple macOS app for monitoring the status of cloud services
 - [vsaravind007/nodeScratchpad](https://github.com/vsaravind007/nodeScratchpad) - Evaluate Nodejs Code Snippets From Menubar! :computer:
 - [RoyalIcing/Lantern](https://github.com/RoyalIcing/Lantern) - Mac app for website auditing and crawling
@@ -1557,7 +1578,6 @@
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
-- [phantombuster/web-browser-extension](https://github.com/phantombuster/web-browser-extension) - Session cookies handler
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [zeronetworks/BlueHound](https://github.com/zeronetworks/BlueHound) - BlueHound - pinpoint the security issues that actually matter
