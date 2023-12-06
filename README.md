@@ -200,6 +200,8 @@
 
 ## Go 
 
+- [aydinnyunus/PassDetective](https://github.com/aydinnyunus/PassDetective) - PassDetective is a command-line tool that scans shell command history to detect mistakenly written passwords, API keys, and secrets. Using regular expressions, it helps prevent accidental exposure of 
+- [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [grahamhelton/IMDSpoof](https://github.com/grahamhelton/IMDSpoof) - IMDSPOOF is a cyber deception tool that spoofs the AWS IMDS service to return HoneyTokens that can be alerted on.
 - [dreddsa5dies/goHackTools](https://github.com/dreddsa5dies/goHackTools) - Hacker tools on Go (Golang)
 - [rverton/webanalyze](https://github.com/rverton/webanalyze) - Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
@@ -427,6 +429,7 @@
 
 ## JavaScript 
 
+- [Ademking/InstaFollower](https://github.com/Ademking/InstaFollower) - 🚀 Instagram : Auto Follow users from List
 - [mrd0x/BITB](https://github.com/mrd0x/BITB) - Browser In The Browser (BITB) Templates
 - [agusmakmun/django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI
 - [arcaneiceman/kraken](https://github.com/arcaneiceman/kraken) - Kraken: A multi-platform distributed brute-force password cracking system
@@ -627,6 +630,7 @@
 
 ## Others 
 
+- [Ademking/TunisianDataCollection](https://github.com/Ademking/TunisianDataCollection) - Collection of valuable data lists
 - [Scully-D/onion](https://github.com/Scully-D/onion) - 
 - [cyb3rxp/awesome-soc](https://github.com/cyb3rxp/awesome-soc) - A collection of sources of documentation, as well as field best practices, to build/run a SOC
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
@@ -693,7 +697,7 @@
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
 - [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
 - [C3n7ral051nt4g3ncy/OSINT-Bookmarklets](https://github.com/C3n7ral051nt4g3ncy/OSINT-Bookmarklets) - Fast Search including Dark Web Search
-- [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
+- [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 - [Correia-jpv/fucking-awesome-incident-response](https://github.com/Correia-jpv/fucking-awesome-incident-response) - A curated list of tools for incident response. With repository stars⭐ and forks🍴
 - [solarrust/hacker-laws](https://github.com/solarrust/hacker-laws) - 💻📖 Законы, теории, принципы и модели, которые полезно знать разработчику.
 - [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
@@ -848,6 +852,10 @@
 
 ## Python 
 
+- [Ademking/BulkSMSPython](https://github.com/Ademking/BulkSMSPython) - Send SMS to your list of numbers - using Android ADB
+- [Ademking/Excel-to-Trello](https://github.com/Ademking/Excel-to-Trello) - Creates Trello Cards/Labels using Excel
+- [Ademking/repolist](https://github.com/Ademking/repolist) - Generate wordlists from Github repositories
+- [xerohackcom/Chaya](https://github.com/xerohackcom/Chaya) - Advance Image Steganography
 - [claromes/waybacktweets](https://github.com/claromes/waybacktweets) - Archived tweets on Wayback Machine in an easy way
 - [digitalshadows/orca](https://github.com/digitalshadows/orca) - Orca - Targeted OSINT Framework
 - [hash3liZer/WiFiBroot](https://github.com/hash3liZer/WiFiBroot) - A Wireless (WPA/WPA2) Pentest/Cracking tool. Captures & Crack 4-way handshake and PMKID key. Also, supports a deauthentication/jammer mode for stress testing
