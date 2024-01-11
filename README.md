@@ -197,12 +197,15 @@
 
 ## Elixir 
 
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform that integrates with your IdP and requires no open ports.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, 2FA, and user/group sync.
 - [atlosdotorg/atlos](https://github.com/atlosdotorg/atlos) - The collaborative workspace for visual verification
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## Go 
 
+- [jonaslu/ain](https://github.com/jonaslu/ain) - A HTTP API client for the terminal
+- [dub-flow/sessionprobe](https://github.com/dub-flow/sessionprobe) - SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a l
+- [crissyfield/troll-a](https://github.com/crissyfield/troll-a) - Drill into WARC web archives
 - [volution/kawipiko](https://github.com/volution/kawipiko) - kawipiko -- blazingly fast static HTTP server -- focused on low latency and high concurrency, by leveraging Go, `fasthttp` and the CDB embedded database
 - [hakluke/haklistgen](https://github.com/hakluke/haklistgen) - Turns any junk text into a usable wordlist for brute-forcing.
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
@@ -250,7 +253,6 @@
 - [nullt3r/udpx](https://github.com/nullt3r/udpx) - Fast and lightweight, UDPX is a single-packet UDP scanner written in Go that supports the discovery of over 45 services with the ability to add custom ones. It is easy to use and portable, and can be 
 - [devploit/dontgo403](https://github.com/devploit/dontgo403) - Tool to bypass 40X response codes.
 - [nakabonne/pbgopy](https://github.com/nakabonne/pbgopy) - Copy and paste between devices
-- [drfabiocastro/certwatcher](https://github.com/drfabiocastro/certwatcher) - CertWatcher is a tool for capture and tracking certificate transparency logs, using YAML templates based DSL.
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) - 🤒   A modern alternative network traffic sniffer.
 - [guacsec/guac](https://github.com/guacsec/guac) - GUAC aggregates software security metadata into a high fidelity graph database.
@@ -410,13 +412,14 @@
 
 ## Java 
 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [OWASP/wrongsecrets](https://github.com/OWASP/wrongsecrets) - Vulnerable app with examples showing how to not use secrets
 - [vaticle/typedb](https://github.com/vaticle/typedb) - TypeDB: the polymorphic database powered by types
 - [PlentyBugs/NetCracker-Project](https://github.com/PlentyBugs/NetCracker-Project) - We're developing this project as part of the Netcracker training center. Its main goal is to create a portal for organizing hackathons, where the organizer can create them simply and quickly, the part
 - [guardianproject/ripple](https://github.com/guardianproject/ripple) - A "panic button" app for triggering a "ripple effect" across apps that are set up to respond to panic events
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [ukanth/afwall](https://github.com/ukanth/afwall) - AFWall+ (Android Firewall +) - iptables based firewall for Android
-- [vitaminncpp/TouchDroid](https://github.com/vitaminncpp/TouchDroid) - An Android App that can be used as laptop touchpad via local Network
+- [theAkshayP/TouchDroid](https://github.com/theAkshayP/TouchDroid) - An Android App that can be used as laptop touchpad via local Network
 - [barancev/webdriver-factory](https://github.com/barancev/webdriver-factory) - An utility to manage WebDriver instances
 - [syvaidya/openstego](https://github.com/syvaidya/openstego) - OpenStego is a steganography application that provides two functionalities: a) Data Hiding: It can hide any data within an image file. b) Watermarking: Watermarking image files with an invisible signa
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -437,6 +440,7 @@
 
 ## JavaScript 
 
+- [forwardemail/dkimpy](https://github.com/forwardemail/dkimpy) - Node.js wrapper around the Python pip package dkimpy exposing DKIM and ARC signing and verification functions
 - [cjihrig/swagger-jacker](https://github.com/cjihrig/swagger-jacker) - Express API documentation generator
 - [ia-stepanov/autosend-letters-hh](https://github.com/ia-stepanov/autosend-letters-hh) - AutoSend Letters HeadHunter — это скрипт для автоматической отправки откликов на HeadHunter (hh).
 - [Ademking/InstaFollower](https://github.com/Ademking/InstaFollower) - 🚀 Instagram : Auto Follow users from List
@@ -548,12 +552,12 @@
 - [KernelPan1k/google-dork-builder](https://github.com/KernelPan1k/google-dork-builder) - Make Google Dork with firefox addon :mag:
 - [lettapp/ytcs](https://github.com/lettapp/ytcs) - Chrome extension to easily search youtube comments.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~3 YouTube & Video Extension] Enrich your experience & -choice! 🧰90 clever features📌set & forget📌Longest-standing (Please help🧩us👨‍👩‍👧‍👧) ..⋮  {playback|content discovery|player|extra buttons|dist
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~1 YouTube Video Web-Extension] Enrich your experience & -choice! 🧰90 clever features📌set & forget📌Longest-standing(Please help🧩us👨‍👩‍👧‍👧) ..⋮  {playback|content discovery|player|extra buttons|dis
 - [facundoolano/google-play-scraper](https://github.com/facundoolano/google-play-scraper) - Node.js scraper to get data from Google Play
 - [ericyd/gdrive-copy](https://github.com/ericyd/gdrive-copy) - Web app to copy a Google Drive folder
 - [willin/github-trending](https://github.com/willin/github-trending) - :octocat: Github Daily Trending Archives
 - [grothkopp/goosh](https://github.com/grothkopp/goosh) - goosh.org the unofficial google shell
-- [PastVu/pastvu](https://github.com/PastVu/pastvu) - PastVu - an online platform for curating, annotating, attributing, and discussing vintage pictures around the world
+- [PastVu/pastvu](https://github.com/PastVu/pastvu) - PastVu is an online platform for curating, annotating, attributing, and discussing vintage pictures around the world
 - [zhenyanghua/MeasureTool-GoogleMaps-V3](https://github.com/zhenyanghua/MeasureTool-GoogleMaps-V3) - A mobile friendly measure tool for Google Maps JS API v3.
 - [cipher387/phonenumberqueryconstructor](https://github.com/cipher387/phonenumberqueryconstructor) - A very simple tool that generates multiple spellings of a phone number (to effectively search for it using the OR operator and quotes)
 - [bellingcat/cloud-free-subregion](https://github.com/bellingcat/cloud-free-subregion) - Google Earth Engine application that finds Sentinel-2 images that are cloud-free in a particular area of interest.
@@ -641,6 +645,8 @@
 
 ## Others 
 
+- [wearecaster/MITMonster](https://github.com/wearecaster/MITMonster) - A monster cheatsheet on MITM attacks
+- [Az0x7/vulnerability-Checklist](https://github.com/Az0x7/vulnerability-Checklist) - This repository contain a lot of web and api vulnerability checklist , a lot of vulnerability ideas and tips from twitter
 - [rawrdcore/vk-osint-en](https://github.com/rawrdcore/vk-osint-en) - 
 - [CScorza/OSINTSurveillance](https://github.com/CScorza/OSINTSurveillance) - Strumenti utili per la ricerca di WebCam e Wifi di pubblico accesso
 - [FofaInfo/Awesome-FOFA](https://github.com/FofaInfo/Awesome-FOFA) - The FOFA Library collects usage tips, common scenarios, F&Q, and more for FOFA.
@@ -683,7 +689,6 @@
 - [nsonaniya2010/SecretKeyWords](https://github.com/nsonaniya2010/SecretKeyWords) - Secret Keywords patterns - aggregated from different sources.
 - [cqcore/Telegram-OSINT](https://github.com/cqcore/Telegram-OSINT) - In-depth repository of Telegram OSINT resources covering, tools, techniques & tradecraft.
 - [CyberSecurityUP/Awesome-Red-Team-Operations](https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations) - 
-- [drfabiocastro/certwatcher-templates](https://github.com/drfabiocastro/certwatcher-templates) - Community curated list of templates for the Certwatcher.
 - [krol3/container-security-checklist](https://github.com/krol3/container-security-checklist) - Checklist for container security - devsecops practices
 - [AndrewStetsenko/tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation) - All-in-one guide to getting a tech job abroad 🌎
 - [CScorza/Analisi-Digital-Forense](https://github.com/CScorza/Analisi-Digital-Forense) - Strumenti di Acquisizione e Analisi di copie Forensi
@@ -770,7 +775,7 @@
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [harismuneer/Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - 🤖 A Software that automates your social media interactions to collect posts, photos, videos, interests, friends, followers, and much more on Facebook.
+- [harismuneer/Ultimate-Social-Scrapers](https://github.com/harismuneer/Ultimate-Social-Scrapers) - 🤖 Top-rated tools to scrape all major sections from Facebook, Instagram and Twitter including posts (likes/comments), photos/videos, contact informations, followers, following and much more.
 - [ohsusannamarie/awesome-talent-sourcing](https://github.com/ohsusannamarie/awesome-talent-sourcing) - A curated awesome list of talent sourcing resources. Feel free to contribute! 🔎
 - [hugoahosta/OSINT_Collection](https://github.com/hugoahosta/OSINT_Collection) - Maintained collection of OSINT related resources. (All Free & Actionable)
 - [hugoahosta/DFIR](https://github.com/hugoahosta/DFIR) - all things DFIR. I'm a novice becoming immersed in digital forensics
@@ -867,6 +872,11 @@
 
 ## Python 
 
+- [machine1337/gmailc2](https://github.com/machine1337/gmailc2) - A Fully Undetectable C2 Server That Communicates Via Google SMTP to evade Antivirus Protections and Network Traffic Restrictions
+- [Douile/pydns](https://github.com/Douile/pydns) - A fully python dns server
+- [chenjj/espoofer](https://github.com/chenjj/espoofer) - An email spoofing testing tool that aims to bypass SPF/DKIM/DMARC and forge DKIM signatures.🍻
+- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
+- [bellingcat/polyphemus](https://github.com/bellingcat/polyphemus) - Scraper for Odysee: alt-tech platform for sharing video
 - [hash3liZer/SillyRAT](https://github.com/hash3liZer/SillyRAT) - A Python based RAT 🐀 (Remote Access Trojan) for getting reverse shell 🖥️
 - [alechilczenko/spidex](https://github.com/alechilczenko/spidex) - Continuous reconnaissance network scanner designed for large-scale scans, collecting information on all Internet assets.
 - [HalilDeniz/Dosinator](https://github.com/HalilDeniz/Dosinator) - DoSinator is a powerful Denial of Service (DoS) testing tool developed in Python.
@@ -1004,6 +1014,7 @@
 - [D35m0nd142/DWH](https://github.com/D35m0nd142/DWH) - Simple (but working) WEP/WPA/WPA2 Hacking script
 - [D35m0nd142/Pipper](https://github.com/D35m0nd142/Pipper) - Python Module able to automatically install missing imported libraries through pip
 - [D35m0nd142/LFISuite](https://github.com/D35m0nd142/LFISuite) - Totally Automatic LFI Exploiter (+ Reverse Shell) and Scanner
+- [Deadshot0x7/007-TheBond](https://github.com/Deadshot0x7/007-TheBond) - This Script will help you to gather information about your victim or friend.
 - [ANG13T/netspionage](https://github.com/ANG13T/netspionage) - Network Forensics CLI utility that performs Network Scanning, OSINT, and Attack Detection
 - [grimlockx/ADCSKiller](https://github.com/grimlockx/ADCSKiller) - An ADCS Exploitation Automation Tool Weaponizing Certipy and Coercer
 - [jasperan/whatsapp-osint](https://github.com/jasperan/whatsapp-osint) - WhatsApp spy - logs online/offline events from ANYONE in the world
@@ -1271,7 +1282,7 @@
 - [josh-richardson/cadmus](https://github.com/josh-richardson/cadmus) - A GUI frontend for @werman's Pulse Audio real-time noise suppression plugin
 - [Chalarangelo/30-seconds-of-python](https://github.com/Chalarangelo/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
-- [vinifmor/bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch packages (including AUR), Debian packages, Flatpak, Snap and native Web applications
+- [vinifmor/bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Debian and Arch packages (including AUR), Flatpak, Snap and native Web applications
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [mautrix/telegram](https://github.com/mautrix/telegram) - A Matrix-Telegram hybrid puppeting/relaybot bridge
 - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
@@ -1552,6 +1563,7 @@
 
 ## Shell 
 
+- [emrekybs/AD-AssessmentKit](https://github.com/emrekybs/AD-AssessmentKit) - Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, 
 - [A3h1nt/Dnsrr](https://github.com/A3h1nt/Dnsrr) - DNSrr is a tool written in bash, used to enumerate all the juicy stuff from DNS.
 - [rohsec/Uncomment](https://github.com/rohsec/Uncomment) - A Powerful tool to fetch all the comments from the supplied URL's
 - [rohsec/LEAKEY](https://github.com/rohsec/LEAKEY) - LEAKEY is a bash script which checks and validates for leaked credentials. The idea behind LEAKEY is to make it highly customizable and easy to add checks for new services.
@@ -1708,7 +1720,7 @@
 - [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown
 - [fingerprintjs/BotD](https://github.com/fingerprintjs/BotD) - Bot detection library that runs in the browser. Detects automation tools and frameworks. No server required, runs 100% on the client.
 - [igdownloader/InstagramDownloader](https://github.com/igdownloader/InstagramDownloader) - Firefox and Chrome Extention which creates an download button for instagram images and videos and videos
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -1742,7 +1754,7 @@
 
 ## Visual Basic .NET 
 
-- [bellingcat/knewkarma](https://github.com/bellingcat/knewkarma) - A Reddit Data Analysis Toolkit.
+- [bellingcat/knewkarma](https://github.com/bellingcat/knewkarma) - Reddit Data Analysis Toolkit.
 
 ## Vue 
 
