@@ -168,6 +168,7 @@
 
 ## CSS 
 
+- [Chudry/Xerror](https://github.com/Chudry/Xerror) - fully automated pentesting tool
 - [Aetsu/gethead](https://github.com/Aetsu/gethead) - HTTP Header Analysis Vulnerability Tool
 - [lvwzhen/ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Make ChatGPT like the Matrix.
 - [devXprite/Random-Quote-Generator](https://github.com/devXprite/Random-Quote-Generator) - This is a Simple Random Quote Generator.
@@ -197,7 +198,7 @@
 
 ## Elixir 
 
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, 2FA, and user/group sync.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, 2FA, user/group sync, and requires zero firewall configuration.
 - [atlosdotorg/atlos](https://github.com/atlosdotorg/atlos) - The collaborative workspace for visual verification
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
@@ -354,6 +355,7 @@
 
 ## HTML 
 
+- [htr-tech/zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [MS-WEB-BN/c41n](https://github.com/MS-WEB-BN/c41n) - Automated rogue access point setup tool.
 - [Aetsu/beautyCoon](https://github.com/Aetsu/beautyCoon) - Beautify Nessus scan output
@@ -390,7 +392,6 @@
 - [cipher387/passengers_lists_and_migrants_records](https://github.com/cipher387/passengers_lists_and_migrants_records) - Collections of services for search data from passengers lists and emigrants records
 - [cipher387/public_transport_maps](https://github.com/cipher387/public_transport_maps) - Collection of online public transport maps
 - [HOPain/OSINT-Search-Tools](https://github.com/HOPain/OSINT-Search-Tools) - Complex OSINT Search Tools 🕵️‍♂️🔥
-- [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [cipher387/hashtags_and_keywords_social_media_quick_search](https://github.com/cipher387/hashtags_and_keywords_social_media_quick_search) - Tool of the buttons for quick search keywords ans hashtags in 70 different social media platforms
 - [sharatsachin/ytplaylist-len](https://github.com/sharatsachin/ytplaylist-len) - A small web app to get the lengths of playlists on YouTube
 - [tb0hdan/domains](https://github.com/tb0hdan/domains) - World’s single largest Internet domains dataset
@@ -440,6 +441,14 @@
 
 ## JavaScript 
 
+- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.
+- [forwardemail/wildduck](https://github.com/forwardemail/wildduck) - Opinionated email server
+- [forwardemail/authheaders](https://github.com/forwardemail/authheaders) - Node.js wrapper around the Python pip package authheaders exposing a function to generate Authentication-Results headers
+- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (browser/iOS Simulator), and send custom email templates for Node.js.  Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
+- [forwardemail/reserved-email-addresses-list](https://github.com/forwardemail/reserved-email-addresses-list) - List of 1250+ generic, admin, mailer-daemon, and no-reply usernames reserved for security concerns.  Made for @forwardemail.
+- [shyamtawli/devFind](https://github.com/shyamtawli/devFind) - devFind is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.
+- [squad303/squad303app](https://github.com/squad303/squad303app) - 
+- [venukbh/http-tracker](https://github.com/venukbh/http-tracker) - 
 - [forwardemail/dkimpy](https://github.com/forwardemail/dkimpy) - Node.js wrapper around the Python pip package dkimpy exposing DKIM and ARC signing and verification functions
 - [cjihrig/swagger-jacker](https://github.com/cjihrig/swagger-jacker) - Express API documentation generator
 - [ia-stepanov/autosend-letters-hh](https://github.com/ia-stepanov/autosend-letters-hh) - AutoSend Letters HeadHunter — это скрипт для автоматической отправки откликов на HeadHunter (hh).
@@ -872,6 +881,8 @@
 
 ## Python 
 
+- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Effort free video editing!
+- [nolze/msoffcrypto-tool](https://github.com/nolze/msoffcrypto-tool) - Python tool and library for decrypting and encrypting MS Office files using passwords or other keys
 - [machine1337/gmailc2](https://github.com/machine1337/gmailc2) - A Fully Undetectable C2 Server That Communicates Via Google SMTP to evade Antivirus Protections and Network Traffic Restrictions
 - [Douile/pydns](https://github.com/Douile/pydns) - A fully python dns server
 - [chenjj/espoofer](https://github.com/chenjj/espoofer) - An email spoofing testing tool that aims to bypass SPF/DKIM/DMARC and forge DKIM signatures.🍻
@@ -1132,7 +1143,7 @@
 - [puzzlepeaches/msprobe](https://github.com/puzzlepeaches/msprobe) - Finding all things on-prem Microsoft for password spraying and enumeration.
 - [dievus/msdorkdump](https://github.com/dievus/msdorkdump) - Google Dork File Finder
 - [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) - 👨‍💼Linkedin API for Python
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering OSINT on GitHub entities.
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - GitHub Data Analysis Framework.
 - [iojw/socialscan](https://github.com/iojw/socialscan) - Python library for accurately querying username and email usage on online platforms
 - [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot
 - [kutoga/yapsl](https://github.com/kutoga/yapsl) - Yet another python sms library
@@ -1309,7 +1320,7 @@
 - [ageitgey/image_to_numpy](https://github.com/ageitgey/image_to_numpy) - Load an image file into a numpy array with Exif orientation support. Prevents upside-down and sideways images!
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [sergey-scat/unicaps](https://github.com/sergey-scat/unicaps) - A unified Python API for CAPTCHA solving services.
-- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - OSINT automation for hackers.
+- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
 - [dialect-app/dialect](https://github.com/dialect-app/dialect) - A translation app for GNOME.
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [oarriaga/face_classification](https://github.com/oarriaga/face_classification) - Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.
@@ -1529,7 +1540,7 @@
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) - Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Security Numbers and a lot More From Text
-- [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum secure VPN that uses WireGuard to transport the actual data.
+- [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -1563,6 +1574,7 @@
 
 ## Shell 
 
+- [raoshaab/Pen-Andro](https://github.com/raoshaab/Pen-Andro) - Script to Automate installtion of Apps ,frida server and moving Burpsuite certificate to root folder
 - [emrekybs/AD-AssessmentKit](https://github.com/emrekybs/AD-AssessmentKit) - Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, 
 - [A3h1nt/Dnsrr](https://github.com/A3h1nt/Dnsrr) - DNSrr is a tool written in bash, used to enumerate all the juicy stuff from DNS.
 - [rohsec/Uncomment](https://github.com/rohsec/Uncomment) - A Powerful tool to fetch all the comments from the supplied URL's
@@ -1649,6 +1661,7 @@
 - [GONZOsint/WhatCMS](https://github.com/GONZOsint/WhatCMS) - CMS Detection and Exploit Kit based on Whatcms.org API
 - [Coordinate-Cat/osint-tools-cli](https://github.com/Coordinate-Cat/osint-tools-cli) - This is a cli version of the cheat sheet for easy access. It can be navigated without using commands.
 - [cipher387/grep_for_osint](https://github.com/cipher387/grep_for_osint) - GREP FOR OSINT is a set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails 
+- [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [harshnandwana/hussh](https://github.com/harshnandwana/hussh) - a script that  is fairly reliable for web OSINT
 - [IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) - The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread f
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
@@ -1718,7 +1731,7 @@
 - [diego3g/rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire: (under development)
 - [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂
 - [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown
-- [fingerprintjs/BotD](https://github.com/fingerprintjs/BotD) - Bot detection library that runs in the browser. Detects automation tools and frameworks. No server required, runs 100% on the client.
+- [fingerprintjs/BotD](https://github.com/fingerprintjs/BotD) - Bot detection library that runs in the browser. Detects automation tools and frameworks. No server required, runs 100% on the client. MIT license, no usage restrictions.
 - [igdownloader/InstagramDownloader](https://github.com/igdownloader/InstagramDownloader) - Firefox and Chrome Extention which creates an download button for instagram images and videos and videos
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
