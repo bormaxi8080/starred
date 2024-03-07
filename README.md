@@ -41,7 +41,6 @@
 - [PowerShell](#powershell)
 - [Python](#python)
 - [R](#r)
-- [Reason](#reason)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -132,6 +131,7 @@
 
 ## C# # 
 
+- [moom825/xeno-rat](https://github.com/moom825/xeno-rat) - Xeno-RAT is an open-source remote access tool (RAT) developed in C#, providing a comprehensive set of features for remote system management. Has features such as HVNC, live microphone, reverse proxy, 
 - [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
 - [YOLOP0wn/POSTDump](https://github.com/YOLOP0wn/POSTDump) - 
 - [Squalr/Squalr](https://github.com/Squalr/Squalr) - Squalr Memory Editor - Game Hacking Tool Written in C#
@@ -146,6 +146,7 @@
 
 ## C++ 
 
+- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [mingodad/poppler](https://github.com/mingodad/poppler) - A fork of Poppler pdf library
 - [florylsk/ExecIT](https://github.com/florylsk/ExecIT) - Execute shellcode files with rundll32
 - [archercreat/titan](https://github.com/archercreat/titan) - Titan is a VMProtect devirtualizer
@@ -210,6 +211,9 @@
 
 ## Go 
 
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
+- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+- [byt3hx/jsleak](https://github.com/byt3hx/jsleak) - jsleak is a tool to find secret , paths or links in the source code during the recon.
 - [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [sw33tLie/bbscope](https://github.com/sw33tLie/bbscope) - Scope gathering tool for HackerOne, Bugcrowd, Intigriti, YesWeHack, and Immunefi!
@@ -220,7 +224,7 @@
 - [emqx/mqtt-security-scanner](https://github.com/emqx/mqtt-security-scanner) - MQTT Security Scanner
 - [nickvourd/Supernova](https://github.com/nickvourd/Supernova) - Real fucking shellcode encryption tool
 - [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) - Navigate the CVE jungle with ease.
-- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396
+- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and the IETF draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [jonaslu/ain](https://github.com/jonaslu/ain) - A HTTP API client for the terminal
 - [dub-flow/sessionprobe](https://github.com/dub-flow/sessionprobe) - SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a l
 - [crissyfield/troll-a](https://github.com/crissyfield/troll-a) - Drill into WARC web archives
@@ -355,7 +359,7 @@
 - [IntelligenceX/fileconversion](https://github.com/IntelligenceX/fileconversion) - A Go library to convert various file formats to plaintext and provide related functions
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
 - [Josue87/AnalyticsRelationships](https://github.com/Josue87/AnalyticsRelationships) - Get related domains / subdomains by looking at Google Analytics IDs
-- [j3ssie/metabigor](https://github.com/j3ssie/metabigor) - OSINT tools and more but without API ke
+- [j3ssie/metabigor](https://github.com/j3ssie/metabigor) - OSINT tools and more but without API key
 - [mat/besticon](https://github.com/mat/besticon) - Favicon service written in Go
 - [lauripiispanen/most-active-github-users-counter](https://github.com/lauripiispanen/most-active-github-users-counter) - CLI tool that queries the GitHub GraphQL API for users and ranks them according to number of contributions
 - [gwen001/github-subdomains](https://github.com/gwen001/github-subdomains) - Find subdomains on GitHub.
@@ -384,6 +388,7 @@
 - [seintpl/osint](https://github.com/seintpl/osint) - Useful OSINT hints and links
 - [hrbrmstr/account-analysis](https://github.com/hrbrmstr/account-analysis) - Twitter account analysis
 - [ustayready/CredSniper](https://github.com/ustayready/CredSniper) - CredSniper is a phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.
+- [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
 - [micro-joan/D4TA-HUNTER](https://github.com/micro-joan/D4TA-HUNTER) - GUI Osint Framework with Kali Linux
 - [roottusk/vapi](https://github.com/roottusk/vapi) - vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios through Exercises.
 - [D4Vinci/EagleEye](https://github.com/D4Vinci/EagleEye) - A host-based IDS and network monitoring system (My graduation project)
@@ -494,7 +499,6 @@
 - [Johnng007/Live-Forensicator](https://github.com/Johnng007/Live-Forensicator) - Powershell Script to aid Incidence Response and Live Forensics |  Bash Script for MacOS Live Forensics and Incidence Response
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [narrowtux/userscripts](https://github.com/narrowtux/userscripts) - various browser userscripts for grease/tapermonkey extensions
-- [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
 - [bormaxi8080/fb-group-users-parser](https://github.com/bormaxi8080/fb-group-users-parser) - Facebook Group Users Parser written on Node.js
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp
 - [SecurityRAT/SecurityRAT](https://github.com/SecurityRAT/SecurityRAT) - OWASP SecurityRAT (version 1.x) - Tool for handling security requirements in development
@@ -605,6 +609,9 @@
 
 ## Jupyter Notebook 
 
+- [dhuynh95/LaVague](https://github.com/dhuynh95/LaVague) - Text2Action AI to automate browser interaction
+- [spyboy-productions/Valid8Proxy](https://github.com/spyboy-productions/Valid8Proxy) - Tool designed for fetching, validating, and storing working proxies.
+- [spyboy-productions/CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) - Uncover the true IP address of websites safeguarded by Cloudflare & Others
 - [MadryLab/photoguard](https://github.com/MadryLab/photoguard) - Raising the Cost of Malicious AI-Powered Image Editing
 - [projectmesadata/armedconflict](https://github.com/projectmesadata/armedconflict) - Creates a data pipeline from the Armed Conflict Location Event Data (ACLED) with the intent that users can obtain data to validate conflict models.
 - [heltmulig/acled-project](https://github.com/heltmulig/acled-project) - 
@@ -663,6 +670,7 @@
 ## OCaml 
 
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 
 ## Objective-C 
 
@@ -693,7 +701,7 @@
 - [cyb3rxp/awesome-soc](https://github.com/cyb3rxp/awesome-soc) - A collection of sources of documentation, as well as field best practices, to build/run a SOC
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [MFMokbel/Crawlector](https://github.com/MFMokbel/Crawlector) - Crawlector is a threat hunting framework designed for scanning websites for malicious objects.
-- [Gautamshahi/2023-Israel-Hamas-war](https://github.com/Gautamshahi/2023-Israel-Hamas-war) - A repository of fact-checked and social media data on 2023 Israel–Hamas war
+- [Gautamshahi/WarClaim](https://github.com/Gautamshahi/WarClaim) - A repository of fact-checked and social media data on 2023 Israel–Hamas war
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [Dutchosintguy/keywords-highlight-bookmark](https://github.com/Dutchosintguy/keywords-highlight-bookmark) - Browser Bookmark that will ask for keyword(s) and then color highlight these words on the webpage you visit
@@ -865,6 +873,7 @@
 
 ## PHP 
 
+- [AndrewPaglusch/FlashPaper](https://github.com/AndrewPaglusch/FlashPaper) - One-time encrypted password/secret sharing
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
 - [drwetter/SecLists](https://github.com/drwetter/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [chris-koch-penn/gpt3_security_vulnerability_scanner](https://github.com/chris-koch-penn/gpt3_security_vulnerability_scanner) - GPT-3 found hundreds of security vulnerabilities in this repo
@@ -909,11 +918,18 @@
 
 ## Python 
 
+- [InfoSecInnovations/concierge](https://github.com/InfoSecInnovations/concierge) - Repo for Concierge AI dev work
+- [xaitax/SploitScan](https://github.com/xaitax/SploitScan) - SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.
+- [lukestanley/ChillTranslator](https://github.com/lukestanley/ChillTranslator) - Goal: Automatically detoxify spicy comments while preserving key points
+- [dotvignesh/CmdF](https://github.com/dotvignesh/CmdF) - 
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+- [TheRook/subbrute](https://github.com/TheRook/subbrute) - A DNS meta-query spider that enumerates DNS records, and subdomains.
+- [sAjibuu/Upload_Bypass](https://github.com/sAjibuu/Upload_Bypass) - A simple tool for bypassing file upload restrictions.
+- [mrwadams/attackgen](https://github.com/mrwadams/attackgen) - AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&CK framework. The tool generates tailored incident respons
 - [Welding-Torch/Excel-Anonymizer](https://github.com/Welding-Torch/Excel-Anonymizer) - A Python script that anonymizes an Excel file and synthesizes new data in its place.
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [devanshbatham/Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) - A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference
 - [sanjai-AK47/Subdominator](https://github.com/sanjai-AK47/Subdominator) - SubDominator helps you discover subdomains associated with a target domain efficiently and with minimal impact for your Bug Bounty
-- [spyboy-productions/Valid8Proxy](https://github.com/spyboy-productions/Valid8Proxy) - Tool designed for fetching, validating, and storing working proxies.
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [koutto/web-brutator](https://github.com/koutto/web-brutator) - Fast Modular Web Interfaces Bruteforcer
 - [yuzutas0/sel2pup](https://github.com/yuzutas0/sel2pup) - The converter from Selenium IDE to Puppeteer
@@ -944,12 +960,11 @@
 - [HalilDeniz/Dosinator](https://github.com/HalilDeniz/Dosinator) - DoSinator is a powerful Denial of Service (DoS) testing tool developed in Python.
 - [ghostop14/skytrack](https://github.com/ghostop14/skytrack) - Solar System Planet/Moon Tracker That Interfaces With GQRX, GNURadio, SDRSharp, and Hamlib Rotors
 - [pixelbubble/ProtOSINT](https://github.com/pixelbubble/ProtOSINT) - ProtOSINT is a Python script that helps you investigate Protonmail accounts and ProtonVPN IP addresses
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [dchrastil/ScrapedIn](https://github.com/dchrastil/ScrapedIn) - A tool to scrape LinkedIn without API restrictions for data reconnaissance
 - [ajuelosemmanuel/duolingOSINT](https://github.com/ajuelosemmanuel/duolingOSINT) - Gather information about a Duolingo user
 - [Krypteria/Seekolver](https://github.com/Krypteria/Seekolver) - Seekolver is a tool focused on attack-surface mapping. It performs searches for subdomains associated with root domains and root domains associated with organisations using open sources, additionally,
 - [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
-- [spyboy-productions/CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) - Uncover the true IP address of websites safeguarded by Cloudflare & Others
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
 - [Josue87/MetaFinder](https://github.com/Josue87/MetaFinder) - Search for documents in a domain through Search Engines (Google, Bing and Baidu). The objective is to extract metadata
 - [bhavsec/reconspider](https://github.com/bhavsec/reconspider) - 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
@@ -977,7 +992,6 @@
 - [nezhar/updatable](https://github.com/nezhar/updatable) - Finds packages that require updates on a python environment
 - [nezhar/speech-condenser](https://github.com/nezhar/speech-condenser) - A tool for summarizing dialogues from videos or audio
 - [gotr00t0day/Gsec](https://github.com/gotr00t0day/Gsec) - Web Security Scanner
-- [anil-yelken/Vulnerable-Soap-Service](https://github.com/anil-yelken/Vulnerable-Soap-Service) - Erlik - Vulnerable Soap Service
 - [xaitax/PatchaPalooza](https://github.com/xaitax/PatchaPalooza) - A comprehensive tool that provides an insightful analysis of Microsoft's monthly security updates.
 - [hmaverickadams/autoNTDS](https://github.com/hmaverickadams/autoNTDS) - autoNTDS is an automation script designed to simplify the process of dumping and cracking NTDS hashes using secretsdump.py and hashcat
 - [agrawalsmart7/scodescanner](https://github.com/agrawalsmart7/scodescanner) - SCodeScanner stands for Source Code scanner where the user can scans the source code for finding the Critical Vulnerabilities.
@@ -1027,7 +1041,7 @@
 - [ecthros/pina-colada](https://github.com/ecthros/pina-colada) - A powerful and extensible wireless drop box
 - [jpotts18/stylometry](https://github.com/jpotts18/stylometry) - A Stylometry Library for Python
 - [franckferman/MetaDetective](https://github.com/franckferman/MetaDetective) - 🕵️ Unleash Metadata Intelligence with MetaDetective. Your Assistant Beyond Metagoofil.
-- [xnl-h4ck3r/waymore](https://github.com/xnl-h4ck3r/waymore) - Find way more from the Wayback Machine!
+- [xnl-h4ck3r/waymore](https://github.com/xnl-h4ck3r/waymore) - Find way more from the Wayback Machine, Common Crawl, Alien Vault OTX, URLScan & VirusTotal!
 - [fuckwbored/fishsec](https://github.com/fuckwbored/fishsec) - 
 - [tand826/vid2img](https://github.com/tand826/vid2img) - Extract frames from a video.
 - [acnsoft/404Frame](https://github.com/acnsoft/404Frame) - 404 Frame has most tools for infiltrating a website. In this way, no time is wasted! Unlike most software, we wanted to give 404 Frame a different terminal feel. So what are the commands? We didn’t wa
@@ -1538,10 +1552,6 @@
 
 - [cran/acled.api](https://github.com/cran/acled.api) - :exclamation: This is a read-only mirror of the CRAN R package repository.  acled.api — Automated Retrieval of ACLED Conflict Event Data. Homepage: &lt;https://gitlab.com/chris-dworschak/acled.api&gt;
 
-## Reason 
-
-- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
-
 ## Roff 
 
 - [oliverkwebb/ytmpv](https://github.com/oliverkwebb/ytmpv) - YouTube MPV - A dmenu script for quick loading of URL's with mpv
@@ -1577,6 +1587,7 @@
 
 ## Rust 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - 🦀 | RustRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Rust programming language. (In Construction)
 - [fuzztruction/fuzztruction](https://github.com/fuzztruction/fuzztruction) - 
@@ -1629,6 +1640,7 @@
 
 ## Shell 
 
+- [error-try-again/UbuntuHardeningFramework](https://github.com/error-try-again/UbuntuHardeningFramework) - Automated Hardening Framework for Ubuntu
 - [A3h1nt/gimmeSH](https://github.com/A3h1nt/gimmeSH) - For pentesters who don't wanna leave their terminals.
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 - [pry0cc/axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
@@ -1692,7 +1704,7 @@
 - [Gakhramanzode/Airflow](https://github.com/Gakhramanzode/Airflow) - Bash-скрипт по установке Airflow
 - [keerok/InploitEye](https://github.com/keerok/InploitEye) - 
 - [bing0o/SubEnum](https://github.com/bing0o/SubEnum) - bash script for Subdomain Enumeration
-- [lefayjey/linWinPwn](https://github.com/lefayjey/linWinPwn) - linWinPwn is a bash script that automates a number of Active Directory Enumeration and Vulnerability checks
+- [lefayjey/linWinPwn](https://github.com/lefayjey/linWinPwn) - linWinPwn is a bash script that streamlines the use of a number of Active Directory tools
 - [OffXec/Samurai](https://github.com/OffXec/Samurai) - Samurai Email Discovery - SED is a email discovery framework that grabs emails via google dork, company name, or domain name.
 - [vaniacer/sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) - Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
@@ -1756,6 +1768,10 @@
 
 ## TypeScript 
 
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+- [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
+- [bufferhead-code/plain-sight](https://github.com/bufferhead-code/plain-sight) - A browser extension that allows you to use steganography based password images to log into accounts.
 - [rohitdhas/shittier](https://github.com/rohitdhas/shittier) - Shittier is an unconventional code formatting tool
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
 - [FacilMap/facilmap](https://github.com/FacilMap/facilmap) - A fully-featured OpenStreetMap-based map where markers and lines can be added with live collaboration.
