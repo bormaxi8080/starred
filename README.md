@@ -186,6 +186,8 @@
 - [Bafomet666/OSINT-SAN](https://github.com/Bafomet666/OSINT-SAN) - OSINT-SAN Framework дает возможность быстро находить информацию и деанонимизировать пользователей сети интернет.
 - [cipher387/osintmap](https://github.com/cipher387/osintmap) - Worldwide map of OSINT tools. 614 services (cadastral maps, business registries, public transport maps, passengers lists, venicle information).
 - [abhijithb200/investigator](https://github.com/abhijithb200/investigator) - An online handy-recon tool
+- [cipher387/pastebinsearchengines](https://github.com/cipher387/pastebinsearchengines) - 5 Google Custom Search Engines for searching in 48 pastebin sites
+- [cipher387/code_repository_google_custom_search_engines](https://github.com/cipher387/code_repository_google_custom_search_engines) - Google Custom Search Engines for searching in code repositories
 
 ## Clojure 
 
@@ -213,6 +215,8 @@
 
 ## Go 
 
+- [cmars/onionpipe](https://github.com/cmars/onionpipe) - Onion addresses for anything.
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt version manager
 - [enriquebris/gobetafaceapi](https://github.com/enriquebris/gobetafaceapi) - Betaface API GOlang client - face detection and face recognition API
 - [meehow/privtracker](https://github.com/meehow/privtracker) - Private BitTorrent tracker generator
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -428,8 +432,6 @@
 - [sharatsachin/ytplaylist-len](https://github.com/sharatsachin/ytplaylist-len) - A small web app to get the lengths of playlists on YouTube
 - [tb0hdan/domains](https://github.com/tb0hdan/domains) - World’s single largest Internet domains dataset
 - [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io) - So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
-- [cipher387/pastebinsearchengines](https://github.com/cipher387/pastebinsearchengines) - 5 Google Custom Search Engines for searching in 48 pastebin sites
-- [cipher387/code_repository_google_custom_search_engines](https://github.com/cipher387/code_repository_google_custom_search_engines) - Google Custom Search Engines for searching in code repositories
 - [one-plus/one-plus.github.com](https://github.com/one-plus/one-plus.github.com) - 
 - [bellingcat/twitter-geocode-searches](https://github.com/bellingcat/twitter-geocode-searches) - Analysis for "Geofenced Searches on Twitter: A Case Study Detailing South Asia’s Covid Crisis", published on May 19, 2021.
 - [bellingcat/tiktok-timestamp](https://github.com/bellingcat/tiktok-timestamp) - A tiny client side tool that retrieves the timestamp from Tiktok videos.
@@ -445,6 +447,7 @@
 
 ## Java 
 
+- [cmars/snyk-security-scanner-plugin](https://github.com/cmars/snyk-security-scanner-plugin) - Test and monitor your projects for vulnerabilities with Jenkins. This plugin is officially maintained by Snyk.
 - [MrNeuronix/BetaFace](https://github.com/MrNeuronix/BetaFace) - Java API to BetaFace.com
 - [apache/activemq](https://github.com/apache/activemq) - Mirror of Apache ActiveMQ
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
@@ -601,7 +604,7 @@
 - [KernelPan1k/google-dork-builder](https://github.com/KernelPan1k/google-dork-builder) - Make Google Dork with firefox addon :mag:
 - [lettapp/ytcs](https://github.com/lettapp/ytcs) - Chrome extension to easily search youtube comments.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~1 YouTube / Video Web-Extension] Enrich your experience & choice! 🧰100+ clever features📌set & forget📌Longest-standing (yet rare & tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content di
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~1 open YouTube / Video Web-Extension] Enrich your experience & choice! 🧰100+ clever features📌set & forget📌Longest-standing (yet rare & tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|conte
 - [facundoolano/google-play-scraper](https://github.com/facundoolano/google-play-scraper) - Node.js scraper to get data from Google Play
 - [ericyd/gdrive-copy](https://github.com/ericyd/gdrive-copy) - Web app to copy a Google Drive folder
 - [willin/github-trending](https://github.com/willin/github-trending) - :octocat: Github Daily Trending Archives
@@ -621,6 +624,7 @@
 
 ## Jupyter Notebook 
 
+- [aGIToz/PiSegment](https://github.com/aGIToz/PiSegment) - A light weight python software for semi-supervised segmentation on images.
 - [spyboy-productions/Valid8Proxy](https://github.com/spyboy-productions/Valid8Proxy) - Tool designed for fetching, validating, and storing working proxies.
 - [spyboy-productions/CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) - Uncover the true IP address of websites safeguarded by Cloudflare & Others
 - [MadryLab/photoguard](https://github.com/MadryLab/photoguard) - Raising the Cost of Malicious AI-Powered Image Editing
@@ -698,6 +702,7 @@
 
 ## Others 
 
+- [Gentleflow/Airclap](https://github.com/Gentleflow/Airclap) - Send any file to any device. cross platform, ultra fast and easy to use. 任何文件，任意设备，随意发送。简单好用的跨平台高速文件传输APP
 - [arkadiyt/bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
 - [xxgrunge/armitage](https://github.com/xxgrunge/armitage) - Armitage
 - [mediazona/data-wanted](https://github.com/mediazona/data-wanted) - Data for research of the Russian wanted list
@@ -725,7 +730,7 @@
 - [OSINT-mindset/osint-cases-ru](https://github.com/OSINT-mindset/osint-cases-ru) - Решения различных OSINT-задач / OSINT tasks writeups in Russian
 - [OSINT-mindset/vk-osint-ru](https://github.com/OSINT-mindset/vk-osint-ru) - Набор инструментов для OSINT в VKontakte. Основано на материалах Rawrdcore
 - [ranlo/OSINT-Tools-Israel](https://github.com/ranlo/OSINT-Tools-Israel) - Websites and tools for OSINT investigations pertaining to Israel
-- [bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline) - bormaxi8080 OSINT timeline with collection of tools, services and investigations
+- [bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline) - bormaxi8080 OSINT timeline weekly newseletter with collection of tools, services and investigations
 - [sgxgsx/osint-tools](https://github.com/sgxgsx/osint-tools) - OSINT open-source tools catalog
 - [osintbrazuca/osint-brazuca](https://github.com/osintbrazuca/osint-brazuca) - Repositório criado com intuito de reunir informações, fontes(websites/portais) e tricks de OSINT dentro do contexto Brasil.
 - [adrianlois/DFIR-Detection-Engineering](https://github.com/adrianlois/DFIR-Detection-Engineering) - Digital Forensics Incident Response and Detection engineering: Análisis forense de artefactos comunes y no tan comunes. Técnicas anti-forense y detección de técnicas utilizadas por actores maliciosos 
@@ -931,6 +936,11 @@
 
 ## Python 
 
+- [chiasmod0n/chiasmodon](https://github.com/chiasmod0n/chiasmodon) - Chiasmodon is an OSINT  tool designed to assist in the process of gathering information about a target domain. Its primary functionality revolves around searching for domain-related data, including do
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+- [sixhobbits/unisteg](https://github.com/sixhobbits/unisteg) - 
+- [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
+- [AbanteAI/rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli
 - [thinkst/opencanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot
 - [Skyvern-AI/wyvern](https://github.com/Skyvern-AI/wyvern) - 
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
@@ -1609,6 +1619,9 @@
 
 ## Rust 
 
+- [Twometer/hyperbacked](https://github.com/Twometer/hyperbacked) - 🔐 Superbacked, but in Rust
+- [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
@@ -1663,6 +1676,7 @@
 
 ## Shell 
 
+- [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [error-try-again/UbuntuHardeningFramework](https://github.com/error-try-again/UbuntuHardeningFramework) - Automated Hardening Framework for Ubuntu
 - [A3h1nt/gimmeSH](https://github.com/A3h1nt/gimmeSH) - For pentesters who don't wanna leave their terminals.
@@ -1792,6 +1806,7 @@
 
 ## TypeScript 
 
+- [hrishioa/lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
 - [classvsoftware/under-new-management](https://github.com/classvsoftware/under-new-management) - Detect when your installed extensions have changed owners.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
