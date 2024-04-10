@@ -27,6 +27,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nim](#nim)
@@ -75,6 +76,8 @@
 
 ## C 
 
+- [el3xyz/wireguard-linux-compat](https://github.com/el3xyz/wireguard-linux-compat) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-linux-compat
+- [astier/xhidecursor](https://github.com/astier/xhidecursor) - Minimal X-application which hides the cursor on key-press and unhides it on mouse-movement efficiently.
 - [spinkham/skipfish](https://github.com/spinkham/skipfish) - Web application security scanner created by lcamtuf for google - Unofficial Mirror
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
@@ -217,6 +220,9 @@
 
 ## Go 
 
+- [gvcgo/asciinema](https://github.com/gvcgo/asciinema) - 🔥🎨 ⚡️📝A cross-platform asciinema(v2) terminal session recorder for MacOS/Linux/Windows. Currently a better choice than the official one.
+- [caio-ishikawa/netscout](https://github.com/caio-ishikawa/netscout) - OSINT tool that finds domains, subdomains, directories, endpoints and files for a given seed URL.
+- [vmorganp/Lazytainer](https://github.com/vmorganp/Lazytainer) - Docker container lazy loading
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data  data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
 - [umlx5h/gtrash](https://github.com/umlx5h/gtrash) - A Featureful Trash CLI manager: alternative to rm and trash-cli
@@ -227,7 +233,7 @@
 - [meehow/privtracker](https://github.com/meehow/privtracker) - Private BitTorrent tracker generator
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [piaolin/DetectDee](https://github.com/piaolin/DetectDee) - DetectDee: Hunt down social media accounts by username, email or phone across social networks.
-- [micr0-dev/lexido](https://github.com/micr0-dev/lexido) - A terminal assistant, powered by Gemini
+- [micr0-dev/lexido](https://github.com/micr0-dev/lexido) - A terminal assistant, powered by Generative AI
 - [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps.
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
@@ -371,7 +377,6 @@
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [SteelPangolin/go-ndbm](https://github.com/SteelPangolin/go-ndbm) - NDBM support for Go. State of the art structured storage for 1986.
 - [DopplerHQ/cli](https://github.com/DopplerHQ/cli) - The official CLI for interacting with your Doppler secrets and configuration.
 - [IntelligenceX/fileconversion](https://github.com/IntelligenceX/fileconversion) - A Go library to convert various file formats to plaintext and provide related functions
@@ -484,6 +489,11 @@
 
 ## JavaScript 
 
+- [planetrenox/inzerosight](https://github.com/planetrenox/inzerosight) - Giving you the ability to generate invisible text that you can then use to communicate with or use for Canary traps. A browser extension + npm package for encoding zero width + encryption.
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
+- [dmotz/trystero](https://github.com/dmotz/trystero) - 🤝 Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, and Firebase
 - [princekhunt/privateping](https://github.com/princekhunt/privateping) - PrivatePing is a secure messaging application built on Python's Django framework, providing end-to-end encryption for messages exchanged between users.
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [bandundu/email-archiver](https://github.com/bandundu/email-archiver) - Email archiving tool with advanced search capabilities for IMAP/POP3 accounts (early development)
@@ -630,6 +640,7 @@
 
 ## Jupyter Notebook 
 
+- [mshumer/gpt-author](https://github.com/mshumer/gpt-author) - 
 - [aGIToz/PiSegment](https://github.com/aGIToz/PiSegment) - A light weight python software for semi-supervised segmentation on images.
 - [spyboy-productions/Valid8Proxy](https://github.com/spyboy-productions/Valid8Proxy) - Tool designed for fetching, validating, and storing working proxies.
 - [spyboy-productions/CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) - Uncover the true IP address of websites safeguarded by Cloudflare & Others
@@ -668,6 +679,10 @@
 - [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running) - CDN Up and Running - Building a CDN from Scratch to Learn about CDN, Nginx, Lua, Prometheus, Grafana, Load balancing, and Containers.
 - [vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
 - [scipag/vulscan](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE
+
+## MDX 
+
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 
 ## Makefile 
 
@@ -708,9 +723,10 @@
 
 ## Others 
 
+- [secfigo/Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Developme
 - [knassar702/awesome-linux-minimalism](https://github.com/knassar702/awesome-linux-minimalism) - awesome linux minimalism suggestions
 - [thecybertix/One-Liner-Collections](https://github.com/thecybertix/One-Liner-Collections) - This Repositories contains list of One Liners with Descriptions and Installation requirements
-- [Gentleflow/Airclap](https://github.com/Gentleflow/Airclap) - Send any file to any device. cross platform, ultra fast and easy to use. 任何文件，任意设备，随意发送。简单好用的跨平台高速文件传输APP
+- [Gentleflow/Airclap](https://github.com/Gentleflow/Airclap) - Send any file to any device. cross platform, ultra fast and easy to use. 传输快速稳定的同时，操作更简单、界面更好看、反馈更直观，让传文件也能很愉悦
 - [arkadiyt/bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
 - [xxgrunge/armitage](https://github.com/xxgrunge/armitage) - Armitage
 - [mediazona/data-wanted](https://github.com/mediazona/data-wanted) - Data for research of the Russian wanted list
@@ -897,6 +913,7 @@
 
 ## PHP 
 
+- [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
 - [waltergammarota/betaFace](https://github.com/waltergammarota/betaFace) - betaface.com API client in PHP
 - [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security
 - [AndrewPaglusch/FlashPaper](https://github.com/AndrewPaglusch/FlashPaper) - One-time encrypted password/secret sharing
@@ -933,6 +950,7 @@
 
 ## PowerShell 
 
+- [last-byte/PersistenceSniper](https://github.com/last-byte/PersistenceSniper) - Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. Official Twitter/X account @PersistSniper. Made with
 - [Leo4j/Amnesiac](https://github.com/Leo4j/Amnesiac) - Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist with lateral movement within Active Directory environments
 - [rmbolger/PwnedPassCheck](https://github.com/rmbolger/PwnedPassCheck) - Check passwords and hashes against the haveibeenpwned.com Pwned Passwords API using PowerShell
 - [nettitude/PoshC2](https://github.com/nettitude/PoshC2) - A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement.
@@ -944,7 +962,14 @@
 
 ## Python 
 
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models
+- [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, without GPU needed. The user can ask a question and the system will  make a multi engin
+- [bobbyiliev/101-linux-commands-ebook](https://github.com/bobbyiliev/101-linux-commands-ebook) - 101 Linux commands Open-source eBook
+- [Hillobar/Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
+- [NativeSensors/EyeGestures](https://github.com/NativeSensors/EyeGestures) - eye tracking software
+- [facebookresearch/audio2photoreal](https://github.com/facebookresearch/audio2photoreal) - Code and dataset for photorealistic Codec Avatars driven from audio
+- [hyperfield/yt-channel-downloader](https://github.com/hyperfield/yt-channel-downloader) - A Qt GUI app that makes it easy to download multiple videos at once from Youtube channels.
+- [juftin/browsr](https://github.com/juftin/browsr) - 🗂️ a pleasant file explorer in your terminal supporting all filesystems
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
 - [ghostop14/sparrow-wifi](https://github.com/ghostop14/sparrow-wifi) - Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [thomasjjj/Telegram-Snowball-Sampling](https://github.com/thomasjjj/Telegram-Snowball-Sampling) - The Telegram Snowball Sampling Tool is a Python-based utility designed for conducting snowball sampling to collect Telegram channels through forwards.
@@ -966,7 +991,7 @@
 - [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
 - [InfoSecInnovations/concierge](https://github.com/InfoSecInnovations/concierge) - Repo for Concierge AI dev work
 - [xaitax/SploitScan](https://github.com/xaitax/SploitScan) - SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.
-- [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Automate automation with Large Action Model framework
+- [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Copilot for web automation
 - [lukestanley/ChillTranslator](https://github.com/lukestanley/ChillTranslator) - Goal: Automatically detoxify spicy comments while preserving key points
 - [dotvignesh/CmdF](https://github.com/dotvignesh/CmdF) - 
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
@@ -1093,7 +1118,7 @@
 - [acnsoft/404Frame](https://github.com/acnsoft/404Frame) - 404 Frame has most tools for infiltrating a website. In this way, no time is wasted! Unlike most software, we wanted to give 404 Frame a different terminal feel. So what are the commands? We didn’t wa
 - [bellingcat/wayback-google-analytics](https://github.com/bellingcat/wayback-google-analytics) - A lightweight tool for scraping current and historic Google Analytics data
 - [r0oth3x49/ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
-- [iambluie/rainy](https://github.com/iambluie/rainy) - What's the weather? Aesthetic, minimalistic and customizable weather fetching tool.
+- [iambluie/rainy](https://github.com/iambluie/rainy) - Aesthetic, minimalistic and customizable weather fetching tool.
 - [An0nX/technowlogger_with_cryptor](https://github.com/An0nX/technowlogger_with_cryptor) - TechNowLogger is Windows/Linux Keylogger Generator which sends key-logs via email with other juicy target info
 - [emrekybs/Bryobio](https://github.com/emrekybs/Bryobio) - It was developed to speed up the processes of SOC Analysts during analysis
 - [dievus/lnkbomb](https://github.com/dievus/lnkbomb) - Malicious shortcut generator for collecting NTLM hashes from insecure file shares.
@@ -1162,7 +1187,7 @@
 - [skelsec/pypykatz](https://github.com/skelsec/pypykatz) - Mimikatz implementation in pure Python
 - [mamun-sec/NetDahar](https://github.com/mamun-sec/NetDahar) - A network logging tool that logs per process activities
 - [p0dalirius/GeoWordlists](https://github.com/p0dalirius/GeoWordlists) - GeoWordlists is a tool to generate wordlists of passwords containing cities at a defined distance around the client city.
-- [DeadS3c/Proxy](https://github.com/DeadS3c/Proxy) - Tool for search proxies
+- [deads3c/Proxy](https://github.com/deads3c/Proxy) - Tool for search proxies
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [ustayready/CredKing](https://github.com/ustayready/CredKing) - Password spraying using AWS Lambda for IP rotation
 - [ustayready/cloudgpt](https://github.com/ustayready/cloudgpt) - Vulnerability scanner for AWS customer managed policies using ChatGPT
@@ -1393,7 +1418,7 @@
 - [snekbeater/scrambpy](https://github.com/snekbeater/scrambpy) - Scramb.py is a region based JPEG Image Scrambler and Descrambler written in Python for End-to-End-Encrypted (E2EE) Image distribution through unaware channels.
 - [mikeyy/nonoCAPTCHA](https://github.com/mikeyy/nonoCAPTCHA) - An asynchronized Python library to automate solving ReCAPTCHA v2 using audio
 - [gildasio/h2t](https://github.com/gildasio/h2t) - h2t (HTTP Hardening Tool) scans a website and suggests security headers to apply
-- [atenreiro/opensquat](https://github.com/atenreiro/opensquat) - The openSquat project is an open-source solution for detecting domain look-alikes by searching for newly registered domains that might be impersonating other legit domains.
+- [atenreiro/opensquat](https://github.com/atenreiro/opensquat) - The openSquat is an open-source tool for detecting domain look-alikes by searching for newly registered domains that might be impersonating legit domains.
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
 - [essandess/isp-data-pollution](https://github.com/essandess/isp-data-pollution) - ISP Data Pollution to Protect Private Browsing History with Obfuscation
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
@@ -1692,6 +1717,8 @@
 
 ## Shell 
 
+- [NullArray/IntRec-Pack](https://github.com/NullArray/IntRec-Pack) - Intelligence and Reconnaissance Package/Bundle installer.
+- [0xcyberpj/tweet-machine](https://github.com/0xcyberpj/tweet-machine) - This tool can retrieve :  1.Deleted tweets and replies ,Even if The account is suspended  2 .Old bios and Timestamp of The tweets
 - [allen-munsch/bash-video](https://github.com/allen-munsch/bash-video) - bash cli video editing "suite" which ... just wraps ffmpeg
 - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
@@ -1823,6 +1850,7 @@
 
 ## TypeScript 
 
+- [tigrisdata-community/multi-modal-starter-kit](https://github.com/tigrisdata-community/multi-modal-starter-kit) - Multi-modal starter kit for AI video understanding and narration. Works with Ollama (Llava, bakllava), GPT-4v
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [floriandiud/facebook-group-members-scraper](https://github.com/floriandiud/facebook-group-members-scraper) - Facebook Group Members Extractor. Download Facebook group members in CSV.
 - [hrishioa/lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
@@ -1907,10 +1935,11 @@
 
 ## Visual Basic .NET 
 
-- [bellingcat/knewkarma](https://github.com/bellingcat/knewkarma) - Reddit Data Analysis Toolkit.
+- [bellingcat/knewkarma](https://github.com/bellingcat/knewkarma) - A Reddit Data Analysis Toolkit
 
 ## Vue 
 
+- [simulaiofficial/simulai](https://github.com/simulaiofficial/simulai) - simulai is a Notion-inspired open-source conversational survey builder.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [SpiritFour/whatsanalyze](https://github.com/SpiritFour/whatsanalyze) - Analyze your WhatsApp Chat in Seconds. Reveal insights & get statistics, while all data stays on your device.   No chat data is sent to a server it runs only locally in your browser.
 
