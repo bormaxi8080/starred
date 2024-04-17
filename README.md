@@ -136,6 +136,7 @@
 
 ## C# # 
 
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
 - [timo-reymann/UniLaunch](https://github.com/timo-reymann/UniLaunch) - Advanced universal autostart tool for use on Linux, MacOS and Windows.
 - [moom825/xeno-rat](https://github.com/moom825/xeno-rat) - Xeno-RAT is an open-source remote access tool (RAT) developed in C#, providing a comprehensive set of features for remote system management. Has features such as HVNC, live microphone, reverse proxy, 
 - [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
@@ -152,6 +153,8 @@
 
 ## C++ 
 
+- [ggerganov/ggmorse](https://github.com/ggerganov/ggmorse) - Morse code decoding library
+- [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [mingodad/poppler](https://github.com/mingodad/poppler) - A fork of Poppler pdf library
@@ -186,7 +189,6 @@
 - [Chudry/Xerror](https://github.com/Chudry/Xerror) - fully automated pentesting tool
 - [Aetsu/gethead](https://github.com/Aetsu/gethead) - HTTP Header Analysis Vulnerability Tool
 - [lvwzhen/ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Make ChatGPT like the Matrix.
-- [devXprite/Random-Quote-Generator](https://github.com/devXprite/Random-Quote-Generator) - This is a Simple Random Quote Generator.
 - [Bafomet666/Bigbro](https://github.com/Bafomet666/Bigbro) - Инструмент OSINT, для поиска людей перешедших по ссылке /радиус разброса 1-30 метров. Работает под kali linux and termux.  Есть бесплатная версия и premium.
 - [Bafomet666/OSINT-SAN](https://github.com/Bafomet666/OSINT-SAN) - OSINT-SAN Framework дает возможность быстро находить информацию и деанонимизировать пользователей сети интернет.
 - [cipher387/osintmap](https://github.com/cipher387/osintmap) - Worldwide map of OSINT tools. 614 services (cadastral maps, business registries, public transport maps, passengers lists, venicle information).
@@ -204,6 +206,7 @@
 
 ## Dart 
 
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - A Flutter frontend for quickget and quickemu.
@@ -220,6 +223,12 @@
 
 ## Go 
 
+- [gearnode/privatebin](https://github.com/gearnode/privatebin) - A powerful CLI for creating and managing PrivateBin pastes with ease
+- [SharokhAtaie/extractify](https://github.com/SharokhAtaie/extractify) - A tool for extract Endpoints, URLs and Secrets from contents
+- [eyewanai/tinyscope-gocert](https://github.com/eyewanai/tinyscope-gocert) - 
+- [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli) - A simple CLI tool to run networking commands remotely from hundreds of globally distributed servers
+- [Isan-Rivkin/route53-cli](https://github.com/Isan-Rivkin/route53-cli) - Route53 CLI - Get info about your  records from the terminal - quickly!
+- [nixys/nxs-backup](https://github.com/nixys/nxs-backup) - The tool for creating, delivering and rotating backups for GNU/Linux distributions.
 - [gvcgo/asciinema](https://github.com/gvcgo/asciinema) - 🔥🎨 ⚡️📝A cross-platform asciinema(v2) terminal session recorder for MacOS/Linux/Windows. Currently a better choice than the official one.
 - [caio-ishikawa/netscout](https://github.com/caio-ishikawa/netscout) - OSINT tool that finds domains, subdomains, directories, endpoints and files for a given seed URL.
 - [vmorganp/Lazytainer](https://github.com/vmorganp/Lazytainer) - Docker container lazy loading
@@ -489,6 +498,7 @@
 
 ## JavaScript 
 
+- [dikshantrajput/skip-yt-ad](https://github.com/dikshantrajput/skip-yt-ad) - The YouTube Skipper Chrome Extension is a handy tool designed to enhance your YouTube viewing experience by automatically skipping skippable ads. Say goodbye to those pesky ads that interrupt your vid
 - [planetrenox/inzerosight](https://github.com/planetrenox/inzerosight) - Giving you the ability to generate invisible text that you can then use to communicate with or use for Canary traps. A browser extension + npm package for encoding zero width + encryption.
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -640,9 +650,9 @@
 
 ## Jupyter Notebook 
 
+- [LinaYorda/mushroom-classification](https://github.com/LinaYorda/mushroom-classification) - This project aims to accurately classify mushrooms as either poisonous or non-poisonous using supervised machine learning techniques.
 - [mshumer/gpt-author](https://github.com/mshumer/gpt-author) - 
 - [aGIToz/PiSegment](https://github.com/aGIToz/PiSegment) - A light weight python software for semi-supervised segmentation on images.
-- [spyboy-productions/Valid8Proxy](https://github.com/spyboy-productions/Valid8Proxy) - Tool designed for fetching, validating, and storing working proxies.
 - [spyboy-productions/CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) - Uncover the true IP address of websites safeguarded by Cloudflare & Others
 - [MadryLab/photoguard](https://github.com/MadryLab/photoguard) - Raising the Cost of Malicious AI-Powered Image Editing
 - [projectmesadata/armedconflict](https://github.com/projectmesadata/armedconflict) - Creates a data pipeline from the Armed Conflict Location Event Data (ACLED) with the intent that users can obtain data to validate conflict models.
@@ -666,7 +676,7 @@
 - [amnezia-vpn/amneziawg-android](https://github.com/amnezia-vpn/amneziawg-android) - AmneziaWG for Android
 - [fabianonline/telegram_backup](https://github.com/fabianonline/telegram_backup) - Java app to download all your telegram data.
 - [markowanga/tweet-id-scrapper](https://github.com/markowanga/tweet-id-scrapper) - The service based on Selenium and Kotlin to scrap tweets by their ids
-- [x13a/Silence](https://github.com/x13a/Silence) - Block unknown callers.
+- [x13a/Silence](https://github.com/x13a/Silence) - Block unknown callers
 - [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - 1M+ downloads Linux reference app with basics, tips and formatted man pages
 - [Exodus-Privacy/exodus-android-app](https://github.com/Exodus-Privacy/exodus-android-app) - εxodus Android application
 - [k0kubun/gitstar-ranking](https://github.com/k0kubun/gitstar-ranking) - GitHub star ranking for users, organizations and repositories
@@ -723,10 +733,17 @@
 
 ## Others 
 
+- [m31r2701/reversing-unofficial-APIs](https://github.com/m31r2701/reversing-unofficial-APIs) - Resources for reverse engineering web and mobile apps for the specific purpose of discovering and using “unofficial APIs”
+- [fishttp/awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
+- [cqcore/Fact-Checking-Verification](https://github.com/cqcore/Fact-Checking-Verification) - Find helpful tools and resources to help you fact check and analyse, fake news and AI generated imagery.
+- [cipher387/cheatsheets](https://github.com/cipher387/cheatsheets) - High quality and text versions of cheat sheets from Cyber Detective Twitter
+- [valaDevs/nuclei-backupfile-finder](https://github.com/valaDevs/nuclei-backupfile-finder) - this nuclei template finds back up files
+- [h4x0r-dz/Leaked-Credentials](https://github.com/h4x0r-dz/Leaked-Credentials) - how to look for Leaked Credentials !
+- [CScorza/OSINTInvestigation](https://github.com/CScorza/OSINTInvestigation) - OSINTinvestigation - Tecniche OSINT - Strumenti - DeepWeb - Archivio
 - [secfigo/Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Developme
 - [knassar702/awesome-linux-minimalism](https://github.com/knassar702/awesome-linux-minimalism) - awesome linux minimalism suggestions
 - [thecybertix/One-Liner-Collections](https://github.com/thecybertix/One-Liner-Collections) - This Repositories contains list of One Liners with Descriptions and Installation requirements
-- [Gentleflow/Airclap](https://github.com/Gentleflow/Airclap) - Send any file to any device. cross platform, ultra fast and easy to use. 传输快速稳定的同时，操作更简单、界面更好看、反馈更直观，让传文件也能很愉悦
+- [Gentleflow/Airclap](https://github.com/Gentleflow/Airclap) - The best file transfer tool that is user-friendly, cross-platform, ultra-fast, and beautifully designed.    跨平台文件传输工具，现代设计、极速稳定、打开即用，让文件传输更愉悦
 - [arkadiyt/bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
 - [xxgrunge/armitage](https://github.com/xxgrunge/armitage) - Armitage
 - [mediazona/data-wanted](https://github.com/mediazona/data-wanted) - Data for research of the Russian wanted list
@@ -962,7 +979,12 @@
 
 ## Python 
 
-- [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, without GPU needed. The user can ask a question and the system will  make a multi engin
+- [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot
+- [x011/SecretPixel](https://github.com/x011/SecretPixel) - SecretPixel is a cutting-edge steganography tool designed to securely conceal sensitive information within images. It stands out in the realm of digital steganography by combining advanced encryption,
+- [Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR) - SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild
+- [shuque/pydig](https://github.com/shuque/pydig) - pydig: a DNS query tool written in Python
+- [shurutech/mql](https://github.com/shurutech/mql) - MQL tool is designed to generate SQL queries directly from natural language inputs.
+- [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a mult
 - [bobbyiliev/101-linux-commands-ebook](https://github.com/bobbyiliev/101-linux-commands-ebook) - 101 Linux commands Open-source eBook
 - [Hillobar/Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
 - [NativeSensors/EyeGestures](https://github.com/NativeSensors/EyeGestures) - eye tracking software
@@ -1002,6 +1024,7 @@
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [devanshbatham/Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) - A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference
 - [sanjai-AK47/Subdominator](https://github.com/sanjai-AK47/Subdominator) - SubDominator helps you discover subdomains associated with a target domain efficiently and with minimal impact for your Bug Bounty
+- [spyboy-productions/Valid8Proxy](https://github.com/spyboy-productions/Valid8Proxy) - Tool designed for fetching, validating, and storing working proxies.
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [koutto/web-brutator](https://github.com/koutto/web-brutator) - Fast Modular Web Interfaces Bruteforcer
 - [yuzutas0/sel2pup](https://github.com/yuzutas0/sel2pup) - The converter from Selenium IDE to Puppeteer
@@ -1081,6 +1104,7 @@
 - [m-bain/CondensedMovies](https://github.com/m-bain/CondensedMovies) - Story-Based Retrieval with Contextual Embeddings. Largest freely available movie video dataset. [ACCV'20]
 - [m-bain/pyannote-audio](https://github.com/m-bain/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
 - [hephaest0s/usbkill](https://github.com/hephaest0s/usbkill) - « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.
+- [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [m4n3dw0lf/pythem](https://github.com/m4n3dw0lf/pythem) - pentest framework
 - [mufeedvh/basecrack](https://github.com/mufeedvh/basecrack) - Decode All Bases - Base Scheme Decoder
 - [LiveGray/GIVINGSTORM](https://github.com/LiveGray/GIVINGSTORM) - Infection vector that bypasses AV, IDS, and IPS. (For now...)
@@ -1629,6 +1653,7 @@
 
 ## Ruby 
 
+- [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 - [jrm2194/betaface](https://github.com/jrm2194/betaface) - The unofficial ruby Gem of the Betaface API
 - [Carldeboer/AMUSED](https://github.com/Carldeboer/AMUSED) - Auditing Motifs Using Statistical Enrichment & Depletion
 - [arloan/prdns](https://github.com/arloan/prdns) - Purified DNS: a CDN friendly and anti-pollution DNS forwarder server that does not rely on GeoIP/GeoDomain db.
@@ -1850,6 +1875,8 @@
 
 ## TypeScript 
 
+- [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [tigrisdata-community/multi-modal-starter-kit](https://github.com/tigrisdata-community/multi-modal-starter-kit) - Multi-modal starter kit for AI video understanding and narration. Works with Ollama (Llava, bakllava), GPT-4v
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [floriandiud/facebook-group-members-scraper](https://github.com/floriandiud/facebook-group-members-scraper) - Facebook Group Members Extractor. Download Facebook group members in CSV.
@@ -1857,7 +1884,6 @@
 - [classvsoftware/under-new-management](https://github.com/classvsoftware/under-new-management) - Detect when your installed extensions have changed owners.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [bufferhead-code/plain-sight](https://github.com/bufferhead-code/plain-sight) - A browser extension that allows you to use steganography based password images to log into accounts.
 - [rohitdhas/shittier](https://github.com/rohitdhas/shittier) - Shittier is an unconventional code formatting tool
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
@@ -1939,7 +1965,7 @@
 
 ## Vue 
 
-- [simulaiofficial/simulai](https://github.com/simulaiofficial/simulai) - simulai is a Notion-inspired open-source conversational survey builder.
+- [simulaiofficial/simulai](https://github.com/simulaiofficial/simulai) - simulai is a Notion-inspired open-source and free conversational survey builder, powered by AI.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [SpiritFour/whatsanalyze](https://github.com/SpiritFour/whatsanalyze) - Analyze your WhatsApp Chat in Seconds. Reveal insights & get statistics, while all data stays on your device.   No chat data is sent to a server it runs only locally in your browser.
 
