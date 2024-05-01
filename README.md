@@ -48,6 +48,7 @@
 - [SCSS](#scss)
 - [Scala](#scala)
 - [Shell](#shell)
+- [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -272,7 +273,7 @@
 - [crissyfield/troll-a](https://github.com/crissyfield/troll-a) - Drill into WARC web archives
 - [volution/kawipiko](https://github.com/volution/kawipiko) - kawipiko -- blazingly fast static HTTP server -- focused on low latency and high concurrency, by leveraging Go, `fasthttp` and the CDB embedded database
 - [hakluke/haklistgen](https://github.com/hakluke/haklistgen) - Turns any junk text into a usable wordlist for brute-forcing.
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
+- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [kleiton0x00/ppmap](https://github.com/kleiton0x00/ppmap) - A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets.
 - [aydinnyunus/PassDetective](https://github.com/aydinnyunus/PassDetective) - PassDetective is a command-line tool that scans shell command history to detect mistakenly written passwords, API keys, and secrets. Using regular expressions, it helps prevent accidental exposure of 
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
@@ -303,7 +304,7 @@
 - [pion/stun](https://github.com/pion/stun) - A Go implementation of STUN
 - [Velocidex/velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
 - [Rohansjamadagni/lmt](https://github.com/Rohansjamadagni/lmt) - lmt is a cli program written in go that can be used to run applications with resource limits enforced using cgroupsv2
-- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
+- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [redhuntlabs/BucketLoot](https://github.com/redhuntlabs/BucketLoot) - BucketLoot is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exp
 - [ANG13T/SatIntel](https://github.com/ANG13T/SatIntel) - SatIntel is an OSINT tool for Satellites 🛰. Extract satellite telemetry, receive orbital predictions, and parse TLEs 🔭
 - [activecm/rita](https://github.com/activecm/rita) - Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
@@ -509,6 +510,8 @@
 
 ## JavaScript 
 
+- [IvanGlinkin/CCTV](https://github.com/IvanGlinkin/CCTV) - Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in rea
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [GoogleChromeLabs/chrome-for-testing](https://github.com/GoogleChromeLabs/chrome-for-testing) - 
 - [dikshantrajput/skip-yt-ad](https://github.com/dikshantrajput/skip-yt-ad) - The YouTube Skipper Chrome Extension is a handy tool designed to enhance your YouTube viewing experience by automatically skipping skippable ads. Say goodbye to those pesky ads that interrupt your vid
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
@@ -717,6 +720,7 @@
 
 ## Nim 
 
+- [nbaertsch/AutoAppDomainHijack](https://github.com/nbaertsch/AutoAppDomainHijack) - Automated .NET AppDomain hijack payload generation
 - [itaymigdal/LOLSpoof](https://github.com/itaymigdal/LOLSpoof) - An interactive shell to spoof some LOLBins command line
 - [itaymigdal/Nimbo-C2](https://github.com/itaymigdal/Nimbo-C2) - Nimbo-C2 is yet another (simple and lightweight) C2 framework
 
@@ -757,7 +761,7 @@
 - [secfigo/Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Developme
 - [knassar702/awesome-linux-minimalism](https://github.com/knassar702/awesome-linux-minimalism) - awesome linux minimalism suggestions
 - [thecybertix/One-Liner-Collections](https://github.com/thecybertix/One-Liner-Collections) - This Repositories contains list of One Liners with Descriptions and Installation requirements
-- [Gentleflow/Airclap](https://github.com/Gentleflow/Airclap) - The best file transfer tool that is user-friendly, cross-platform, ultra-fast, and beautifully designed.    跨平台文件传输工具，现代设计、极速稳定、打开即用，让文件在任意设备间自由发送
+- [Gentleflow/Airclap](https://github.com/Gentleflow/Airclap) - The best file transfer tool that is user-friendly, cross-platform, ultra-fast, and beautifully designed.
 - [arkadiyt/bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
 - [xxgrunge/armitage](https://github.com/xxgrunge/armitage) - Armitage
 - [mediazona/data-wanted](https://github.com/mediazona/data-wanted) - Data for research of the Russian wanted list
@@ -993,6 +997,17 @@
 
 ## Python 
 
+- [myshell-ai/AIlice](https://github.com/myshell-ai/AIlice) - A lightweight AI Agent
+- [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
+- [sharsil/mailcat](https://github.com/sharsil/mailcat) - Find existing email addresses by nickname using API/SMTP checking methods without user notification. Please, don't hesitate to improve cat's job! 🐱🔎 📬
+- [OWASP/OFFAT](https://github.com/OWASP/OFFAT) - The OWASP OFFAT tool autonomously assesses your API for prevalent vulnerabilities, though full compatibility with OAS v3 is pending. The project remains a work in progress, continuously evolving towar
+- [sarperavci/GoogleRecaptchaBypass](https://github.com/sarperavci/GoogleRecaptchaBypass) - Solve Google reCAPTCHA in less than 5 seconds! 🚀
+- [SaadAhla/dropper](https://github.com/SaadAhla/dropper) - Project that generates Malicious Office Macro Enabled Dropper for DLL SideLoading and Embed it in Lnk file to bypass MOTW
+- [n0mi1k/certina](https://github.com/n0mi1k/certina) - Certina is an OSINT tool for red teamers and bug hunters to discover subdomains from web certificate data
+- [login-securite/lsassy](https://github.com/login-securite/lsassy) - Extract credentials from lsass remotely
+- [AnonCatalyst/Ominis-Osint](https://github.com/AnonCatalyst/Ominis-Osint) - This Python script is an OSINT (Open Source Intelligence) tool called "Ominis OSINT - Secure Web-History Search." It performs online information gathering by querying Google for search results related
+- [ANG13T/skytrack](https://github.com/ANG13T/skytrack) - skytrack is a planespotting and aircraft OSINT tool made using Python 🛩🔍
+- [mnotgod96/AppAgent](https://github.com/mnotgod96/AppAgent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
 - [josh0xA/Pantheon](https://github.com/josh0xA/Pantheon) - Insecure Camera Parsing and Intelligence
 - [0x0be/yesitsme](https://github.com/0x0be/yesitsme) - Simple OSINT script to find Instagram profiles by name and e-mail/phone
 - [luijait/DarkGPT](https://github.com/luijait/DarkGPT) - DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your trad
@@ -1037,12 +1052,11 @@
 - [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
 - [InfoSecInnovations/concierge](https://github.com/InfoSecInnovations/concierge) - Repo for Concierge AI dev work
 - [xaitax/SploitScan](https://github.com/xaitax/SploitScan) - SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.
-- [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Copilot for web automation
+- [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to turn natural language into browser actions
 - [lukestanley/ChillTranslator](https://github.com/lukestanley/ChillTranslator) - Goal: Automatically detoxify spicy comments while preserving key points
 - [dotvignesh/CmdF](https://github.com/dotvignesh/CmdF) - 
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [TheRook/subbrute](https://github.com/TheRook/subbrute) - A DNS meta-query spider that enumerates DNS records, and subdomains.
-- [sAjibuu/Upload_Bypass](https://github.com/sAjibuu/Upload_Bypass) - A simple tool for bypassing file upload restrictions.
 - [mrwadams/attackgen](https://github.com/mrwadams/attackgen) - AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&CK framework. The tool generates tailored incident respons
 - [Welding-Torch/Excel-Anonymizer](https://github.com/Welding-Torch/Excel-Anonymizer) - A Python script that anonymizes an Excel file and synthesizes new data in its place.
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
@@ -1769,6 +1783,7 @@
 
 ## Shell 
 
+- [0xKayala/NucleiScanner](https://github.com/0xKayala/NucleiScanner) - NucleiScanner is a Powerful Automation tool for detecting Unknown Vulnerabilities in the Web Applications
 - [NullArray/IntRec-Pack](https://github.com/NullArray/IntRec-Pack) - Intelligence and Reconnaissance Package/Bundle installer.
 - [0xcyberpj/tweet-machine](https://github.com/0xcyberpj/tweet-machine) - This tool can retrieve :  1.Deleted tweets and replies ,Even if The account is suspended  2 .Old bios and Timestamp of The tweets
 - [allen-munsch/bash-video](https://github.com/allen-munsch/bash-video) - bash cli video editing "suite" which ... just wraps ffmpeg
@@ -1877,6 +1892,10 @@
 - [bormaxi8080/emergency-shutdown](https://github.com/bormaxi8080/emergency-shutdown) - Emergency shutdown shell script for Mac OS X
 - [bormaxi8080/nmap-scanner](https://github.com/bormaxi8080/nmap-scanner) - Nmap packet domain list scanner to find exploited vulnerabilities
 
+## Starlark 
+
+- [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
+
 ## Svelte 
 
 - [cupcakearmy/cryptgeon](https://github.com/cupcakearmy/cryptgeon) - cryptgeon is a secure, open source note / file sharing service inspired by PrivNote written in rust & svelte.
@@ -1902,6 +1921,8 @@
 
 ## TypeScript 
 
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+- [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [vernu/textbee](https://github.com/vernu/textbee) - textbee.dev is an opensource and free sms-gatway for sending SMS messages through API or dashboard web interface.
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [yakisova41/return-youtube-comment-username](https://github.com/yakisova41/return-youtube-comment-username) - This is to change the handle in the YouTube comments section to a username
