@@ -29,7 +29,9 @@ license_ = '''
 (https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [{username}](https://github.com/{username})\
- has waived all copyright and related or neighboring rights to this work.
+ has waived all copyright and related or neighboring rights to this work.\
+\
+WARNING! All tools, programs and techniques published in this article and repository are used for informational, educational purposes or for information security purposes. The authors are not responsible for the activities that users of these tools and techniques may carry out, and urge them not to use them to carry out harmful or destructive activities directed against other users or groups on the Internet.
 '''
 
 html_escape_table = {
