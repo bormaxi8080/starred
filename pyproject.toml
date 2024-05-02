@@ -3,9 +3,9 @@ name = "starred"
 version = "4.3.0"
 description = "creating your own Awesome List used GitHub stars!"
 authors = ["maguowei <imaguowei@gmail.com>"]
-homepage = "https://github.com/maguowei/starred"
-repository = "https://github.com/maguowei/starred"
-documentation = "https://github.com/maguowei/starred"
+homepage = "https://github.com/bormaxi8080/starred"
+repository = "https://github.com/bormaxi8080/starred"
+documentation = "https://github.com/bormaxi8080/starred"
 keywords = ["GitHub starred", "starred"]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
