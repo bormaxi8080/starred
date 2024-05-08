@@ -77,6 +77,7 @@
 
 ## C 
 
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
 - [rogxo/search](https://github.com/rogxo/search) - A series of methods used to detect kernel shellcode for tencent game safe race 2024
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [el3xyz/wireguard-linux-compat](https://github.com/el3xyz/wireguard-linux-compat) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-linux-compat
@@ -125,7 +126,7 @@
 - [thesourcerer8/hddsuperclone](https://github.com/thesourcerer8/hddsuperclone) - HDDSuperClone, HDDSuperTool
 - [xiph/rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/aarch64.
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [bol-van/zapret](https://github.com/bol-van/zapret) - Обход DPI в linux
@@ -139,6 +140,7 @@
 
 ## C# # 
 
+- [CCob/okta-terrify](https://github.com/CCob/okta-terrify) - Okta Verify and Okta FastPass Abuse Tool
 - [vvvv/Remoter](https://github.com/vvvv/Remoter) - GUI over PAExec and robocopy to remote a bunch of PCs at once
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
 - [timo-reymann/UniLaunch](https://github.com/timo-reymann/UniLaunch) - Advanced universal autostart tool for use on Linux, MacOS and Windows.
@@ -157,6 +159,7 @@
 
 ## C++ 
 
+- [tuna/QSerial](https://github.com/tuna/QSerial) - An advanced cross-platform serial port utility
 - [gappuser/qryptr](https://github.com/gappuser/qryptr) - Airgapped ECC text messenger
 - [ggerganov/ggmorse](https://github.com/ggerganov/ggmorse) - Morse code decoding library
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
@@ -479,6 +482,7 @@
 
 ## Java 
 
+- [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Sidekick is no longer in service
 - [cmars/snyk-security-scanner-plugin](https://github.com/cmars/snyk-security-scanner-plugin) - Test and monitor your projects for vulnerabilities with Jenkins. This plugin is officially maintained by Snyk.
 - [MrNeuronix/BetaFace](https://github.com/MrNeuronix/BetaFace) - Java API to BetaFace.com
 - [apache/activemq](https://github.com/apache/activemq) - Mirror of Apache ActiveMQ
@@ -510,6 +514,8 @@
 
 ## JavaScript 
 
+- [kintesh/containerise](https://github.com/kintesh/containerise) - Firefox extension to automatically open websites in a container
+- [r3curs1v3-pr0xy/vajra](https://github.com/r3curs1v3-pr0xy/vajra) - Vajra is a highly customizable target and scope based automated web hacking framework to automate boring recon tasks and same scans for multiple target during web applications penetration testing.
 - [IvanGlinkin/CCTV](https://github.com/IvanGlinkin/CCTV) - Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in rea
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [GoogleChromeLabs/chrome-for-testing](https://github.com/GoogleChromeLabs/chrome-for-testing) - 
@@ -520,7 +526,7 @@
 - [dmotz/trystero](https://github.com/dmotz/trystero) - 🤝 Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, and Firebase
 - [princekhunt/privateping](https://github.com/princekhunt/privateping) - PrivatePing is a secure messaging application built on Python's Django framework, providing end-to-end encryption for messages exchanged between users.
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
-- [bandundu/email-archiver](https://github.com/bandundu/email-archiver) - Email archiving tool with advanced search capabilities for IMAP/POP3 accounts (early development)
+- [bandundu/email-archiver](https://github.com/bandundu/email-archiver) - Email archiving tool for IMAP/POP3 accounts (early development)
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [eciavatta/caronte](https://github.com/eciavatta/caronte) - A tool to analyze the network flow during attack/defence Capture the Flag competitions
 - [mut-ex/gligen-gui](https://github.com/mut-ex/gligen-gui) - An intuitive GUI for GLIGEN that uses ComfyUI in the backend
@@ -644,7 +650,7 @@
 - [KernelPan1k/google-dork-builder](https://github.com/KernelPan1k/google-dork-builder) - Make Google Dork with firefox addon :mag:
 - [lettapp/ytcs](https://github.com/lettapp/ytcs) - Chrome extension to easily search youtube comments.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~1 open YouTube / Video Web-Extension] Enrich your experience & choice! 🧰100+ clever features📌set & forget📌Longest-standing (yet rare & tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|conte
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video web-extension] Enrich your experience & choice! 🧰100+clever features📌set&forget📌Longest-standing(yet rare&tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content dis
 - [facundoolano/google-play-scraper](https://github.com/facundoolano/google-play-scraper) - Node.js scraper to get data from Google Play
 - [ericyd/gdrive-copy](https://github.com/ericyd/gdrive-copy) - Web app to copy a Google Drive folder
 - [willin/github-trending](https://github.com/willin/github-trending) - :octocat: Github Daily Trending Archives
@@ -748,6 +754,7 @@
 
 ## Others 
 
+- [soxoj/FRAVIA](https://github.com/soxoj/FRAVIA) - FRAVIA: The Art of Searching
 - [CScorza/OSINT-IA](https://github.com/CScorza/OSINT-IA) - L'I.A. a supporto dell'OSINT
 - [3nock/SpiderSuite](https://github.com/3nock/SpiderSuite) - Advance web security spider/crawler
 - [rezaduty/cybersecurity-career-path](https://github.com/rezaduty/cybersecurity-career-path) - Cybersecurity Career Path
@@ -780,7 +787,6 @@
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [Dutchosintguy/keywords-highlight-bookmark](https://github.com/Dutchosintguy/keywords-highlight-bookmark) - Browser Bookmark that will ask for keyword(s) and then color highlight these words on the webpage you visit
-- [projectdiscovery/fuzzing-templates](https://github.com/projectdiscovery/fuzzing-templates) - Community curated list of nuclei templates for finding "unknown" security vulnerabilities.
 - [UnaPibaGeek/honeypots-detection](https://github.com/UnaPibaGeek/honeypots-detection) - Nuclei templates for honeypots detection.
 - [LinaYorda/OSINT-Tools-Bulgaria](https://github.com/LinaYorda/OSINT-Tools-Bulgaria) - The first and only (for now) Bulgarian OSINT tools list.
 - [LinaYorda/OSINTtools](https://github.com/LinaYorda/OSINTtools) - A set of social media OSINT tools that I use when participating in Trace Labs Search Party CTF
@@ -985,6 +991,7 @@
 
 ## PowerShell 
 
+- [Marshall-Hallenbeck/red_team_attack_lab](https://github.com/Marshall-Hallenbeck/red_team_attack_lab) - Red Team Attack Lab for TTP testing & research
 - [last-byte/PersistenceSniper](https://github.com/last-byte/PersistenceSniper) - Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. Official Twitter/X account @PersistSniper. Made with
 - [Leo4j/Amnesiac](https://github.com/Leo4j/Amnesiac) - Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist with lateral movement within Active Directory environments
 - [rmbolger/PwnedPassCheck](https://github.com/rmbolger/PwnedPassCheck) - Check passwords and hashes against the haveibeenpwned.com Pwned Passwords API using PowerShell
@@ -997,6 +1004,17 @@
 
 ## Python 
 
+- [synacktiv/ntdissector](https://github.com/synacktiv/ntdissector) - 
+- [viperadnan-git/google-drive-telegram-bot](https://github.com/viperadnan-git/google-drive-telegram-bot) - A Google Drive Telegram Bot for managing, cloning files, uploading files on Google Drive
+- [danielpoliakov/lisa](https://github.com/danielpoliakov/lisa) - Sandbox for automated Linux malware analysis.
+- [ultrafunkamsterdam/aionion](https://github.com/ultrafunkamsterdam/aionion) - a pool of proxies, shifting on each request. compatible with Requests, Aiohttp or plain open_connection
+- [ultrafunkamsterdam/googletranslate](https://github.com/ultrafunkamsterdam/googletranslate) - Python Google Translate (using reverse-engineered public API, so free)
+- [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) - Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems lik
+- [ultrafunkamsterdam/AnonSurf](https://github.com/ultrafunkamsterdam/AnonSurf) - Change your IP address instantly - easy small GUI tool for Windows (linux soon)
+- [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
+- [godaddy/tartufo](https://github.com/godaddy/tartufo) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
+- [hemantapkh/TorrentHunt](https://github.com/hemantapkh/TorrentHunt) - 🏴‍☠️ The ultimate torrent bot on telegram
+- [stirtcanada/smishing](https://github.com/stirtcanada/smishing) - Smishing is a python script that send SMS using Phishing Frenzy framework
 - [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics.
 - [dataqa/extractor](https://github.com/dataqa/extractor) - App to extract structured fields into a spreadsheet from unstructured text
 - [myshell-ai/AIlice](https://github.com/myshell-ai/AIlice) - A lightweight AI Agent
@@ -1020,7 +1038,7 @@
 - [Fonction-Labs/yt-chat](https://github.com/Fonction-Labs/yt-chat) - Summarize and chat with a bot about a youtube video
 - [harperreed/photo-similarity-search](https://github.com/harperreed/photo-similarity-search) - Super simple MLX (apple silicon) CLIP based photo similarity web app
 - [CiCiUi/django-db-logger](https://github.com/CiCiUi/django-db-logger) - Django logging in database
-- [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot
+- [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper without API key | Free | Twitter Bot | Twitter API Scraper | Twitter Internal API  | Twitter Streaming API | Twitter Internal API scraper | Twitter Streaming API scraper
 - [x011/SecretPixel](https://github.com/x011/SecretPixel) - SecretPixel is a cutting-edge steganography tool designed to securely conceal sensitive information within images. It stands out in the realm of digital steganography by combining advanced encryption,
 - [Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR) - SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild
 - [shuque/pydig](https://github.com/shuque/pydig) - pydig: a DNS query tool written in Python
@@ -1148,7 +1166,6 @@
 - [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [m4n3dw0lf/pythem](https://github.com/m4n3dw0lf/pythem) - pentest framework
 - [mufeedvh/basecrack](https://github.com/mufeedvh/basecrack) - Decode All Bases - Base Scheme Decoder
-- [LiveGray/GIVINGSTORM](https://github.com/LiveGray/GIVINGSTORM) - Infection vector that bypasses AV, IDS, and IPS. (For now...)
 - [xtiankisutsa/MARA_Framework](https://github.com/xtiankisutsa/MARA_Framework) - MARA is a Mobile Application Reverse engineering and Analysis Framework. It is a toolkit that puts together commonly used mobile application reverse engineering and analysis tools to assist in testing
 - [TheSpeedX/TBomb](https://github.com/TheSpeedX/TBomb) - This is a SMS And Call Bomber For Linux And Termux
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -1685,6 +1702,7 @@
 
 ## R 
 
+- [tidymodels/parsnip](https://github.com/tidymodels/parsnip) - A tidy unified interface to models
 - [cran/acled.api](https://github.com/cran/acled.api) - :exclamation: This is a read-only mirror of the CRAN R package repository.  acled.api — Automated Retrieval of ACLED Conflict Event Data. Homepage: &lt;https://gitlab.com/chris-dworschak/acled.api&gt;
 
 ## Roff 
@@ -1869,7 +1887,7 @@
 - [dougy147/scitopdf](https://github.com/dougy147/scitopdf) - bash script to quickly fetch, download and open scientific papers from Sci-Hub's database.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [dmn001/youtube_channel_archiver](https://github.com/dmn001/youtube_channel_archiver) - Starting point for archiving entire YouTube channels using yt-dlp (originally youtube-dl)
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [elmsec/lockigest](https://github.com/elmsec/lockigest) - 🔐 Lockigest – Why would you have to enter a password to unlock your screen countless times a day? Lockigest is a simple idea that solves this. It will lock your screen only if a predefined pattern is 
@@ -1923,6 +1941,7 @@
 
 ## TypeScript 
 
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [vernu/textbee](https://github.com/vernu/textbee) - textbee.dev is an opensource and free sms-gatway for sending SMS messages through API or dashboard web interface.
