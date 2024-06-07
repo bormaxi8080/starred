@@ -23,6 +23,7 @@
 - [HTML](#html)
 - [Hack](#hack)
 - [Haskell](#haskell)
+- [Inno Setup](#inno-setup)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jsonnet](#jsonnet)
@@ -95,7 +96,6 @@
 - [hacksysteam/HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) - HackSys Extreme Vulnerable Driver (HEVD) - Windows & Linux
 - [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tool
 - [3nock/OTE](https://github.com/3nock/OTE) - OSINT Template Engine
-- [nccgroup/Sniffle](https://github.com/nccgroup/Sniffle) - A sniffer for Bluetooth 5 and 4.x LE
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [Sysinternals/SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - 
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
@@ -164,6 +164,7 @@
 
 ## C++ 
 
+- [Meckazin/ChromeKatz](https://github.com/Meckazin/ChromeKatz) - Dump cookies directly from Chrome process memory
 - [GJDuck/RRFuzz](https://github.com/GJDuck/RRFuzz) - Fuzz anything with Program Environment Fuzzing
 - [tuna/QSerial](https://github.com/tuna/QSerial) - An advanced cross-platform serial port utility
 - [gappuser/qryptr](https://github.com/gappuser/qryptr) - Airgapped ECC text messenger
@@ -241,6 +242,10 @@
 
 ## Go 
 
+- [iudicium/pryingdeep](https://github.com/iudicium/pryingdeep) - Prying Deep - An OSINT tool to collect intelligence on the dark web.
+- [umutcamliyurt/PingRAT](https://github.com/umutcamliyurt/PingRAT) - PingRAT secretly passes C2 traffic through firewalls using ICMP payloads.
+- [umair9747/Genzai](https://github.com/umair9747/Genzai) - The IoT security toolkit to help identify IoT related dashboards and scan them for default passwords and vulnerabilities.
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [Owloops/updo](https://github.com/Owloops/updo) - Uptime monitoring CLI tool with alerting and advanced settings
 - [ndelphit/apkurlgrep](https://github.com/ndelphit/apkurlgrep) - Extract endpoints from APK files
@@ -446,6 +451,7 @@
 
 ## HTML 
 
+- [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
 - [bormaxi8080/awesome-books-for-osinters](https://github.com/bormaxi8080/awesome-books-for-osinters) - Awesome recomended books for OSINTers
 - [klarna-incubator/webtraversallibrary](https://github.com/klarna-incubator/webtraversallibrary) - The Web Traversal Library (WTL) is a Python library for abstracting web interactions on top of a base execution layer such as Selenium.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
@@ -510,6 +516,10 @@
 
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
+## Inno Setup 
+
+- [cristianzsh/forensictools](https://github.com/cristianzsh/forensictools) - Collection of forensic tools
+
 ## Java 
 
 - [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥🔥🔥AI-driven data management platform Over 1 million developers are using Chat2DB
@@ -547,6 +557,8 @@
 
 ## JavaScript 
 
+- [matthewmueller/x-ray](https://github.com/matthewmueller/x-ray) - The next web scraper. See through the &lt;html&gt; noise.
+- [wlouie1/UFO-Sightings](https://github.com/wlouie1/UFO-Sightings) - Explore over 80K reports of UFO sightings around the world, collected from 1906 - 2014 by the National UFO Reporting Center.
 - [xnl-h4ck3r/XnlReveal](https://github.com/xnl-h4ck3r/XnlReveal) - A Chrome/Firefox browser extension to show alerts for reflected query params, show Wayback archive links for the current path, show hidden elements and enable disabled elements.
 - [jaceddd/text_watermark](https://github.com/jaceddd/text_watermark) - Allows invisible watermarking of text and invisible encrypted messages. Uses 17 different invisible characters as HEX + delimiter. Includes encoder, decoder, spammer and other tools‬⁨⁠⁪⁢⁠⁪⁩⁠​⁪⁠⁪⁩⁠​‎⁠‎
 - [hposton/python-for-cybersecurity](https://github.com/hposton/python-for-cybersecurity) - This repository holds the Python scripts discussed in the Infosec Institute's Python for Cybersecurity learning Path
@@ -800,13 +812,15 @@
 
 ## Others 
 
+- [Tobee1406/Awesome-Google-Dorks](https://github.com/Tobee1406/Awesome-Google-Dorks) - A collection of Awesome Google Dorks.
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [minimaxir/hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
 - [The-Osint-Toolbox/Website-OSINT](https://github.com/The-Osint-Toolbox/Website-OSINT) - You will find a wealth of resources to help with your Website investigations.
 - [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
 - [thedoubler/awesome-maps-data](https://github.com/thedoubler/awesome-maps-data) - Browse Awesome Maps + Data, where vast amounts of information are beautifully mapped and visualized!
 - [s0md3v/be-a-hacker](https://github.com/s0md3v/be-a-hacker) - roadmap for a self-taught hacker
 - [The-Osint-Toolbox/Internet-OSINT](https://github.com/The-Osint-Toolbox/Internet-OSINT) - Cast your OSINT net further a field and see what else you can discover on the Internet.
-- [AmazoniaLeaksOficial/OSINTMachineGuide](https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide) - Step-by-step guide to building a custom machine for OSINT activities. The Basic Package includes a robust LINUX system strengthening process, Tor browser setup, firewall installation, rotating proxy c
+- [Mauro-el-Nomada/OSINTMachineGuide](https://github.com/Mauro-el-Nomada/OSINTMachineGuide) - Step-by-step guide to building a custom machine for OSINT activities. The Basic Package includes a robust LINUX system strengthening process, Tor browser setup, firewall installation, rotating proxy c
 - [svfat/awesome-celery](https://github.com/svfat/awesome-celery) - A curated list of awesome things related to Celery (distributed task queue)
 - [FroggMaster/FlipperZero](https://github.com/FroggMaster/FlipperZero) - A Collection of Flipper Zero Scripts / Applications / ETC...
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
@@ -1011,6 +1025,7 @@
 
 ## PHP 
 
+- [adegans/Goosle](https://github.com/adegans/Goosle) - A Meta Search engine with privacy and ease of use in mind
 - [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
 - [waltergammarota/betaFace](https://github.com/waltergammarota/betaFace) - betaface.com API client in PHP
 - [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security
@@ -1064,6 +1079,14 @@
 
 ## Python 
 
+- [cosad3s/ApacheTomcatScanner](https://github.com/cosad3s/ApacheTomcatScanner) - A python script to scan for Apache Tomcat server vulnerabilities.
+- [cosad3s/badsecrets](https://github.com/cosad3s/badsecrets) - A library for detecting known secrets across many web frameworks
+- [cosad3s/hfinder](https://github.com/cosad3s/hfinder) - Help recon of hostnames from specific ASN or CIDR, thanks to Robtex and BGP.HE
+- [cosad3s/postleaks](https://github.com/cosad3s/postleaks) - Search for sensitive data in Postman public library.
+- [maqp/tfc](https://github.com/maqp/tfc) - Tinfoil Chat - Onion-routed, endpoint secure messaging system
+- [MechanicalSoup/MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
+- [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [solar-wine/writeups](https://github.com/solar-wine/writeups) - Hack-A-Sat Qualifiers Writeups
 - [scrapinghub/portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
 - [jmg/crawley](https://github.com/jmg/crawley) - Pythonic Crawling / Scraping Framework based on Non Blocking I/O operations.
@@ -1151,7 +1174,7 @@
 - [facebookresearch/audio2photoreal](https://github.com/facebookresearch/audio2photoreal) - Code and dataset for photorealistic Codec Avatars driven from audio
 - [hyperfield/yt-channel-downloader](https://github.com/hyperfield/yt-channel-downloader) - A Qt GUI app that makes it easy to download multiple videos at once from Youtube channels.
 - [juftin/browsr](https://github.com/juftin/browsr) - 🗂️ a pleasant file explorer in your terminal supporting all filesystems
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
 - [ghostop14/sparrow-wifi](https://github.com/ghostop14/sparrow-wifi) - Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [thomasjjj/Telegram-Snowball-Sampling](https://github.com/thomasjjj/Telegram-Snowball-Sampling) - The Telegram Snowball Sampling Tool is a Python-based utility designed for conducting snowball sampling to collect Telegram channels through forwards.
@@ -1242,7 +1265,7 @@
 - [vevv/subby](https://github.com/vevv/subby) - Advanced subtitle converter and processor
 - [senran101604/sagemode](https://github.com/senran101604/sagemode) - 👀Sagemode: Track and Unveil Online identities across social media platforms🕵️‍♂️
 - [norse/norse](https://github.com/norse/norse) - Deep learning with spiking neural networks (SNNs) in PyTorch.
-- [topscoder/nuclei-wordfence-cve](https://github.com/topscoder/nuclei-wordfence-cve) - The EXCLUSIVE Collection of 36,000+ Nuclei templates based on Wordfence intel. Daily updates for bulletproof WordPress security.
+- [topscoder/nuclei-wordfence-cve](https://github.com/topscoder/nuclei-wordfence-cve) - The EXCLUSIVE Collection of 37,000+ Nuclei templates based on Wordfence intel. Daily updates for bulletproof WordPress security.
 - [proseltd/Telepathy-Community](https://github.com/proseltd/Telepathy-Community) - Public release of Telepathy, an OSINT toolkit for investigating Telegram chats.
 - [HalilDeniz/TrafficWatch](https://github.com/HalilDeniz/TrafficWatch) - TrafficWatch, a packet sniffer tool, allows you to monitor and analyze network traffic from PCAP files
 - [nezhar/updatable](https://github.com/nezhar/updatable) - Finds packages that require updates on a python environment
@@ -1337,6 +1360,7 @@
 - [coldtype/coldtype](https://github.com/coldtype/coldtype) - cross-platform display typography in python
 - [A-poc/certSniff](https://github.com/A-poc/certSniff) - A certificate transparency log keyword sniffer written in python
 - [gnebbia/pdlist](https://github.com/gnebbia/pdlist) - A passive subdomain finder
+- [nccgroup/Sniffle](https://github.com/nccgroup/Sniffle) - A sniffer for Bluetooth 5 and 4.x LE
 - [SAP/credential-digger](https://github.com/SAP/credential-digger) - A Github scanning tool that identifies hardcoded credentials while filtering the false positive data through machine learning models :lock:
 - [nccgroup/ccs](https://github.com/nccgroup/ccs) - 
 - [capture0x/LFI-FINDER](https://github.com/capture0x/LFI-FINDER) - LFI-FINDER is an open-source tool available on GitHub that focuses on detecting Local File Inclusion (LFI) vulnerabilities
@@ -1804,6 +1828,7 @@
 
 ## R 
 
+- [tidyverse/rvest](https://github.com/tidyverse/rvest) - Simple web scraping for R
 - [tidymodels/parsnip](https://github.com/tidymodels/parsnip) - A tidy unified interface to models
 - [cran/acled.api](https://github.com/cran/acled.api) - :exclamation: This is a read-only mirror of the CRAN R package repository.  acled.api — Automated Retrieval of ACLED Conflict Event Data. Homepage: &lt;https://gitlab.com/chris-dworschak/acled.api&gt;
 
@@ -1814,6 +1839,7 @@
 
 ## Ruby 
 
+- [felipecsl/wombat](https://github.com/felipecsl/wombat) - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.
 - [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 - [jrm2194/betaface](https://github.com/jrm2194/betaface) - The unofficial ruby Gem of the Betaface API
 - [Carldeboer/AMUSED](https://github.com/Carldeboer/AMUSED) - Auditing Motifs Using Statistical Enrichment & Depletion
@@ -1844,6 +1870,7 @@
 
 ## Rust 
 
+- [34N0/pam-authramp](https://github.com/34N0/pam-authramp) - pam-authramp | The AuthRamp PAM module provides an account lockout mechanism based on the number of authentication failures.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
@@ -1907,6 +1934,8 @@
 
 ## Shell 
 
+- [cosad3s/njsdump](https://github.com/cosad3s/njsdump) - Dump paths & pages from Next.js Manifest
+- [cosad3s/subscout](https://github.com/cosad3s/subscout) - All-in-one subdomains scout tool Docker image
 - [Und3rf10w/kali-anonsurf](https://github.com/Und3rf10w/kali-anonsurf) - A port of ParrotSec's stealth and anonsurf modules to Kali Linux
 - [Cl4r4-5/OriON](https://github.com/Cl4r4-5/OriON) - OriON is a virtual machine in Spanish that incorporates several tools for Open Source Intelligence (OSINT) on people.
 - [majidrezarahnavard/way_of_freedom](https://github.com/majidrezarahnavard/way_of_freedom) - methods to access free internet
