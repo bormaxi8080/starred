@@ -33,6 +33,7 @@
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Meson](#meson)
 - [Nim](#nim)
 - [Nix](#nix)
 - [OCaml](#ocaml)
@@ -80,6 +81,8 @@
 
 ## C 
 
+- [RogueMaster/awesome-flipperzero-withModules](https://github.com/RogueMaster/awesome-flipperzero-withModules) - A collection of awesome resources & modules for the Flipper Zero device. Best used with Rogue Master Flipper Zero Custom Firmware.
+- [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
@@ -242,6 +245,11 @@
 
 ## Go 
 
+- [PuerkitoBio/gocrawl](https://github.com/PuerkitoBio/gocrawl) - Polite, slim and concurrent web crawler.
+- [andeya/pholcus](https://github.com/andeya/pholcus) - Pholcus is a distributed high-concurrency crawler software written in pure golang
+- [grafviktor/goto](https://github.com/grafviktor/goto) - A simple terminal SSH manager that provides you with an easy access to the list of your favorite SSH servers. Binaries included! 😉
+- [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [maliceio/malice](https://github.com/maliceio/malice) - VirusTotal Wanna Be - Now with 100% more Hipster
 - [aydinnyunus/PackageSpy](https://github.com/aydinnyunus/PackageSpy) - PackageSpy is a versatile command-line tool designed to simplify the process of searching for packages on two popular package managers
 - [MrTuxx/OffensiveGolang](https://github.com/MrTuxx/OffensiveGolang) - A collection of offensive Go packages inspired by different Go repositories.
@@ -523,6 +531,7 @@
 
 ## Java 
 
+- [mendhak/gpslogger](https://github.com/mendhak/gpslogger) - :satellite: Lightweight GPS Logging Application For Android.
 - [elkokc/reflector](https://github.com/elkokc/reflector) - Burp plugin able to find reflected XSS on page in real-time while browsing on site
 - [CrawlScript/WebCollector](https://github.com/CrawlScript/WebCollector) - WebCollector is an open source web crawler framework based on Java.It provides some simple interfaces for crawling the Web,you can setup a multi-threaded web crawler in less than 5 minutes.
 - [VIDA-NYU/ache](https://github.com/VIDA-NYU/ache) - ACHE is a web crawler for domain-specific search.
@@ -561,6 +570,7 @@
 
 ## JavaScript 
 
+- [stewartmckee/cobweb](https://github.com/stewartmckee/cobweb) - Web crawler with very flexible crawling options.  Can either use standalone or can be used with resque to perform clustered crawls.
 - [matthewmueller/x-ray](https://github.com/matthewmueller/x-ray) - The next web scraper. See through the &lt;html&gt; noise.
 - [wlouie1/UFO-Sightings](https://github.com/wlouie1/UFO-Sightings) - Explore over 80K reports of UFO sightings around the world, collected from 1906 - 2014 by the National UFO Reporting Center.
 - [xnl-h4ck3r/XnlReveal](https://github.com/xnl-h4ck3r/XnlReveal) - A Chrome/Firefox browser extension to show alerts for reflected query params, show Wayback archive links for the current path, show hidden elements and enable disabled elements.
@@ -786,6 +796,10 @@
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
+## Meson 
+
+- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
+
 ## Nim 
 
 - [nbaertsch/AutoAppDomainHijack](https://github.com/nbaertsch/AutoAppDomainHijack) - Automated .NET AppDomain hijack payload generation
@@ -816,6 +830,8 @@
 
 ## Others 
 
+- [jkctech/Flipper-Zero-Scripts](https://github.com/jkctech/Flipper-Zero-Scripts) - Collection of Flipper Zero scripts dumps and tools
+- [ExploitXpErtz/WebCam-Google-Shodan-Dorks](https://github.com/ExploitXpErtz/WebCam-Google-Shodan-Dorks) - 
 - [CScorza/Tool-VATINT](https://github.com/CScorza/Tool-VATINT) - Strumenti VATINT - Intelligence sui veicoli e sui trasporti
 - [HackShiv/OneDorkForAll](https://github.com/HackShiv/OneDorkForAll) - An insane list of all dorks taken from everywhere from various different sources.
 - [Tobee1406/Awesome-Google-Dorks](https://github.com/Tobee1406/Awesome-Google-Dorks) - A collection of Awesome Google Dorks.
@@ -1084,13 +1100,19 @@
 
 ## Python 
 
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
+- [malvads/sqlmc](https://github.com/malvads/sqlmc) - Official Kali Linux tool to check all urls of a domain for SQL injections :)
+- [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
+- [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
+- [basicW/badjpg](https://github.com/basicW/badjpg) - Payload for jpg file
+- [RevoltSecurities/SubProber](https://github.com/RevoltSecurities/SubProber) - Subprober is a powerful and efficient subdomain scanning tool written in Python. With the ability to handle large lists of subdomains. The tool offers concurrent scanning, allowing users to define the
+- [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 - [networkdavit/Python-SSH-Cracker](https://github.com/networkdavit/Python-SSH-Cracker) - 
 - [ZKAW/website-cloner](https://github.com/ZKAW/website-cloner) - Basic website cloner written in Python
 - [GramAddict/bot](https://github.com/GramAddict/bot) - Completely free and open-source human-like Instagram bot. Powered by UIAutomator2 and compatible with basically any Android device 5.0+ that can run Instagram - real or emulated.
 - [EONRaider/BCA-Phantom](https://github.com/EONRaider/BCA-Phantom) - A multi-platform HTTP(S) Reverse Shell Server and Client in Python 3
 - [login-securite/conpass](https://github.com/login-securite/conpass) - Continuous password spraying tool
 - [FLOCK4H/Freeway](https://github.com/FLOCK4H/Freeway) - WiFi Penetration Testing & Auditing Tool
-- [HexBuddy/HexVPN](https://github.com/HexBuddy/HexVPN) - HexVPN is a Python script that sets up a VPN connection using Riseup's VPN service. It fetches the necessary client certificates and VPN gateway configurations, measures latency to select the fastest 
 - [bellingcat/ShadowFinder](https://github.com/bellingcat/ShadowFinder) - Find possible locations of shadows around the world
 - [cosad3s/ApacheTomcatScanner](https://github.com/cosad3s/ApacheTomcatScanner) - A python script to scan for Apache Tomcat server vulnerabilities.
 - [cosad3s/badsecrets](https://github.com/cosad3s/badsecrets) - A library for detecting known secrets across many web frameworks
@@ -1853,6 +1875,8 @@
 
 ## Ruby 
 
+- [joenorton/rubyretriever](https://github.com/joenorton/rubyretriever) - Asynchronous Web Crawler & Scraper
+- [sparklemotion/mechanize](https://github.com/sparklemotion/mechanize) - Mechanize is a ruby library that makes automated web interaction easy.
 - [felipecsl/wombat](https://github.com/felipecsl/wombat) - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.
 - [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 - [jrm2194/betaface](https://github.com/jrm2194/betaface) - The unofficial ruby Gem of the Betaface API
@@ -1884,6 +1908,7 @@
 
 ## Rust 
 
+- [matanolabs/matano](https://github.com/matanolabs/matano) - Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [br0kej/bin2ml](https://github.com/br0kej/bin2ml) - A command line tool for extracting machine learning ready data from software binaries powered by Radare2
 - [34N0/pam-authramp](https://github.com/34N0/pam-authramp) - pam-authramp | The AuthRamp PAM module provides an account lockout mechanism based on the number of authentication failures.
@@ -1899,7 +1924,7 @@
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
-- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - 🦀 | RustRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Rust programming language
+- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - 🦀 | RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust
 - [fuzztruction/fuzztruction](https://github.com/fuzztruction/fuzztruction) - 
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) - Active Directory data collector for BloodHound written in Rust. 🦀
