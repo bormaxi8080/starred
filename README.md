@@ -86,9 +86,10 @@
 
 ## C 
 
+- [xMasterX/flipper-pager](https://github.com/xMasterX/flipper-pager) - Flipper Zero POCSAG Pager receiver plugin
 - [aquasecurity/traceeshark](https://github.com/aquasecurity/traceeshark) - Deep Linux runtime visibility meets Wireshark
 - [scrapinghub/aduana](https://github.com/scrapinghub/aduana) - Frontera backend to guide a crawl using PageRank, HITS or other ranking algorithms based on the link structure of the web graph, even when making big crawls (one billion pages).
-- [helviojunior/hookchain](https://github.com/helviojunior/hookchain) - 
+- [helviojunior/hookchain](https://github.com/helviojunior/hookchain) - HookChain: A new perspective for Bypassing EDR Solutions
 - [nmrr/flipperzero-geigercounter](https://github.com/nmrr/flipperzero-geigercounter) - ☢☢ A geiger counter application for the Flipper Zero ☢☢
 - [wosk/flipperzero-tpms](https://github.com/wosk/flipperzero-tpms) - TPMS application for Flipper Zero
 - [cool4uma/UART_Terminal](https://github.com/cool4uma/UART_Terminal) - Uart terminal for Flipper Zero
@@ -108,7 +109,7 @@
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [PraneethKarnena/DDoS-Scripts](https://github.com/PraneethKarnena/DDoS-Scripts) - This repo consists of various DDoS scripts, collected from internet. Layer-4 and Layer-7 levels can be targeted using these scripts.
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [strace/strace](https://github.com/strace/strace) - strace is a diagnostic, debugging and instructional userspace utility for Linux
 - [hacksysteam/HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) - HackSys Extreme Vulnerable Driver (HEVD) - Windows & Linux
 - [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tools
@@ -183,6 +184,7 @@
 
 ## C++ 
 
+- [CyberSecurityUP/Red-Team-Exercises](https://github.com/CyberSecurityUP/Red-Team-Exercises) - 
 - [hasherezade/tiny_tracer](https://github.com/hasherezade/tiny_tracer) - A Pin Tool for tracing API calls etc
 - [HaxHeadroom/HaxHeadroom-FlipperZero-Goodies](https://github.com/HaxHeadroom/HaxHeadroom-FlipperZero-Goodies) - Collection of scripts, guides and resources for your FlipperZero - 𝙷𝚊𝙺𝙲𝚎𝚍 𝚠𝚒𝚝𝚑 𝟸𝟹'𝚜
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -629,7 +631,6 @@
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [gnosygnu/xowa](https://github.com/gnosygnu/xowa) - xowa offline wiki application
-- [shatyuka/Killergram](https://github.com/shatyuka/Killergram) - Remove sponsored messages of Telegram
 - [AnonymousMessenger/AnonymousMessenger](https://github.com/AnonymousMessenger/AnonymousMessenger) - This is an unofficial repository, for the official repository visit: https://git.anonymousmessenger.ly/dx/AnonymousMessenger
 - [Divested-Mobile/Hypatia](https://github.com/Divested-Mobile/Hypatia) - A realtime malware scanner
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
@@ -640,6 +641,8 @@
 
 ## JavaScript 
 
+- [nordszamora/Stealth-Message](https://github.com/nordszamora/Stealth-Message) - StealthMessage is a designed platform that allows users to send and receive anonymous messages without revealing its identity.
+- [Jet-labs/jet-admin](https://github.com/Jet-labs/jet-admin) - Web based PostgreSQL tables manager and admin dashboard for your operations! Edit data, build graphs and dashboards using queries.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [Wervice/zentrox](https://github.com/Wervice/zentrox) - Server admin with batteries included
@@ -920,6 +923,7 @@
 
 ## Others 
 
+- [johna23-lab/jdownloader2](https://github.com/johna23-lab/jdownloader2) - JDownloader is a free, open-source download management tool
 - [planetsig/ufo-reports](https://github.com/planetsig/ufo-reports) - NUFORC geolocated and time standardized ufo reports for close to a century of data. 80,000 plus reports.
 - [NotLoBi/NotLoBi](https://github.com/NotLoBi/NotLoBi) - COMPLETE OSINT CHEAT-SHEET
 - [jcldf/ultimate-hardware-hacking-gear-guide-](https://github.com/jcldf/ultimate-hardware-hacking-gear-guide-) - Unlock Exclusive Insights! 🚀📖 Download My FREE E-Zine Now ➡️  Over 170 Pages of Essential Content! Elevate your hardware hacking game with insider tips and the latest trends. Don’t miss out—grab your 
@@ -945,7 +949,7 @@
 - [thedoubler/awesome-maps-data](https://github.com/thedoubler/awesome-maps-data) - Browse Awesome Maps + Data, where vast amounts of information are beautifully mapped and visualized!
 - [s0md3v/be-a-hacker](https://github.com/s0md3v/be-a-hacker) - roadmap for a self-taught hacker
 - [The-Osint-Toolbox/Internet-OSINT](https://github.com/The-Osint-Toolbox/Internet-OSINT) - Cast your OSINT net further a field and see what else you can discover on the Internet.
-- [Mauro-el-Nomada/OSINTMachineGuide](https://github.com/Mauro-el-Nomada/OSINTMachineGuide) - Step-by-step guide to building a custom machine for OSINT activities. The Basic Package includes a robust LINUX system strengthening process, Tor browser setup, firewall installation, rotating proxy c
+- [Minotaur-OPSEC/OSINTMachineGuide](https://github.com/Minotaur-OPSEC/OSINTMachineGuide) - Step-by-step guide to building a custom machine for OSINT activities. The Basic Package includes a robust LINUX system strengthening process, Tor browser setup, firewall installation, rotating proxy c
 - [svfat/awesome-celery](https://github.com/svfat/awesome-celery) - A curated list of awesome things related to Celery (distributed task queue)
 - [FroggMaster/FlipperZero](https://github.com/FroggMaster/FlipperZero) - A Collection of Flipper Zero Scripts / Applications / ETC...
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
@@ -954,7 +958,7 @@
 - [CScorza/OSINT-IA](https://github.com/CScorza/OSINT-IA) - L'I.A. a supporto dell'OSINT
 - [3nock/SpiderSuite](https://github.com/3nock/SpiderSuite) - Advance web security spider/crawler
 - [rezaduty/cybersecurity-career-path](https://github.com/rezaduty/cybersecurity-career-path) - Cybersecurity Career Path
-- [m31r2701/reversing-unofficial-APIs](https://github.com/m31r2701/reversing-unofficial-APIs) - Resources for reverse engineering web and mobile apps for the specific purpose of discovering and using “unofficial APIs”
+- [m31r2701/reversing-unofficial-APIs](https://github.com/m31r2701/reversing-unofficial-APIs) - Resources for reverse engineering “unofficial APIs”.
 - [fishttp/awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
 - [The-Osint-Toolbox/Fact-Checking-Verification](https://github.com/The-Osint-Toolbox/Fact-Checking-Verification) - Find helpful tools and resources to help you fact check and analyse, fake news and AI generated imagery.
 - [cipher387/cheatsheets](https://github.com/cipher387/cheatsheets) - High quality and text versions of cheat sheets from Cyber Detective Twitter
@@ -1206,6 +1210,9 @@
 
 ## Python 
 
+- [LyubomirT/chainsaw-human-typing](https://github.com/LyubomirT/chainsaw-human-typing) - ⌨️ Chainsaw Human Typing is a tool that allows you to simulate human typing on a keyboard if you can't, or don't want to, paste directly.
+- [muaaz-ur-habibi/G-Scraper](https://github.com/muaaz-ur-habibi/G-Scraper) - A GUI web scraper, written completely in Python
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [AnonCatalyst/Odinova](https://github.com/AnonCatalyst/Odinova) - Odinova Digital Tiger is an advanced application designed for Open-Source Intelligence (OSINT), equipped with versatile tools and a user-friendly interface to streamline investigative workflows and en
 - [drakyanerlanggarizkiwardhana/zefoy](https://github.com/drakyanerlanggarizkiwardhana/zefoy) - 🪐Bot likes, followers, shares and views on TikTok! ~ fast zefoy
 - [peoslsodo/Emails-Phones-Any-Bulk-Scrape-Extractor](https://github.com/peoslsodo/Emails-Phones-Any-Bulk-Scrape-Extractor) - mails|Phones|Any Bulk Scrape & Extractor Pro is a powerful tool that allows you to bulk extract email and phone numbers from various social media platforms including Facebook, Twitter,Instagram, Linke
@@ -2083,6 +2090,7 @@
 
 ## Rust 
 
+- [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [flipperzero-rs/flipperzero](https://github.com/flipperzero-rs/flipperzero) - Rust on the Flipper Zero
@@ -2307,6 +2315,10 @@
 
 ## TypeScript 
 
+- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Clerk/Auth0 alternative
+- [ddoemonn/parrot_ui](https://github.com/ddoemonn/parrot_ui) - A no-CLI, copy-paste component library using Tailwind and TSX. Simple, transparent, and easy to integrate.
+- [4urcloud/Kexa](https://github.com/4urcloud/Kexa) - Kexa's simple rules (Open Source) guarantee the security of your entire cloud. With real-time monitoring, instant alerts and detailed, scalable and integrable reporting, it turns complexity into simpl
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - Monokle is a set of OSS tools designed to help create and maintain high-quality Kubernetes configurations throughout the application lifecycle
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [kgdn/buffet](https://github.com/kgdn/buffet) - Web-based virtual machine manager - BSc. Computer Systems dissertation project (Heriot-Watt University)
@@ -2374,7 +2386,7 @@
 - [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown
 - [fingerprintjs/BotD](https://github.com/fingerprintjs/BotD) - Bot detection library that runs in the browser. Detects automation tools and frameworks. No server required, runs 100% on the client. MIT license, no usage restrictions.
 - [igdownloader/InstagramDownloader](https://github.com/igdownloader/InstagramDownloader) - Firefox and Chrome Extention which creates an download button for instagram images and videos and videos
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
