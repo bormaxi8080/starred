@@ -86,6 +86,7 @@
 
 ## C 
 
+- [panki27/Metronome](https://github.com/panki27/Metronome) - Metronome for Flipper Zero
 - [xMasterX/flipper-pager](https://github.com/xMasterX/flipper-pager) - Flipper Zero POCSAG Pager receiver plugin
 - [aquasecurity/traceeshark](https://github.com/aquasecurity/traceeshark) - Deep Linux runtime visibility meets Wireshark
 - [scrapinghub/aduana](https://github.com/scrapinghub/aduana) - Frontera backend to guide a crawl using PageRank, HITS or other ranking algorithms based on the link structure of the web graph, even when making big crawls (one billion pages).
@@ -161,6 +162,7 @@
 
 ## C# # 
 
+- [alexandrehtrb/Pororoca](https://github.com/alexandrehtrb/Pororoca) - An API testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.
 - [lypd0/DeadPotato](https://github.com/lypd0/DeadPotato) - DeadPotato is a windows privilege escalation utility from the Potato family of exploits, leveraging the SeImpersonate right to obtain SYSTEM privileges.        This script has been customized from the
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [iomoath/FileWatchTower](https://github.com/iomoath/FileWatchTower) - FWT is a security analysis and file monitoring tool that utilizes Sysmon events.
@@ -184,6 +186,8 @@
 
 ## C++ 
 
+- [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps & analytics.
+- [rgerganov/spoof_temp](https://github.com/rgerganov/spoof_temp) - Spoof temperature sensor with HackRF/FlipperZero
 - [CyberSecurityUP/Red-Team-Exercises](https://github.com/CyberSecurityUP/Red-Team-Exercises) - 
 - [hasherezade/tiny_tracer](https://github.com/hasherezade/tiny_tracer) - A Pin Tool for tracing API calls etc
 - [HaxHeadroom/HaxHeadroom-FlipperZero-Goodies](https://github.com/HaxHeadroom/HaxHeadroom-FlipperZero-Goodies) - Collection of scripts, guides and resources for your FlipperZero - 𝙷𝚊𝙺𝙲𝚎𝚍 𝚠𝚒𝚝𝚑 𝟸𝟹'𝚜
@@ -249,6 +253,7 @@
 
 ## Dart 
 
+- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [ksh-b/raven](https://github.com/ksh-b/raven) - News Aggregator
 - [darvester/darvester](https://github.com/darvester/darvester) - Powerful Discord OSINT toolkit written in Python and Dart/Flutter
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
@@ -519,6 +524,8 @@
 
 ## HTML 
 
+- [neospl0it/osint-bookmark](https://github.com/neospl0it/osint-bookmark) - A curated list of OSINT tools for company research, internet scanning, DNS, and Whois lookups, organized for easy access. Ideal for analysts, researchers, and cybersecurity professionals.
+- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [KhushalJangid/sync.io](https://github.com/KhushalJangid/sync.io) - A simple and easy to use HTTP based file sharing server to aid platform independent wireless file sharing between multiple devices
 - [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
 - [joelhagvall/tor-onion-site-scraper](https://github.com/joelhagvall/tor-onion-site-scraper) - 
@@ -594,6 +601,7 @@
 
 ## Java 
 
+- [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 - [SPLWare/esProc](https://github.com/SPLWare/esProc) - esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing inde
 - [mcastillof/FakeTraveler](https://github.com/mcastillof/FakeTraveler) - Fake where your phone is located (Mock location for Android).
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
@@ -608,7 +616,7 @@
 - [elkokc/reflector](https://github.com/elkokc/reflector) - Burp plugin able to find reflected XSS on page in real-time while browsing on site
 - [CrawlScript/WebCollector](https://github.com/CrawlScript/WebCollector) - WebCollector is an open source web crawler framework based on Java.It provides some simple interfaces for crawling the Web,you can setup a multi-threaded web crawler in less than 5 minutes.
 - [VIDA-NYU/ache](https://github.com/VIDA-NYU/ache) - ACHE is a web crawler for domain-specific search.
-- [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+- [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [woheller69/browser](https://github.com/woheller69/browser) - A privacy oriented web browser with Greasemonkey style script support and Cookie Banner Blocker
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Sidekick is no longer in service
@@ -641,6 +649,9 @@
 
 ## JavaScript 
 
+- [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+- [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
+- [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [nordszamora/Stealth-Message](https://github.com/nordszamora/Stealth-Message) - StealthMessage is a designed platform that allows users to send and receive anonymous messages without revealing its identity.
 - [Jet-labs/jet-admin](https://github.com/Jet-labs/jet-admin) - Web based PostgreSQL tables manager and admin dashboard for your operations! Edit data, build graphs and dashboards using queries.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
@@ -683,7 +694,7 @@
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [eciavatta/caronte](https://github.com/eciavatta/caronte) - A tool to analyze the network flow during attack/defence Capture the Flag competitions
 - [mut-ex/gligen-gui](https://github.com/mut-ex/gligen-gui) - An intuitive GUI for GLIGEN that uses ComfyUI in the backend
-- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.
+- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail + Mailchimp + Sendgrid.
 - [forwardemail/authheaders](https://github.com/forwardemail/authheaders) - Node.js wrapper around the Python pip package authheaders exposing a function to generate Authentication-Results headers
 - [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (browser/iOS Simulator), and send custom email templates for Node.js.  Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
 - [forwardemail/reserved-email-addresses-list](https://github.com/forwardemail/reserved-email-addresses-list) - List of 1250+ generic, admin, mailer-daemon, and no-reply usernames reserved for security concerns.  Made for @forwardemail.
@@ -789,7 +800,6 @@
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [phantombuster/nickjs](https://github.com/phantombuster/nickjs) - Web scraping library made by the Phantombuster team. Modern, simple & works on all websites. (Deprecated)
 - [mailcheck/mailcheck](https://github.com/mailcheck/mailcheck) - Reduce misspelled email addresses in your web apps.
-- [soufianesakhi/feedly-filtering-and-sorting](https://github.com/soufianesakhi/feedly-filtering-and-sorting) - Enhance the feedly website with advanced filtering and sorting capabilities
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories.
 - [frenchbread/private-ip](https://github.com/frenchbread/private-ip) - Check if IP address is private.
 - [sickcodes/Vulnogram](https://github.com/sickcodes/Vulnogram) - Vulnogram is a tool for creating and editing CVE information in CVE JSON format
@@ -923,6 +933,7 @@
 
 ## Others 
 
+- [nullfuzz-pentest/shodan-dorks](https://github.com/nullfuzz-pentest/shodan-dorks) - Shodan Dorks
 - [johna23-lab/jdownloader2](https://github.com/johna23-lab/jdownloader2) - JDownloader is a free, open-source download management tool
 - [planetsig/ufo-reports](https://github.com/planetsig/ufo-reports) - NUFORC geolocated and time standardized ufo reports for close to a century of data. 80,000 plus reports.
 - [NotLoBi/NotLoBi](https://github.com/NotLoBi/NotLoBi) - COMPLETE OSINT CHEAT-SHEET
@@ -1153,6 +1164,7 @@
 
 ## PHP 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [leiweibau/Pi.Alert](https://github.com/leiweibau/Pi.Alert) - Scan the devices connected to your WIFI / LAN and alert you the connection of unknown devices. It also warns if a "always connected" device disconnects. In addition, it is possible to check web servic
 - [zabbix/zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
@@ -1210,6 +1222,11 @@
 
 ## Python 
 
+- [kovinevmv/getcontact](https://github.com/kovinevmv/getcontact) - Find info about user by phone number using GetContact API
+- [hubert3/iSniff-GPS](https://github.com/hubert3/iSniff-GPS) - Passive sniffing tool for capturing and visualising WiFi location data disclosed by iOS devices
+- [Dutchosintguy/OSINT-timeline](https://github.com/Dutchosintguy/OSINT-timeline) - Tool to build and export timelines
+- [aydinnyunus/gpt4-captcha-bypass](https://github.com/aydinnyunus/gpt4-captcha-bypass) - Captcha Bypass using GPT4-o
+- [ArslanS1997/Auto-Analyst](https://github.com/ArslanS1997/Auto-Analyst) - AI data scientist
 - [LyubomirT/chainsaw-human-typing](https://github.com/LyubomirT/chainsaw-human-typing) - ⌨️ Chainsaw Human Typing is a tool that allows you to simulate human typing on a keyboard if you can't, or don't want to, paste directly.
 - [muaaz-ur-habibi/G-Scraper](https://github.com/muaaz-ur-habibi/G-Scraper) - A GUI web scraper, written completely in Python
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
@@ -1346,7 +1363,7 @@
 - [soxoj/castreaper](https://github.com/soxoj/castreaper) - Reaper of screencast videos for OSINT purposes
 - [iejMac/video2dataset](https://github.com/iejMac/video2dataset) - Easily create large video dataset from video urls
 - [Elhameed/aicommits](https://github.com/Elhameed/aicommits) - AI Commit is a powerful command-line tool that streamlines your Git workflow by using OpenAI's GPT-3 language model to generate commit messages for your Git commits.
-- [dataelement/bisheng](https://github.com/dataelement/bisheng) - Bisheng is an open LLM devops platform for next generation AI applications.
+- [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
 - [dmdhrumilmistry/pyhtools](https://github.com/dmdhrumilmistry/pyhtools) - A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester cred
 - [m0rtem/CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
 - [synacktiv/ntdissector](https://github.com/synacktiv/ntdissector) - 
@@ -1427,7 +1444,7 @@
 - [devanshbatham/Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) - A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference
 - [RevoltSecurities/Subdominator](https://github.com/RevoltSecurities/Subdominator) - SubDominator helps you discover subdomains associated with a target domain efficiently and with minimal impact for your Bug Bounty
 - [spyboy-productions/Valid8Proxy](https://github.com/spyboy-productions/Valid8Proxy) - Tool designed for fetching, validating, and storing working proxies.
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
 - [koutto/web-brutator](https://github.com/koutto/web-brutator) - Fast Modular Web Interfaces Bruteforcer
 - [yuzutas0/sel2pup](https://github.com/yuzutas0/sel2pup) - The converter from Selenium IDE to Puppeteer
 - [vil/H4X-Tools](https://github.com/vil/H4X-Tools) - Open source toolkit for scraping, OSINT and more.
@@ -1703,7 +1720,7 @@
 - [Bevigil/BeVigil-OSINT-CLI](https://github.com/Bevigil/BeVigil-OSINT-CLI) - bevigil-cli provides a unified command line interface and python library for using BeVigil OSINT API.
 - [puzzlepeaches/msprobe](https://github.com/puzzlepeaches/msprobe) - Finding all things on-prem Microsoft for password spraying and enumeration.
 - [dievus/msdorkdump](https://github.com/dievus/msdorkdump) - Google Dork File Finder
-- [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) - 👨‍💼Linkedin API for Python
+- [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) - 👨‍💼 LinkedIn API for Python
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - GitHub Data Analysis Framework.
 - [iojw/socialscan](https://github.com/iojw/socialscan) - Python library for accurately querying username and email usage on online platforms
 - [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot
@@ -1858,7 +1875,6 @@
 - [mautrix/telegram](https://github.com/mautrix/telegram) - A Matrix-Telegram hybrid puppeting/relaybot bridge
 - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [LingDong-/linedraw](https://github.com/LingDong-/linedraw) - Convert images to vectorized line drawings for plotters.
-- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [rajatomar788/pywebcopy](https://github.com/rajatomar788/pywebcopy) - Locally saves webpages to your hard disk with images, css, js & links as is.
@@ -1866,7 +1882,6 @@
 - [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [jpylypiw/easywall](https://github.com/jpylypiw/easywall) - Web interface for easy use of the IPTables firewall on Linux systems written in Python3.
-- [jashandeep-sohi/webcam-filters](https://github.com/jashandeep-sohi/webcam-filters) - Add filters (background blur, etc) to your webcam on Linux.
 - [rodukov/openNasa](https://github.com/rodukov/openNasa) - This software can parse pictures from the Nasa server. I used python and requests library to parse and save images.
 - [UlionTse/translators](https://github.com/UlionTse/translators) - 🌏🌍🌎Translators🌎🌍🌏 is a library that aims to bring free, multiple, enjoyable translations to individuals and students in Python.  Translators是一个旨在用Python为个人和学生带来免费、多样、愉快翻译的库。
 - [Animenosekai/translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
@@ -2164,6 +2179,7 @@
 
 ## Shell 
 
+- [1N3/Findsploit](https://github.com/1N3/Findsploit) - Find exploits in local and online databases instantly
 - [wolandark/bash-dungeon](https://github.com/wolandark/bash-dungeon) - An educational dungeon crawler in the shell
 - [midnit3Z0mbi3/Kali-Linux-OSINT-VM](https://github.com/midnit3Z0mbi3/Kali-Linux-OSINT-VM) - Kali Linux OSINT VM. Build your own OSINT virtual machine with these shell scripts.
 - [emrekybs/Pip-Intel](https://github.com/emrekybs/Pip-Intel) - PIP-INTEL is an OSINT (Open Source Intelligence) tool designed using various open-source tools and pip packages.
@@ -2420,6 +2436,7 @@
 
 ## Vue 
 
+- [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [simulaiofficial/simulai](https://github.com/simulaiofficial/simulai) - simulai is a Notion-inspired open-source and free conversational survey builder, powered by AI.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
