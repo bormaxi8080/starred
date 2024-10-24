@@ -81,6 +81,7 @@
 
 ## C 
 
+- [martijnvanbrummelen/nwipe](https://github.com/martijnvanbrummelen/nwipe) - nwipe secure disk eraser
 - [0xchocolate/flipperzero-wifi-marauder](https://github.com/0xchocolate/flipperzero-wifi-marauder) - Flipper Zero WiFi Marauder companion app
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [xtruan/FlipBIP](https://github.com/xtruan/FlipBIP) - BIP32/39/44 crypto wallet for Flipper Zero
@@ -100,7 +101,7 @@
 - [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [rogxo/search](https://github.com/rogxo/search) - A series of methods used to detect kernel shellcode for tencent game safe race 2024
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [el3xyz/wireguard-linux-compat](https://github.com/el3xyz/wireguard-linux-compat) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-linux-compat
@@ -283,6 +284,9 @@
 
 ## Go 
 
+- [harsh082ip/Video-transcoder_Go](https://github.com/harsh082ip/Video-transcoder_Go) - 🚀 Efficiently scalable video transcoding service, designed for seamless conversion across multiple formats 🎥, ensuring high performance and loose coupling between cloud-based components ☁️.
+- [zeeshanahmad0201/email_verification_tool](https://github.com/zeeshanahmad0201/email_verification_tool) - Efficient and lightweight GOlang-based tool for validating email addresses with syntax checks and domain verification.
+- [Banh-Canh/ytui](https://github.com/Banh-Canh/ytui) - ytui is a TUI tool that allows users to query videos on youtube and play them in their local player.
 - [medama-io/go-useragent](https://github.com/medama-io/go-useragent) - Fast trie-based user-agent parser in Go.
 - [mrinjamul/go-dupfinder](https://github.com/mrinjamul/go-dupfinder) - Duplicate File Finder.
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.
@@ -344,7 +348,7 @@
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [robertkrimen/otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
 - [lachlan2k/phatcrack](https://github.com/lachlan2k/phatcrack) - Modern web-based distributed hashcracking solution, built on hashcat
-- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
 - [gocelery/gocelery](https://github.com/gocelery/gocelery) - Celery Distributed Task Queue in Go
 - [hdm/nextnet](https://github.com/hdm/nextnet) - nextnet is a pivot point discovery tool written in Go.
 - [trap-bytes/hauditor](https://github.com/trap-bytes/hauditor) - hauditor is a tool designed to analyze the security headers returned by a web page.
@@ -452,7 +456,7 @@
 - [lcvvvv/kscan](https://github.com/lcvvvv/kscan) - Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。
 - [optiv/Freeze](https://github.com/optiv/Freeze) - Freeze is a payload toolkit for bypassing EDRs using suspended processes, direct syscalls, and alternative execution methods
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
-- [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework.
+- [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
@@ -675,6 +679,8 @@
 
 ## JavaScript 
 
+- [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [supabase-community/babelfish.ai](https://github.com/supabase-community/babelfish.ai) - A realtime live transcription and translation app built with Huggingface Transformer.js and Supabase Realtime.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [Bugs-B0unt3r/google-sheets-hunting-bad-domains](https://github.com/Bugs-B0unt3r/google-sheets-hunting-bad-domains) - This project provides a set of Google Apps Scripts designed to help you identify and analyze potentially malicious domains directly from Google Sheets. By leveraging various APIs, these scripts can re
@@ -705,7 +711,7 @@
 - [xnl-h4ck3r/XnlReveal](https://github.com/xnl-h4ck3r/XnlReveal) - A Chrome/Firefox browser extension to show alerts for reflected query params, show Wayback archive links for the current path, show hidden elements and enable disabled elements.
 - [jaceddd/text_watermark](https://github.com/jaceddd/text_watermark) - Allows invisible watermarking of text and invisible encrypted messages. Uses 17 different invisible characters as HEX + delimiter. Includes encoder, decoder, spammer and other tools‬⁨⁠⁪⁢⁠⁪⁩⁠​⁪⁠⁪⁩⁠​‎⁠‎
 - [hposton/python-for-cybersecurity](https://github.com/hposton/python-for-cybersecurity) - This repository holds the Python scripts discussed in the Infosec Institute's Python for Cybersecurity learning Path
-- [adamlui/ai-apps](https://github.com/adamlui/ai-apps) - 🤖 Apps that utilize the astounding power of AI or enhance its UX
+- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to enhance your web experience
 - [omniscientjs/omniscient](https://github.com/omniscientjs/omniscient) - A library providing an abstraction for React components that allows for fast top-down rendering embracing immutable data for js
 - [LDO-CERT/orochi](https://github.com/LDO-CERT/orochi) - The Volatility Collaborative GUI
 - [kintesh/containerise](https://github.com/kintesh/containerise) - Firefox extension to automatically open websites in a container
@@ -897,6 +903,7 @@
 
 ## Kotlin 
 
+- [x13a/Wasted](https://github.com/x13a/Wasted) - Lock and wipe on emergency
 - [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) - Android Call/SMS blocker.
 - [amnezia-vpn/amneziawg-android](https://github.com/amnezia-vpn/amneziawg-android) - AmneziaWG for Android
@@ -971,6 +978,7 @@
 
 ## Others 
 
+- [SocialLinks-IO/center-of-excellence](https://github.com/SocialLinks-IO/center-of-excellence) - A quick overview of what a Social Links OSINT CoE (Center of Excellence ) is.
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [webmaven/python-parsing-tools](https://github.com/webmaven/python-parsing-tools) - A list of Python parsing tools
 - [nullfuzz-pentest/shodan-dorks](https://github.com/nullfuzz-pentest/shodan-dorks) - Shodan Dorks
@@ -1008,7 +1016,7 @@
 - [CScorza/OSINT-IA](https://github.com/CScorza/OSINT-IA) - L'I.A. a supporto dell'OSINT
 - [3nock/SpiderSuite](https://github.com/3nock/SpiderSuite) - Advance web security spider/crawler
 - [rezaduty/cybersecurity-career-path](https://github.com/rezaduty/cybersecurity-career-path) - Cybersecurity Career Path
-- [m31r2701/reversing-unofficial-APIs](https://github.com/m31r2701/reversing-unofficial-APIs) - Resources for reverse engineering “unofficial APIs”.
+- [ropcat/reversing-unofficial-APIs](https://github.com/ropcat/reversing-unofficial-APIs) - Resources for reverse engineering “unofficial APIs”.
 - [fishttp/awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
 - [The-Osint-Toolbox/Fact-Checking-Verification](https://github.com/The-Osint-Toolbox/Fact-Checking-Verification) - Find helpful tools and resources to help you fact check and analyse, fake news and AI generated imagery.
 - [cipher387/cheatsheets](https://github.com/cipher387/cheatsheets) - High quality and text versions of cheat sheets from Cyber Detective Twitter
@@ -1260,6 +1268,11 @@
 
 ## Python 
 
+- [0SINTr/osintr](https://github.com/0SINTr/osintr) - OSINT tool for researching individuals based on user input such as email, username, name or company. OFM Stage 1 tool for GRASS (Google Recursive Advanced Search & Scrape) via SerperDev and Firecrawl.
+- [AIDC-AI/Ovis](https://github.com/AIDC-AI/Ovis) - A novel Multimodal Large Language Model (MLLM) architecture, designed to structurally align visual and textual embeddings.
+- [SocialLinks-IO/emailrep-maltego](https://github.com/SocialLinks-IO/emailrep-maltego) - Email reputation check transform for Maltego
+- [SocialLinks-IO/interpol-notices-maltego](https://github.com/SocialLinks-IO/interpol-notices-maltego) - A list of transforms for searching Red, Yellow, and UNSC notices by Name or Phrase.
+- [SocialLinks-IO/sociallinks-api](https://github.com/SocialLinks-IO/sociallinks-api) - Social Links API: description, examples, trial access
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [livekit/agents](https://github.com/livekit/agents) - Build real-time multimodal AI applications 🤖🎙️📹
 - [grugnoymeme/flipperzero-GUI-wifi-cracker](https://github.com/grugnoymeme/flipperzero-GUI-wifi-cracker) - GUI - Analyze WPA/WPA2 handshakes from FlipperZero's captured .pcaps to find out the WiFi Passwords.
@@ -1298,7 +1311,6 @@
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [AnonCatalyst/Odinova](https://github.com/AnonCatalyst/Odinova) - Odinova Digital Tiger is an advanced application designed for Open-Source Intelligence (OSINT), equipped with versatile tools and a user-friendly interface to streamline investigative workflows and en
 - [drakyanerlanggarizkiwardhana/zefoy](https://github.com/drakyanerlanggarizkiwardhana/zefoy) - 🪐Bot likes, followers, shares and views on TikTok! ~ fast zefoy
-- [peoslsodo/Emails-Phones-Any-Bulk-Scrape-Extractor](https://github.com/peoslsodo/Emails-Phones-Any-Bulk-Scrape-Extractor) - mails|Phones|Any Bulk Scrape & Extractor Pro is a powerful tool that allows you to bulk extract email and phone numbers from various social media platforms including Facebook, Twitter,Instagram, Linke
 - [jeppbautista/tiktok-crawler](https://github.com/jeppbautista/tiktok-crawler) - A custom Python crawler written in Selenium for downloading Tiktok videos as mp4 files along with their metadata in a json file (author, tags, captions, etc.).
 - [rly0nheart/tiktok-hashtag-analysis](https://github.com/rly0nheart/tiktok-hashtag-analysis) - Analyze hashtags within posts scraped from TikTok.
 - [slouchd/tiktok-scraper-selenium](https://github.com/slouchd/tiktok-scraper-selenium) - Quick and dirty script that uses selenium and a webdriver binary to scrape public TikTok profiles.
@@ -1475,7 +1487,7 @@
 - [facebookresearch/audio2photoreal](https://github.com/facebookresearch/audio2photoreal) - Code and dataset for photorealistic Codec Avatars driven from audio
 - [hyperfield/yt-channel-downloader](https://github.com/hyperfield/yt-channel-downloader) - A Qt GUI app that makes it easy to download multiple videos at once from Youtube channels.
 - [juftin/browsr](https://github.com/juftin/browsr) - 🗂️ a pleasant file explorer in your terminal supporting all filesystems
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - [NeurIPS 2024] SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges
 - [ghostop14/sparrow-wifi](https://github.com/ghostop14/sparrow-wifi) - Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [thomasjjj/Telegram-Snowball-Sampling](https://github.com/thomasjjj/Telegram-Snowball-Sampling) - The Telegram Snowball Sampling Tool is a Python-based utility designed for conducting snowball sampling to collect Telegram channels through forwards.
@@ -1535,7 +1547,6 @@
 - [hash3liZer/SillyRAT](https://github.com/hash3liZer/SillyRAT) - A Python based RAT 🐀 (Remote Access Trojan) for getting reverse shell 🖥️
 - [alechilczenko/spidex](https://github.com/alechilczenko/spidex) - Continuous reconnaissance network scanner designed for large-scale scans, collecting information on all Internet assets.
 - [HalilDeniz/Dosinator](https://github.com/HalilDeniz/Dosinator) - DoSinator is a powerful Denial of Service (DoS) testing tool developed in Python.
-- [rly0nheart/knewkarma](https://github.com/rly0nheart/knewkarma) - A Reddit data analysis toolkit
 - [ghostop14/skytrack](https://github.com/ghostop14/skytrack) - Solar System Planet/Moon Tracker That Interfaces With GQRX, GNURadio, SDRSharp, and Hamlib Rotors
 - [pixelbubble/ProtOSINT](https://github.com/pixelbubble/ProtOSINT) - ProtOSINT is a Python script that helps you investigate Protonmail accounts and ProtonVPN IP addresses
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
@@ -1822,7 +1833,7 @@
 - [lanmaster53/recon-ng](https://github.com/lanmaster53/recon-ng) - Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.
 - [Lazza/Carbon14](https://github.com/Lazza/Carbon14) - OSINT dating tool for web pages
 - [achillean/shodan-python](https://github.com/achillean/shodan-python) - The official Python library for Shodan
-- [fleef-me/TgBackUP](https://github.com/fleef-me/TgBackUP) - A project for storing configuration files, passwords or text files with ChaCha20 encryption and Gzip compression on Telegram servers.
+- [fleef-ru/TgBackUP](https://github.com/fleef-ru/TgBackUP) - A project for storing configuration files, passwords or text files with ChaCha20 encryption and Gzip compression on Telegram servers.
 - [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways
 - [bluet/proxybroker2](https://github.com/bluet/proxybroker2) - The New (auto rotate) Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -1944,7 +1955,6 @@
 - [bambax/Remsi](https://github.com/bambax/Remsi) - Remove silence from video files with a 1-line ffmpeg command
 - [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
-- [jpylypiw/easywall](https://github.com/jpylypiw/easywall) - Web interface for easy use of the IPTables firewall on Linux systems written in Python3.
 - [rodukov/openNasa](https://github.com/rodukov/openNasa) - This software can parse pictures from the Nasa server. I used python and requests library to parse and save images.
 - [UlionTse/translators](https://github.com/UlionTse/translators) - 🌏🌍🌎Translators🌎🌍🌏 is a library that aims to bring free, multiple, enjoyable translations to individuals and students in Python.  Translators是一个旨在用Python为个人和学生带来免费、多样、愉快翻译的库。
 - [Animenosekai/translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
@@ -2200,7 +2210,7 @@
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [fuzztruction/fuzztruction](https://github.com/fuzztruction/fuzztruction) - 
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
-- [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) - Active Directory data collector for BloodHound written in Rust. 🦀
+- [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) - Active Directory data ingestor for BloodHound Legacy written in Rust. 🦀
 - [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager
 - [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: the power of programming, in your database
 - [Ben-Lichtman/ropr](https://github.com/Ben-Lichtman/ropr) - A blazing fast™ multithreaded ROP Gadget finder. ropper / ropgadget alternative
@@ -2397,9 +2407,11 @@
 
 ## TypeScript 
 
+- [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
+- [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-- [zaidmukaddam/miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet. Search with models like GPT-4o mini, Claude 3.5 Sonnet and o1-mini!
+- [zaidmukaddam/miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK Search with models like GPT-4o mini, Claude 3.5 Sonnet and o1-mini!
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
