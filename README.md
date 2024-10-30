@@ -81,6 +81,8 @@
 
 ## C 
 
+- [hackerschoice/zapper](https://github.com/hackerschoice/zapper) - Zaps arguments and environment from the process list
+- [Maldev-Academy/EmbedPayloadInPng](https://github.com/Maldev-Academy/EmbedPayloadInPng) - Embed a payload inside a PNG file
 - [martijnvanbrummelen/nwipe](https://github.com/martijnvanbrummelen/nwipe) - nwipe secure disk eraser
 - [0xchocolate/flipperzero-wifi-marauder](https://github.com/0xchocolate/flipperzero-wifi-marauder) - Flipper Zero WiFi Marauder companion app
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
@@ -235,6 +237,7 @@
 
 ## CSS 
 
+- [thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering
 - [techchipnet/hound](https://github.com/techchipnet/hound) - Hound is a simple and light tool for information gathering and capture exact GPS coordinates
 - [mehmetkahya0/temp-mail](https://github.com/mehmetkahya0/temp-mail) - TempMail is a simple web application that allows you to generate temporary email addresses and view the emails received by these addresses.
 - [Chudry/Xerror](https://github.com/Chudry/Xerror) - fully automated pentesting tool
@@ -284,6 +287,8 @@
 
 ## Go 
 
+- [tofl/PNGify](https://github.com/tofl/PNGify) - A command line tool to encode text and files into PNG images
+- [RiadZX/FlipperPasswordExtractor](https://github.com/RiadZX/FlipperPasswordExtractor) - FlipperZero Browser passwords extractor:  Chrome | Edge
 - [harsh082ip/Video-transcoder_Go](https://github.com/harsh082ip/Video-transcoder_Go) - 🚀 Efficiently scalable video transcoding service, designed for seamless conversion across multiple formats 🎥, ensuring high performance and loose coupling between cloud-based components ☁️.
 - [zeeshanahmad0201/email_verification_tool](https://github.com/zeeshanahmad0201/email_verification_tool) - Efficient and lightweight GOlang-based tool for validating email addresses with syntax checks and domain verification.
 - [Banh-Canh/ytui](https://github.com/Banh-Canh/ytui) - ytui is a TUI tool that allows users to query videos on youtube and play them in their local player.
@@ -415,7 +420,7 @@
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-- [MrEmpy/mantra](https://github.com/MrEmpy/mantra) - 「🔑」A tool used to hunt down API key leaks in JS files and pages
+- [brosck/mantra](https://github.com/brosck/mantra) - 「🔑」A tool used to hunt down API key leaks in JS files and pages
 - [tomnomnom/unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin
 - [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
 - [devanshbatham/headerpwn](https://github.com/devanshbatham/headerpwn) - A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers
@@ -875,6 +880,7 @@
 
 ## Jupyter Notebook 
 
+- [deepfates/memery](https://github.com/deepfates/memery) - Search over large image datasets with natural language and computer vision!
 - [Camb-ai/MARS5-TTS](https://github.com/Camb-ai/MARS5-TTS) - MARS5 speech model (TTS) from CAMB.AI
 - [AlexZhangji/Twitter-Insight-LLM](https://github.com/AlexZhangji/Twitter-Insight-LLM) - Twitter data scraping, embedding based image search and more.
 - [soxoj/bellingcat-hackathon-watchcats](https://github.com/soxoj/bellingcat-hackathon-watchcats) - 📊 Adana - 1-click analytical dashboard for OSINT researchers
@@ -978,6 +984,7 @@
 
 ## Others 
 
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [SocialLinks-IO/center-of-excellence](https://github.com/SocialLinks-IO/center-of-excellence) - A quick overview of what a Social Links OSINT CoE (Center of Excellence ) is.
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [webmaven/python-parsing-tools](https://github.com/webmaven/python-parsing-tools) - A list of Python parsing tools
@@ -1024,7 +1031,7 @@
 - [h4x0r-dz/Leaked-Credentials](https://github.com/h4x0r-dz/Leaked-Credentials) - how to look for Leaked Credentials !
 - [CScorza/OSINTInvestigation](https://github.com/CScorza/OSINTInvestigation) - OSINTinvestigation - Tecniche OSINT - Strumenti - DeepWeb - Archivio
 - [secfigo/Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Developme
-- [knassar702/awesome-linux-minimalism](https://github.com/knassar702/awesome-linux-minimalism) - awesome linux minimalism suggestions
+- [MindPatch/awesome-linux-minimalism](https://github.com/MindPatch/awesome-linux-minimalism) - awesome linux minimalism suggestions
 - [thecybertix/One-Liner-Collections](https://github.com/thecybertix/One-Liner-Collections) - This Repositories contains list of One Liners with Descriptions and Installation requirements
 - [Gentleflow/Airclap](https://github.com/Gentleflow/Airclap) - The best file transfer tool that is user-friendly, cross-platform, ultra-fast, and beautifully designed.
 - [arkadiyt/bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
@@ -1134,7 +1141,7 @@
 - [EdOverflow/bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [woj-ciech/LeakLooker](https://github.com/woj-ciech/LeakLooker) - Find open databases - Powered by Binaryedge.io
-- [Tek-Security-Group/Password-Repo](https://github.com/Tek-Security-Group/Password-Repo) - 
+- [tektengu/Password-Repo](https://github.com/tektengu/Password-Repo) - 
 - [Hack-with-Github/Awesome-Security-Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists) - A collection of various GitHub gists for hackers, pentesters and security researchers
 - [paralax/awesome-internet-scanning](https://github.com/paralax/awesome-internet-scanning) - A curated list of awesome Internet port and host scanners, plus related components and much more, with a focus on free and open source projects.
 - [soxoj/counter-osint-guide-ru](https://github.com/soxoj/counter-osint-guide-ru) - Исчерпывающее руководство по приватности и контр-ОСИНТ для Рунета и всего СНГ 🇷🇺
@@ -1268,6 +1275,9 @@
 
 ## Python 
 
+- [ANG13T/satnow-scraper](https://github.com/ANG13T/satnow-scraper) - OSINT web scraper for SatNow to extract details about satellite components and subsystem specs for in-depth reconnaissance 🛸
+- [dobin/avred](https://github.com/dobin/avred) - Analyse your malware to surgically obfuscate it
+- [lmsecure/vk_visualizer](https://github.com/lmsecure/vk_visualizer) - vusialization of geo points from photos from vk profile
 - [0SINTr/osintr](https://github.com/0SINTr/osintr) - OSINT tool for researching individuals based on user input such as email, username, name or company. OFM Stage 1 tool for GRASS (Google Recursive Advanced Search & Scrape) via SerperDev and Firecrawl.
 - [AIDC-AI/Ovis](https://github.com/AIDC-AI/Ovis) - A novel Multimodal Large Language Model (MLLM) architecture, designed to structurally align visual and textual embeddings.
 - [SocialLinks-IO/emailrep-maltego](https://github.com/SocialLinks-IO/emailrep-maltego) - Email reputation check transform for Maltego
@@ -1293,7 +1303,7 @@
 - [itsOwen/CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077) - A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama
 - [fbdesignpro/sweetviz](https://github.com/fbdesignpro/sweetviz) - Visualize and compare datasets, target values and associations, with one line of code.
 - [Speedml/speedml](https://github.com/Speedml/speedml) - Speedml is a Python package to speed start machine learning projects.
-- [amitupreti/Email-Crawler-Lead-Generator](https://github.com/amitupreti/Email-Crawler-Lead-Generator) - This email crawler will visit all pages of a provided website and parse and save emails found to a csv file.
+- [superryeti/Email-Crawler-Lead-Generator](https://github.com/superryeti/Email-Crawler-Lead-Generator) - This email crawler will visit all pages of a provided website and parse and save emails found to a csv file.
 - [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Lightning-fast serving engine for any AI model of any size. Flexible. Easy. Enterprise-scale.
 - [sentient-engineering/jobber](https://github.com/sentient-engineering/jobber) - browser controlling AI agent that applies to relavant jobs on internet autonomously. join chat @ https://discord.gg/umgnyQU2K8
 - [initstring/cloud_enum](https://github.com/initstring/cloud_enum) - Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
@@ -2259,6 +2269,7 @@
 
 ## Shell 
 
+- [OffXec/brutecms](https://github.com/OffXec/brutecms) - Multi-threaded CMS BruteForcer to WordPress, Joomla, Drupal, OpenCart
 - [1N3/Findsploit](https://github.com/1N3/Findsploit) - Find exploits in local and online databases instantly
 - [wolandark/bash-dungeon](https://github.com/wolandark/bash-dungeon) - An educational dungeon crawler in the shell
 - [emrekybs/Pip-Intel](https://github.com/emrekybs/Pip-Intel) - PIP-INTEL is an OSINT (Open Source Intelligence) tool designed using various open-source tools and pip packages.
@@ -2407,11 +2418,13 @@
 
 ## TypeScript 
 
+- [Brayden/starbasedb](https://github.com/Brayden/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects.
+- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-- [zaidmukaddam/miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK Search with models like GPT-4o mini, Claude 3.5 Sonnet and o1-mini!
+- [zaidmukaddam/miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK Search with models like GPT-4o mini, GPT-4o and Claude 3.5 Sonnet(New)!
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
