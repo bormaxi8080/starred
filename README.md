@@ -81,6 +81,7 @@
 
 ## C 
 
+- [huuck/FlipperZeroUSBKeyboard](https://github.com/huuck/FlipperZeroUSBKeyboard) - Turn your Flipper Zero into an USB keyboard
 - [hackerschoice/zapper](https://github.com/hackerschoice/zapper) - Zaps arguments and environment from the process list
 - [Maldev-Academy/EmbedPayloadInPng](https://github.com/Maldev-Academy/EmbedPayloadInPng) - Embed a payload inside a PNG file
 - [martijnvanbrummelen/nwipe](https://github.com/martijnvanbrummelen/nwipe) - nwipe secure disk eraser
@@ -217,7 +218,7 @@
 - [ivan-sincek/invoker](https://github.com/ivan-sincek/invoker) - Penetration testing utility and antivirus assessment tool.
 - [klezVirus/SilentMoonwalk](https://github.com/klezVirus/SilentMoonwalk) - PoC Implementation of a fully dynamic call stack spoofer
 - [cartographer-project/cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
-- [StefanoDeVuono/steghide](https://github.com/StefanoDeVuono/steghide) - 
+- [StegHigh/steghide](https://github.com/StegHigh/steghide) - 
 - [jselbie/stunserver](https://github.com/jselbie/stunserver) - Version 1.2. This is the source code to STUNTMAN - an open source STUN server and client code by john selbie.  Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards co
 - [hpdeifel/pdfgrep](https://github.com/hpdeifel/pdfgrep) - Read-only mirror of https://gitlab.com/pdfgrep/pdfgrep - please open issues/merge-requests there
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
@@ -287,6 +288,8 @@
 
 ## Go 
 
+- [x-sushant-x/Rate-Shield](https://github.com/x-sushant-x/Rate-Shield) - A configurable rate limiter that can apply rate limiting on individual APIs with individual rules.
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [tofl/PNGify](https://github.com/tofl/PNGify) - A command line tool to encode text and files into PNG images
 - [RiadZX/FlipperPasswordExtractor](https://github.com/RiadZX/FlipperPasswordExtractor) - FlipperZero Browser passwords extractor:  Chrome | Edge
 - [harsh082ip/Video-transcoder_Go](https://github.com/harsh082ip/Video-transcoder_Go) - 🚀 Efficiently scalable video transcoding service, designed for seamless conversion across multiple formats 🎥, ensuring high performance and loose coupling between cloud-based components ☁️.
@@ -553,6 +556,7 @@
 
 ## HTML 
 
+- [OSINTI4L/The-Kitchen-Sink](https://github.com/OSINTI4L/The-Kitchen-Sink) - A collection of Open-Source Intelligence resources.
 - [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) - Social engineering tool [Access Webcam & Microphone  & Location Finder] With {Py,JS,PHP}
 - [cloudtracer/ThreatPinchLookup](https://github.com/cloudtracer/ThreatPinchLookup) - Documentation and Sharing Repository for ThreatPinch Lookup Chrome & Firefox Extension
 - [neospl0it/osint-bookmark](https://github.com/neospl0it/osint-bookmark) - A curated list of OSINT tools for company research, internet scanning, DNS, and Whois lookups, organized for easy access. Ideal for analysts, researchers, and cybersecurity professionals.
@@ -697,6 +701,7 @@
 - [nordszamora/Stealth-Message](https://github.com/nordszamora/Stealth-Message) - StealthMessage is a designed platform that allows users to send and receive anonymous messages without revealing its identity.
 - [Jet-labs/jet-admin](https://github.com/Jet-labs/jet-admin) - Web based PostgreSQL tables manager and admin dashboard for your operations! Edit data, build graphs and dashboards using queries.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
+- [InternLM/MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [steven2358/reveye](https://github.com/steven2358/reveye) - Reverse image search extension for Google Chrome.
@@ -984,6 +989,7 @@
 
 ## Others 
 
+- [Escapingbug/awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit) - awesome list of browser exploitation tutorials
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [SocialLinks-IO/center-of-excellence](https://github.com/SocialLinks-IO/center-of-excellence) - A quick overview of what a Social Links OSINT CoE (Center of Excellence ) is.
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
@@ -1275,6 +1281,11 @@
 
 ## Python 
 
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
+- [llistochek/yandex-music-downloader](https://github.com/llistochek/yandex-music-downloader) - Загрузчик музыки с сервиса Яндекс.Музыка
+- [ibnaleem/instatracker](https://github.com/ibnaleem/instatracker) - 📸 an Instagram tracker that logs any changes to an Instagram account (followers, following, posts, and bio)
+- [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
+- [DARKM00N1337/ChatGPT_Telegram_Commentator](https://github.com/DARKM00N1337/ChatGPT_Telegram_Commentator) - ChatGPT will write comments on your behalf in telegram and do it the fastest.
 - [ANG13T/satnow-scraper](https://github.com/ANG13T/satnow-scraper) - OSINT web scraper for SatNow to extract details about satellite components and subsystem specs for in-depth reconnaissance 🛸
 - [dobin/avred](https://github.com/dobin/avred) - Analyse your malware to surgically obfuscate it
 - [lmsecure/vk_visualizer](https://github.com/lmsecure/vk_visualizer) - vusialization of geo points from photos from vk profile
@@ -1325,7 +1336,6 @@
 - [rly0nheart/tiktok-hashtag-analysis](https://github.com/rly0nheart/tiktok-hashtag-analysis) - Analyze hashtags within posts scraped from TikTok.
 - [slouchd/tiktok-scraper-selenium](https://github.com/slouchd/tiktok-scraper-selenium) - Quick and dirty script that uses selenium and a webdriver binary to scrape public TikTok profiles.
 - [estebanpdl/tik-spyder](https://github.com/estebanpdl/tik-spyder) - A Python command-line tool designed to collect TikTok data from Google's search results using SerpAPI.
-- [InternLM/MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 - [krakodjaba/TelAnalysis](https://github.com/krakodjaba/TelAnalysis) - TelAnalysis - Telegram Analysis tool
 - [B0lg0r0v/Elyzer](https://github.com/B0lg0r0v/Elyzer) - Elyzer is an email header analyzer, written in python, capable of detecting potential spoofing attempts.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
@@ -1357,7 +1367,7 @@
 - [cocrawler/cocrawler](https://github.com/cocrawler/cocrawler) - CoCrawler is a versatile web crawler built using modern tools and concurrency.
 - [YouVBeenHacked/gideon](https://github.com/YouVBeenHacked/gideon) - Simple tool for searching and collection information
 - [UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) - [ECCV 2024] Official implementation of the paper "Semantic-SAM: Segment and Recognize Anything at Any Granularity"
-- [AiuniAI/Unique3D](https://github.com/AiuniAI/Unique3D) - Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
+- [AiuniAI/Unique3D](https://github.com/AiuniAI/Unique3D) - [NeurIPS 2024] Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
 - [qinxuye/cola](https://github.com/qinxuye/cola) - A high-level distributed crawling framework.
 - [rivermont/spidy](https://github.com/rivermont/spidy) - The simple, easy to use command line web crawler.
 - [efeali/fragtunnel](https://github.com/efeali/fragtunnel) - Fragtunnel is a proof-of-concept (PoC) TCP tunnel tool that you can use to tunnel your application's traffic and bypass next-generation firewalls en route to the target.
@@ -2188,6 +2198,8 @@
 
 ## Rust 
 
+- [mcronce/oci-registry](https://github.com/mcronce/oci-registry) - 
+- [vxfemboy/ghostport](https://github.com/vxfemboy/ghostport) - A high-performance port spoofing tool built in Rust. Confuse port scanners with dynamic service emulation across all ports. Features customizable signatures, efficient async handling, and easy traffic
 - [FedericoBruzzone/tgt](https://github.com/FedericoBruzzone/tgt) - TUI for Telegram written in Rust 🦀
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
@@ -2247,7 +2259,7 @@
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [travisbrown/memory.lol](https://github.com/travisbrown/memory.lol) - memory.lol
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [SeaDve/Mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
@@ -2418,6 +2430,7 @@
 
 ## TypeScript 
 
+- [Thavarshan/comet](https://github.com/Thavarshan/comet) - ☄️ A cross-platform desktop app powered by FFmpeg for easy, beautiful media conversion.
 - [Brayden/starbasedb](https://github.com/Brayden/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects.
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
