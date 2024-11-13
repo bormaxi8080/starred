@@ -173,7 +173,7 @@
 - [ZennoHelpers/Snippets](https://github.com/ZennoHelpers/Snippets) - 🗂 Коллекция сниппетов пользователей ZennoPoster
 - [CCob/okta-terrify](https://github.com/CCob/okta-terrify) - Okta Verify and Okta FastPass Abuse Tool
 - [vvvv/Remoter](https://github.com/vvvv/Remoter) - GUI over PAExec and robocopy to remote a bunch of PCs at once
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and v2fly core and others
 - [timo-reymann/UniLaunch](https://github.com/timo-reymann/UniLaunch) - Advanced universal autostart tool for use on Linux, MacOS and Windows.
 - [moom825/xeno-rat](https://github.com/moom825/xeno-rat) - Xeno-RAT is an open-source remote access tool (RAT) developed in C#, providing a comprehensive set of features for remote system management. Has features such as HVNC, live microphone, reverse proxy, 
 - [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
@@ -288,6 +288,9 @@
 
 ## Go 
 
+- [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - OSINT tool for searching usernames across social networks, written in Go.
+- [ibnaleem/cc-validation-webserver](https://github.com/ibnaleem/cc-validation-webserver) - A lightweight web server for validating credit card numbers, written in Go.
+- [ibnaleem/checksum](https://github.com/ibnaleem/checksum) - File checksum verification tool written in Go.
 - [x-sushant-x/Rate-Shield](https://github.com/x-sushant-x/Rate-Shield) - A configurable rate limiter that can apply rate limiting on individual APIs with individual rules.
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [tofl/PNGify](https://github.com/tofl/PNGify) - A command line tool to encode text and files into PNG images
@@ -297,7 +300,7 @@
 - [Banh-Canh/ytui](https://github.com/Banh-Canh/ytui) - ytui is a TUI tool that allows users to query videos on youtube and play them in their local player.
 - [medama-io/go-useragent](https://github.com/medama-io/go-useragent) - Fast trie-based user-agent parser in Go.
 - [mrinjamul/go-dupfinder](https://github.com/mrinjamul/go-dupfinder) - Duplicate File Finder.
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.
 - [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
 - [polarsignals/frostdb](https://github.com/polarsignals/frostdb) - ❄️ Coolest database around 🧊 Embeddable column database written in Go.
 - [ftp27/go-universal-redirect](https://github.com/ftp27/go-universal-redirect) - Lightweight Go server that redirects users to platform-specific URLs (e.g., App Store, Play Store)
@@ -636,6 +639,7 @@
 
 ## Java 
 
+- [igor-pcholkin/DataAnonymization](https://github.com/igor-pcholkin/DataAnonymization) - Data anonymization & masking of sensitive information in a relational database. Auto detection of sensitive data.
 - [apache/gravitino](https://github.com/apache/gravitino) - World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
 - [OpenBAS-Platform/openbas](https://github.com/OpenBAS-Platform/openbas) - Open Breach and Attack Simulation Platform
 - [real-logic/agrona](https://github.com/real-logic/agrona) - High Performance data structures and utility methods for Java
@@ -667,7 +671,7 @@
 - [guardianproject/ripple](https://github.com/guardianproject/ripple) - A "panic button" app for triggering a "ripple effect" across apps that are set up to respond to panic events
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [ukanth/afwall](https://github.com/ukanth/afwall) - AFWall+ (Android Firewall +) - iptables based firewall for Android
-- [vitaminncpp/TouchDroid](https://github.com/vitaminncpp/TouchDroid) - An Android App that can be used as laptop touchpad via local Network
+- [SKRInternationals/TouchDroid](https://github.com/SKRInternationals/TouchDroid) - An Android App that can be used as laptop touchpad via local Network
 - [barancev/webdriver-factory](https://github.com/barancev/webdriver-factory) - An utility to manage WebDriver instances
 - [syvaidya/openstego](https://github.com/syvaidya/openstego) - OpenStego is a steganography application that provides two functionalities: a) Data Hiding: It can hide any data within an image file. b) Watermarking: Watermarking image files with an invisible signa
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -752,7 +756,6 @@
 - [cjihrig/swagger-jacker](https://github.com/cjihrig/swagger-jacker) - Express API documentation generator
 - [ia-stepanov/autosend-letters-hh](https://github.com/ia-stepanov/autosend-letters-hh) - AutoSend Letters HeadHunter — это скрипт для автоматической отправки откликов на HeadHunter (hh).
 - [Ademking/InstaFollower](https://github.com/Ademking/InstaFollower) - 🚀 Instagram : Auto Follow users from List
-- [mrd0x/BITB](https://github.com/mrd0x/BITB) - Browser In The Browser (BITB) Templates
 - [agusmakmun/django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI
 - [arcaneiceman/kraken](https://github.com/arcaneiceman/kraken) - Kraken: A multi-platform distributed brute-force password cracking system
 - [invideu/invid-verification-plugin](https://github.com/invideu/invid-verification-plugin) - 
@@ -1266,9 +1269,9 @@
 
 ## PowerShell 
 
+- [rf-bandit/flipperzero](https://github.com/rf-bandit/flipperzero) - A collection of flipper zero stuff
 - [LearningKijo/SecurityResearcher-Note](https://github.com/LearningKijo/SecurityResearcher-Note) - Cover various security approaches to attack techniques and also provides new discoveries about security breaches.
 - [awakecoding/wireshark-rdp](https://github.com/awakecoding/wireshark-rdp) - Wireshark RDP resources
-- [FalsePhilosopher/badusb](https://github.com/FalsePhilosopher/badusb) - Flipper Zero badusb payload library
 - [Marshall-Hallenbeck/red_team_attack_lab](https://github.com/Marshall-Hallenbeck/red_team_attack_lab) - Red Team Attack Lab for TTP testing & research
 - [last-byte/PersistenceSniper](https://github.com/last-byte/PersistenceSniper) - Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. Official Twitter/X account @PersistSniper. Made with
 - [Leo4j/Amnesiac](https://github.com/Leo4j/Amnesiac) - Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist with lateral movement within Active Directory environments
@@ -1281,15 +1284,16 @@
 
 ## Python 
 
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
+- [unnohwn/telegram-scraper](https://github.com/unnohwn/telegram-scraper) - A powerful Python script that allows you to scrape messages and media from Telegram channels using the Telethon library. Features include real-time continuous scraping, media downloading, and data exp
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [llistochek/yandex-music-downloader](https://github.com/llistochek/yandex-music-downloader) - Загрузчик музыки с сервиса Яндекс.Музыка
-- [ibnaleem/instatracker](https://github.com/ibnaleem/instatracker) - 📸 an Instagram tracker that logs any changes to an Instagram account (followers, following, posts, and bio)
+- [ibnaleem/instatracker](https://github.com/ibnaleem/instatracker) - 📸 an Instagram tracking script that logs any changes to an Instagram account (followers, following, posts, and bio) written in Python.
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
 - [DARKM00N1337/ChatGPT_Telegram_Commentator](https://github.com/DARKM00N1337/ChatGPT_Telegram_Commentator) - ChatGPT will write comments on your behalf in telegram and do it the fastest.
 - [ANG13T/satnow-scraper](https://github.com/ANG13T/satnow-scraper) - OSINT web scraper for SatNow to extract details about satellite components and subsystem specs for in-depth reconnaissance 🛸
 - [dobin/avred](https://github.com/dobin/avred) - Analyse your malware to surgically obfuscate it
 - [lmsecure/vk_visualizer](https://github.com/lmsecure/vk_visualizer) - vusialization of geo points from photos from vk profile
-- [0SINTr/osintr](https://github.com/0SINTr/osintr) - OSINT tool for researching individuals based on user input such as email, username, name or company. OFM Stage 1 tool for GRASS (Google Recursive Advanced Search & Scrape) via SerperDev and Firecrawl.
 - [AIDC-AI/Ovis](https://github.com/AIDC-AI/Ovis) - A novel Multimodal Large Language Model (MLLM) architecture, designed to structurally align visual and textual embeddings.
 - [SocialLinks-IO/emailrep-maltego](https://github.com/SocialLinks-IO/emailrep-maltego) - Email reputation check transform for Maltego
 - [SocialLinks-IO/interpol-notices-maltego](https://github.com/SocialLinks-IO/interpol-notices-maltego) - A list of transforms for searching Red, Yellow, and UNSC notices by Name or Phrase.
@@ -1357,7 +1361,7 @@
 - [scrapinghub/varanus](https://github.com/scrapinghub/varanus) - A command line spider monitoring tool
 - [UndeadSec/SwaggerSpy](https://github.com/UndeadSec/SwaggerSpy) - Automated OSINT on SwaggerHub
 - [6abd/horus](https://github.com/6abd/horus) - An OSINT / digital forensics tool built in Python
-- [lawndoc/Respotter](https://github.com/lawndoc/Respotter) - Respotter is a Responder honeypot! Catch attackers as soon as they spin up Responder in your environment.
+- [lawndoc/Respotter](https://github.com/lawndoc/Respotter) - Respotter is a Responder honeypot. Detect Responder in your environment as soon as it's spun up.
 - [manning23/MSpider](https://github.com/manning23/MSpider) - Spider
 - [howie6879/ruia](https://github.com/howie6879/ruia) - Async Python 3.6+ web scraping micro-framework based on asyncio
 - [scrapinghub/number-parser](https://github.com/scrapinghub/number-parser) - Parse numbers written in natural language
@@ -1684,7 +1688,6 @@
 - [SMAT-Lab/Scalpel](https://github.com/SMAT-Lab/Scalpel) - Scalpel: The Python Static Analysis Framework
 - [TURROKS/CVE_Prioritizer](https://github.com/TURROKS/CVE_Prioritizer) - Streamline vulnerability patching with CVSS, EPSS, and CISA's Known Exploited Vulnerabilities. Prioritize actions based on real-time threat information, gain a competitive advantage, and stay informed
 - [infobyte/emploleaks](https://github.com/infobyte/emploleaks) - An OSINT tool that helps detect members of a company with leaked credentials
-- [blackorbird/APT_REPORT](https://github.com/blackorbird/APT_REPORT) - Interesting APT Report Collection And Some Special IOC
 - [tomchang25/whisper-auto-transcribe](https://github.com/tomchang25/whisper-auto-transcribe) - Auto transcribe tool based on whisper
 - [soderstromkr/whisper-local-transcribe](https://github.com/soderstromkr/whisper-local-transcribe) - Simple implementation of OpenAI's whisper model to transcribe audio files from your local folders.
 - [bellingcat/whisperbox-transcribe](https://github.com/bellingcat/whisperbox-transcribe) - Easy to deploy API for transcribing and translating audio / video using OpenAI's whisper model.
@@ -1891,7 +1894,7 @@
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
 - [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Platform for building AI that can learn and answer questions over federated data.
 - [yurijmikhalevich/rclip](https://github.com/yurijmikhalevich/rclip) - AI-Powered Command-Line Photo Search Tool
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [punk-security/Timeline](https://github.com/punk-security/Timeline) - A tool for creating SVG timelines from simple JSON input.
@@ -2430,6 +2433,7 @@
 
 ## TypeScript 
 
+- [seadfeng/favicon-downloader](https://github.com/seadfeng/favicon-downloader) - 
 - [Thavarshan/comet](https://github.com/Thavarshan/comet) - ☄️ A cross-platform desktop app powered by FFmpeg for easy, beautiful media conversion.
 - [Brayden/starbasedb](https://github.com/Brayden/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects.
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
