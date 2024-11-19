@@ -119,7 +119,7 @@
 - [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tools
 - [3nock/OTE](https://github.com/3nock/OTE) - OSINT Template Engine
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
-- [Sysinternals/SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - 
+- [microsoft/SysmonForLinux](https://github.com/microsoft/SysmonForLinux) - Sysmon for Linux
 - [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
 - [matricali/cbrutekrag](https://github.com/matricali/cbrutekrag) - Penetration tests on SSH servers using brute force or dictionary attacks. Written in C.
 - [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF
@@ -190,6 +190,8 @@
 
 ## C++ 
 
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).
+- [RamboRogers/rfhunter](https://github.com/RamboRogers/rfhunter) - RFHunter is a device to find hidden Cameras at AirBNBs
 - [Speek-App/Speek](https://github.com/Speek-App/Speek) - Privacy focused messenger that doesn't trust anyone with your identity, your contact list, or your communications
 - [eried/flipperzero-mayhem](https://github.com/eried/flipperzero-mayhem) - Perfect companion for your Flipper Zero. ESP32 with WiFi, BT/BLE, micro-SD, camera+PSRAM, flashlight and extras: NRF24/CC1101, 3V/5V sensors
 - [GaneshBalaji-04/Pytster](https://github.com/GaneshBalaji-04/Pytster) - 
@@ -288,6 +290,9 @@
 
 ## Go 
 
+- [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) - Linux/Windows post-exploitation framework made by linux user
+- [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - OSINT tool for searching usernames across social networks, written in Go.
 - [ibnaleem/cc-validation-webserver](https://github.com/ibnaleem/cc-validation-webserver) - A lightweight web server for validating credit card numbers, written in Go.
 - [ibnaleem/checksum](https://github.com/ibnaleem/checksum) - File checksum verification tool written in Go.
@@ -692,6 +697,8 @@
 
 ## JavaScript 
 
+- [VBproDev/Canvascript](https://github.com/VBproDev/Canvascript) - Create HTML canvas graphics without writing code. Just draw with your pointer on the HTML canvas, then get the code to render it.
+- [miroslavpejic85/call-me](https://github.com/miroslavpejic85/call-me) - 🟢 Call-Me: Your Go-To for Instant Video Calls!
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [supabase-community/babelfish.ai](https://github.com/supabase-community/babelfish.ai) - A realtime live transcription and translation app built with Huggingface Transformer.js and Supabase Realtime.
@@ -992,6 +999,12 @@
 
 ## Others 
 
+- [paulpogoda/OSINT-Tools-Tajikistan](https://github.com/paulpogoda/OSINT-Tools-Tajikistan) - Open Data and sources for OSINT in Tajikistan
+- [paulpogoda/OSINT-Tools-Uzbekistan](https://github.com/paulpogoda/OSINT-Tools-Uzbekistan) - A list of sources for OSINT in Uzbekistan
+- [paulpogoda/osint-cse](https://github.com/paulpogoda/osint-cse) - Custom Search Engines for OSINT
+- [paulpogoda/OSINT-for-countries](https://github.com/paulpogoda/OSINT-for-countries) - Methodology, links, tools for OSINT in different countries
+- [paulpogoda/OSINT-Tools-Kazakhstan](https://github.com/paulpogoda/OSINT-Tools-Kazakhstan) - I have compiled a list of OSINT tools that may be useful to you when conducting investigations related to Kazakhstan. Do you want me to add more? Make a pull-request.
+- [paulpogoda/OSINT-Tools-Kyrgyzstan](https://github.com/paulpogoda/OSINT-Tools-Kyrgyzstan) - OSINT for Kyrgyz Republic
 - [Escapingbug/awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit) - awesome list of browser exploitation tutorials
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [SocialLinks-IO/center-of-excellence](https://github.com/SocialLinks-IO/center-of-excellence) - A quick overview of what a Social Links OSINT CoE (Center of Excellence ) is.
@@ -1284,6 +1297,8 @@
 
 ## Python 
 
+- [issarapong/FTP-Miner](https://github.com/issarapong/FTP-Miner) - An FTP search engine scraper
+- [JeiKeiLim/noone_video](https://github.com/JeiKeiLim/noone_video) - Make faces blurred for videos using DNN
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [unnohwn/telegram-scraper](https://github.com/unnohwn/telegram-scraper) - A powerful Python script that allows you to scrape messages and media from Telegram channels using the Telethon library. Features include real-time continuous scraping, media downloading, and data exp
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -1972,13 +1987,14 @@
 - [mautrix/telegram](https://github.com/mautrix/telegram) - A Matrix-Telegram hybrid puppeting/relaybot bridge
 - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [LingDong-/linedraw](https://github.com/LingDong-/linedraw) - Convert images to vectorized line drawings for plotters.
+- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [rajatomar788/pywebcopy](https://github.com/rajatomar788/pywebcopy) - Locally saves webpages to your hard disk with images, css, js & links as is.
 - [bambax/Remsi](https://github.com/bambax/Remsi) - Remove silence from video files with a 1-line ffmpeg command
 - [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
-- [rodukov/openNasa](https://github.com/rodukov/openNasa) - This software can parse pictures from the Nasa server. I used python and requests library to parse and save images.
+- [rodukov/openNasa](https://github.com/rodukov/openNasa) - Software can parse pictures from the Nasa server. I used python and requests library to parse and save images.
 - [UlionTse/translators](https://github.com/UlionTse/translators) - 🌏🌍🌎Translators🌎🌍🌏 is a library that aims to bring free, multiple, enjoyable translations to individuals and students in Python.  Translators是一个旨在用Python为个人和学生带来免费、多样、愉快翻译的库。
 - [Animenosekai/translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
 - [Dragon-Userbot/Dragon-Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot) - Userbot for telegram with easiest installation
@@ -2433,6 +2449,7 @@
 
 ## TypeScript 
 
+- [adaline/gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
 - [seadfeng/favicon-downloader](https://github.com/seadfeng/favicon-downloader) - 
 - [Thavarshan/comet](https://github.com/Thavarshan/comet) - ☄️ A cross-platform desktop app powered by FFmpeg for easy, beautiful media conversion.
 - [Brayden/starbasedb](https://github.com/Brayden/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects.
@@ -2556,6 +2573,7 @@
 
 ## Vue 
 
+- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [simulaiofficial/simulai](https://github.com/simulaiofficial/simulai) - simulai is a Notion-inspired open-source and free conversational survey builder, powered by AI.
