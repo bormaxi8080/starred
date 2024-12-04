@@ -174,7 +174,7 @@
 - [ZennoHelpers/Snippets](https://github.com/ZennoHelpers/Snippets) - 🗂 Коллекция сниппетов пользователей ZennoPoster
 - [CCob/okta-terrify](https://github.com/CCob/okta-terrify) - Okta Verify and Okta FastPass Abuse Tool
 - [vvvv/Remoter](https://github.com/vvvv/Remoter) - GUI over PAExec and robocopy to remote a bunch of PCs at once
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and others
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and sing-box-core and others
 - [timo-reymann/UniLaunch](https://github.com/timo-reymann/UniLaunch) - Advanced universal autostart tool for use on Linux, MacOS and Windows.
 - [moom825/xeno-rat](https://github.com/moom825/xeno-rat) - Xeno-RAT is an open-source remote access tool (RAT) developed in C#, providing a comprehensive set of features for remote system management. Has features such as HVNC, live microphone, reverse proxy, 
 - [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
@@ -293,6 +293,7 @@
 
 ## Go 
 
+- [darwishdev/sqlseeder](https://github.com/darwishdev/sqlseeder) - 
 - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
@@ -457,7 +458,7 @@
 - [Malwarize/webpalm](https://github.com/Malwarize/webpalm) - 🕸️  Crawl in the web network
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [denandz/sourcemapper](https://github.com/denandz/sourcemapper) - Extract JavaScript source trees from Sourcemap files
-- [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A command-line utility designed to help you discover URLs for a given domain in a simple, efficient way. It works by gathering information from a variety of passive sources, meaning it doesn't interac
+- [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A command-line utility designed to discover URLs for a given domain in a simple, efficient way. It works by gathering information from a variety of passive sources, meaning it doesn't interact directl
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [securebinary/firebaseExploiter](https://github.com/securebinary/firebaseExploiter) - FirebaseExploiter is a vulnerability discovery tool that discovers Firebase Database which are open and can be exploitable. Primarily built for mass hunting bug bounties and for penetration testing.
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
@@ -570,6 +571,8 @@
 
 ## HTML 
 
+- [bigbrodude6119/flipper-zero-evil-portal](https://github.com/bigbrodude6119/flipper-zero-evil-portal) - Evil portal app for the flipper zero + WiFi dev board
+- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - A list of software that allows searching the web with the assistance of AI.
 - [OSINTI4L/The-Kitchen-Sink](https://github.com/OSINTI4L/The-Kitchen-Sink) - A collection of Open-Source Intelligence resources.
 - [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) - Social engineering tool [Access Webcam & Microphone  & Location Finder] With {Py,JS,PHP}
 - [cloudtracer/ThreatPinchLookup](https://github.com/cloudtracer/ThreatPinchLookup) - Documentation and Sharing Repository for ThreatPinch Lookup Chrome & Firefox Extension
@@ -583,7 +586,7 @@
 - [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
 - [bormaxi8080/awesome-books-for-osinters](https://github.com/bormaxi8080/awesome-books-for-osinters) - Awesome recomended books for OSINTers
 - [klarna-incubator/webtraversallibrary](https://github.com/klarna-incubator/webtraversallibrary) - The Web Traversal Library (WTL) is a Python library for abstracting web interactions on top of a base execution layer such as Selenium.
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [EtherDream/headphone-morse-transmitter](https://github.com/EtherDream/headphone-morse-transmitter) - Send Morse code via ⏮️ ⏸️ ⏯️
 - [dikshantrajput/noFap](https://github.com/dikshantrajput/noFap) - Browser tool designed to block access to pornographic websites. It automatically bans such websites without the need for user intervention. It provides a simple and effective solution for those seekin
@@ -651,6 +654,7 @@
 
 ## Java 
 
+- [MKLab-ITI/image-forensics](https://github.com/MKLab-ITI/image-forensics) - 
 - [igor-pcholkin/DataAnonymization](https://github.com/igor-pcholkin/DataAnonymization) - Data anonymization & masking of sensitive information in a relational database. Auto detection of sensitive data.
 - [apache/gravitino](https://github.com/apache/gravitino) - World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
 - [OpenBAS-Platform/openbas](https://github.com/OpenBAS-Platform/openbas) - Open Breach and Attack Simulation Platform
@@ -704,6 +708,9 @@
 
 ## JavaScript 
 
+- [aviaryan/voice-writing-electron](https://github.com/aviaryan/voice-writing-electron) - A real-time, instant dictation desktop application built on Electron that uses Whisper and GROQ under the hood
+- [chancejs/chancejs](https://github.com/chancejs/chancejs) - Chance - Random generator helper for JavaScript
+- [0x41head/posthumous-automation](https://github.com/0x41head/posthumous-automation) - Code gets invoked when I die
 - [VBproDev/Canvascript](https://github.com/VBproDev/Canvascript) - Create HTML canvas graphics without writing code. Just draw with your pointer on the HTML canvas, then get the code to render it.
 - [miroslavpejic85/call-me](https://github.com/miroslavpejic85/call-me) - 🟢 Call-Me: Your Go-To for Instant Video Calls!
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
@@ -798,7 +805,6 @@
 - [burlesco/burlesco](https://github.com/burlesco/burlesco) - Leia notícias sem ser assinante, burle o paywall (WebExtension)
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
-- [apify/apify-client-js](https://github.com/apify/apify-client-js) - Apify API client for JavaScript / Node.js.
 - [apify/actor-scraper](https://github.com/apify/actor-scraper) - House of Apify Scrapers. Generic scraping actors with a simple UI to handle complex web crawling and scraping use cases.
 - [apify/proxy-chain](https://github.com/apify/proxy-chain) - Node.js implementation of a proxy server (think Squid) with support for SSL, authentication and upstream proxy chaining.
 - [tejado/telegram-nearby-map](https://github.com/tejado/telegram-nearby-map) - Discover the location of nearby Telegram users 📡🌍
@@ -1005,9 +1011,13 @@
 
 ## Others 
 
+- [paulpogoda/OSINT-Tools-Israel](https://github.com/paulpogoda/OSINT-Tools-Israel) - Websites and tools for OSINT investigations pertaining to Israel
+- [paulpogoda/OSINT-Tools-Bulgaria](https://github.com/paulpogoda/OSINT-Tools-Bulgaria) - Bulgarian OSINT tools list.
+- [paulpogoda/OSINT-Tools-Russia](https://github.com/paulpogoda/OSINT-Tools-Russia) - A list of OSINT tools that may be useful to you when conducting investigations related to Russian Federation
+- [paulpogoda/OSINT-Tools-Emirates](https://github.com/paulpogoda/OSINT-Tools-Emirates) - Tools for OSINT in Emirates
 - [paulpogoda/OSINT-Tools-Tajikistan](https://github.com/paulpogoda/OSINT-Tools-Tajikistan) - Open Data and sources for OSINT in Tajikistan
 - [paulpogoda/OSINT-Tools-Uzbekistan](https://github.com/paulpogoda/OSINT-Tools-Uzbekistan) - A list of sources for OSINT in Uzbekistan
-- [paulpogoda/osint-cse](https://github.com/paulpogoda/osint-cse) - Custom Search Engines for OSINT
+- [paulpogoda/OSINT-CSE](https://github.com/paulpogoda/OSINT-CSE) - Custom Search Engines for OSINT
 - [paulpogoda/OSINT-for-countries](https://github.com/paulpogoda/OSINT-for-countries) - Methodology, links, tools for OSINT in different countries
 - [paulpogoda/OSINT-Tools-Kazakhstan](https://github.com/paulpogoda/OSINT-Tools-Kazakhstan) - I have compiled a list of OSINT tools that may be useful to you when conducting investigations related to Kazakhstan. Do you want me to add more? Make a pull-request.
 - [paulpogoda/OSINT-Tools-Kyrgyzstan](https://github.com/paulpogoda/OSINT-Tools-Kyrgyzstan) - OSINT for Kyrgyz Republic
@@ -1188,7 +1198,6 @@
 - [ohsusannamarie/Shareworthy-Technical-Interview-Prep-Resources](https://github.com/ohsusannamarie/Shareworthy-Technical-Interview-Prep-Resources) - Shareworthy Interview Prep Resources w/ clickable links (HackerRank Interview Prep Kit, Cracking the Coding Interview eBook, Example of Coding/Engineering Interview Video, & more!)
 - [willc/OSINT-flowcharts](https://github.com/willc/OSINT-flowcharts) - OSINT flowcharts. Credit to IntelTechniques.com
 - [zincwork/Open_Source_Your_Interview_Process](https://github.com/zincwork/Open_Source_Your_Interview_Process) - If we’re able to share notes, we can learn from each other and all spend less time interviewing.
-- [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -1301,6 +1310,12 @@
 
 ## Python 
 
+- [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
+- [jhj0517/AdvancedLivePortrait-WebUI](https://github.com/jhj0517/AdvancedLivePortrait-WebUI) - gradio WebUI for AdvancedLivePortrait
+- [s0md3v/Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
+- [yigitkonur/swift-ocr-llm-powered-pdf-to-markdown](https://github.com/yigitkonur/swift-ocr-llm-powered-pdf-to-markdown) - An open-source OCR API that leverages OpenAI's powerful language models with optimized performance techniques like parallel processing and batching to deliver high-quality text extraction from complex
+- [PabloLec/website-to-gif](https://github.com/PabloLec/website-to-gif) - GitHub Action to turn your website into a GIF :camera:
+- [unnohwn/telegram-checker](https://github.com/unnohwn/telegram-checker) - A Python tool for checking Telegram accounts via phone numbers or usernames. Automatically verifies account existence, downloads profile pictures, and provides detailed user information in a clean JSO
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory.
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of a YouTube channel from the command line
@@ -1623,7 +1638,7 @@
 - [vevv/subby](https://github.com/vevv/subby) - Advanced subtitle converter and processor
 - [senran101604/sagemode](https://github.com/senran101604/sagemode) - 👀Sagemode: Track and Unveil Online identities across social media platforms🕵️‍♂️
 - [norse/norse](https://github.com/norse/norse) - Deep learning with spiking neural networks (SNNs) in PyTorch.
-- [topscoder/nuclei-wordfence-cve](https://github.com/topscoder/nuclei-wordfence-cve) - The EXCLUSIVE Collection of 40,000+ Nuclei templates based on Wordfence intel. Daily updates for bulletproof WordPress security.
+- [topscoder/nuclei-wordfence-cve](https://github.com/topscoder/nuclei-wordfence-cve) - The EXCLUSIVE Collection of 45,000+ Nuclei templates based on Wordfence intel. Daily updates for bulletproof WordPress security.
 - [proseltd/Telepathy-Community](https://github.com/proseltd/Telepathy-Community) - Public release of Telepathy, an OSINT toolkit for investigating Telegram chats.
 - [HalilDeniz/TrafficWatch](https://github.com/HalilDeniz/TrafficWatch) - TrafficWatch, a packet sniffer tool, allows you to monitor and analyze network traffic from PCAP files
 - [nezhar/updatable](https://github.com/nezhar/updatable) - Finds packages that require updates on a python environment
@@ -1732,7 +1747,7 @@
 - [JusticeRage/Gepetto](https://github.com/JusticeRage/Gepetto) - IDA plugin which queries uses language models to speed up reverse-engineering
 - [tenable/pwndbg](https://github.com/tenable/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
 - [quentinhardy/odat](https://github.com/quentinhardy/odat) - ODAT: Oracle Database Attacking Tool
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Cloud Security tool for AWS, Azure, GCP and Kubernetes. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening and forensics re
 - [blackhatethicalhacking/DDoSlayer](https://github.com/blackhatethicalhacking/DDoSlayer) - An Advanced Layer 7 DDoS tool
 - [SpiderLabs/masher](https://github.com/SpiderLabs/masher) - multiple password 'asher using Python’s hashlib
 - [SpiderLabs/HostHunter](https://github.com/SpiderLabs/HostHunter) - HostHunter a recon tool for discovering hostnames using OSINT techniques.
@@ -2014,7 +2029,7 @@
 - [ageitgey/image_to_numpy](https://github.com/ageitgey/image_to_numpy) - Load an image file into a numpy array with Exif orientation support. Prevents upside-down and sideways images!
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [sergey-scat/unicaps](https://github.com/sergey-scat/unicaps) - A unified Python API for CAPTCHA solving services.
-- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers. 🧡
+- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [dialect-app/dialect](https://github.com/dialect-app/dialect) - A translation app for GNOME.
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [oarriaga/face_classification](https://github.com/oarriaga/face_classification) - Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.
@@ -2041,6 +2056,7 @@
 - [SteelPangolin/genderize](https://github.com/SteelPangolin/genderize) - Python client for the Genderize.io web service.
 - [rimodas/indeed.com_resumes_scrap](https://github.com/rimodas/indeed.com_resumes_scrap) - 
 - [willc/willc-scripts](https://github.com/willc/willc-scripts) - Will's custom bag of pentesting tools.
+- [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [IntelTakes/Hidden-Friends-Finder](https://github.com/IntelTakes/Hidden-Friends-Finder) - Hidden Friends Finder (HFF) for Facebook
 - [IntelTakes/geolocatethis](https://github.com/IntelTakes/geolocatethis) - Allows querying Google Maps API for 2 specific places in precise distance from each other within given radius. Useful for geolocating from photographs.
 - [IntelTakes/bulkbotchecker](https://github.com/IntelTakes/bulkbotchecker) - Verify Twitter accounts in bulk
@@ -2224,8 +2240,9 @@
 
 ## Rust 
 
+- [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification
 - [mcronce/oci-registry](https://github.com/mcronce/oci-registry) - 
-- [vxfemboy/ghostport](https://github.com/vxfemboy/ghostport) - A high-performance port spoofing tool built in Rust. Confuse port scanners with dynamic service emulation across all ports. Features customizable signatures, efficient async handling, and easy traffic
+- [JMP-0xFF/ghostport](https://github.com/JMP-0xFF/ghostport) - A high-performance port spoofing tool built in Rust. Confuse port scanners with dynamic service emulation across all ports. Features customizable signatures, efficient async handling, and easy traffic
 - [FedericoBruzzone/tgt](https://github.com/FedericoBruzzone/tgt) - TUI for Telegram written in Rust 🦀
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
@@ -2307,6 +2324,8 @@
 
 ## Shell 
 
+- [ivan-hc/ArchImage](https://github.com/ivan-hc/ArchImage) - Build AppImage packages for all distributions but including Arch Linux packages. Powered by JuNest.
+- [Suryesh/OTX_AlienVault_URL](https://github.com/Suryesh/OTX_AlienVault_URL) - Url scrapper or extractor from alienvault
 - [OffXec/brutecms](https://github.com/OffXec/brutecms) - Multi-threaded CMS BruteForcer to WordPress, Joomla, Drupal, OpenCart
 - [1N3/Findsploit](https://github.com/1N3/Findsploit) - Find exploits in local and online databases instantly
 - [wolandark/bash-dungeon](https://github.com/wolandark/bash-dungeon) - An educational dungeon crawler in the shell
@@ -2377,7 +2396,7 @@
 - [blackhatethicalhacking/OpenRediWrecked](https://github.com/blackhatethicalhacking/OpenRediWrecked) - A powerful and sophisticated tool for detecting and exploiting open redirect vulnerabilities using the sed utility and a selected list of carefully crafted payloads with encoding techniques.
 - [HACK3RY2J/Anon-SMS](https://github.com/HACK3RY2J/Anon-SMS) - A Tool To Send Messages Anonymously..
 - [blackhatethicalhacking/SecretOpt1c](https://github.com/blackhatethicalhacking/SecretOpt1c) - SecretOpt1c is a Red Team tool that helps uncover sensitive information in websites using ACTIVE and PASSIVE Techniques for Superior Accuracy!
-- [blackhatethicalhacking/SQLMutant](https://github.com/blackhatethicalhacking/SQLMutant) - SQLMutant is a comprehensive SQL injection testing tool that provides several features to test for SQL injection vulnerabilities in web applications, uses various techniques to detect vulnerabilities,
+- [blackhatethicalhacking/SQLMutant](https://github.com/blackhatethicalhacking/SQLMutant) - SQLMutant is a powerful SQL injection testing tool that includes both passive and active reconnaissance processes for any given domain. It filters URLs to identify those with parameters susceptible to
 - [blackhatethicalhacking/TerminatorZ](https://github.com/blackhatethicalhacking/TerminatorZ) - TerminatorZ is a highly sophisticated and efficient web security tool that scans for top potential vulnerabilities with known CVEs in your web applications.
 - [bormaxi8080/git-repos-updater](https://github.com/bormaxi8080/git-repos-updater) - Shell script for update all git repositories placed in specified folder
 - [bormaxi8080/github-starred-repos-loader](https://github.com/bormaxi8080/github-starred-repos-loader) - Shell script for pull all your starred GitHub repositories in specifield folder
@@ -2432,7 +2451,7 @@
 
 ## Svelte 
 
-- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 htop on steroids
+- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 system monitoring on steroids
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [0sumcode/0up](https://github.com/0sumcode/0up) - 0up is a zero-knowledge, open-source, encrypted file sharing service
 - [cupcakearmy/cryptgeon](https://github.com/cupcakearmy/cryptgeon) - cryptgeon is a secure, open source note / file sharing service inspired by PrivNote written in rust & svelte.
@@ -2458,6 +2477,8 @@
 
 ## TypeScript 
 
+- [Indie-Platforms/scrapecomfort](https://github.com/Indie-Platforms/scrapecomfort) - Desktop AI Data Scraper
+- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface
 - [adaline/gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
 - [seadfeng/favicon-downloader](https://github.com/seadfeng/favicon-downloader) - 
 - [Thavarshan/comet](https://github.com/Thavarshan/comet) - ☄️ A cross-platform desktop app powered by FFmpeg for easy, beautiful media conversion.
@@ -2525,6 +2546,7 @@
 - [APTRS/APTRS](https://github.com/APTRS/APTRS) - Automated pentest reporting with custom Word templates, project tracking, and client management tools. Streamline your security workflows effortlessly!
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [apify/apify-client-js](https://github.com/apify/apify-client-js) - Apify API client for JavaScript / Node.js.
 - [apify/got-scraping](https://github.com/apify/got-scraping) - HTTP client made for scraping based on got.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map) - An Obsidian plugin for displaying markdown notes as mind maps using Markmap.
