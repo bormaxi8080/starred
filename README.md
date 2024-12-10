@@ -27,7 +27,6 @@
 - [Inno Setup](#inno-setup)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jsonnet](#jsonnet)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
@@ -43,6 +42,7 @@
 - [Open Policy Agent](#open-policy-agent)
 - [Others](#others)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
@@ -54,6 +54,7 @@
 - [SCSS](#scss)
 - [Scala](#scala)
 - [Shell](#shell)
+- [Smali](#smali)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -166,7 +167,7 @@
 
 ## C# # 
 
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [alexandrehtrb/Pororoca](https://github.com/alexandrehtrb/Pororoca) - An API testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.
 - [lypd0/DeadPotato](https://github.com/lypd0/DeadPotato) - DeadPotato is a windows privilege escalation utility from the Potato family of exploits, leveraging the SeImpersonate right to obtain SYSTEM privileges.        This script has been customized from the
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
@@ -191,6 +192,9 @@
 
 ## C++ 
 
+- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
+- [CapibaraZero/fw](https://github.com/CapibaraZero/fw) - CapibaraZero main firmware repository
+- [flipperdevices/qFlipper](https://github.com/flipperdevices/qFlipper) - qFlipper — desktop application for updating Flipper Zero firmware via PC
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).
 - [RamboRogers/rfhunter](https://github.com/RamboRogers/rfhunter) - RFHunter is a device to find hidden Cameras at AirBNBs
@@ -293,6 +297,9 @@
 
 ## Go 
 
+- [ShikharY10/shiroxy](https://github.com/ShikharY10/shiroxy) - A Reverse Proxy with Multiple Domains, Automatic SSL and Dynamic Routing
+- [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
+- [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 - [darwishdev/sqlseeder](https://github.com/darwishdev/sqlseeder) - 
 - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
@@ -573,7 +580,6 @@
 
 - [bigbrodude6119/flipper-zero-evil-portal](https://github.com/bigbrodude6119/flipper-zero-evil-portal) - Evil portal app for the flipper zero + WiFi dev board
 - [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - A list of software that allows searching the web with the assistance of AI.
-- [OSINTI4L/The-Kitchen-Sink](https://github.com/OSINTI4L/The-Kitchen-Sink) - A collection of Open-Source Intelligence resources.
 - [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) - Social engineering tool [Access Webcam & Microphone  & Location Finder] With {Py,JS,PHP}
 - [cloudtracer/ThreatPinchLookup](https://github.com/cloudtracer/ThreatPinchLookup) - Documentation and Sharing Repository for ThreatPinch Lookup Chrome & Firefox Extension
 - [neospl0it/osint-bookmark](https://github.com/neospl0it/osint-bookmark) - A curated list of OSINT tools for company research, internet scanning, DNS, and Whois lookups, organized for easy access. Ideal for analysts, researchers, and cybersecurity professionals.
@@ -654,6 +660,7 @@
 
 ## Java 
 
+- [comet-ml/opik](https://github.com/comet-ml/opik) - Open-source end-to-end LLM Development Platform
 - [MKLab-ITI/image-forensics](https://github.com/MKLab-ITI/image-forensics) - 
 - [igor-pcholkin/DataAnonymization](https://github.com/igor-pcholkin/DataAnonymization) - Data anonymization & masking of sensitive information in a relational database. Auto detection of sensitive data.
 - [apache/gravitino](https://github.com/apache/gravitino) - World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
@@ -680,7 +687,7 @@
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Sidekick is no longer in service
 - [cmars/snyk-security-scanner-plugin](https://github.com/cmars/snyk-security-scanner-plugin) - Test and monitor your projects for vulnerabilities with Jenkins. This plugin is officially maintained by Snyk.
-- [apache/activemq](https://github.com/apache/activemq) - Mirror of Apache ActiveMQ
+- [apache/activemq](https://github.com/apache/activemq) - Apache ActiveMQ Classic
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [OWASP/wrongsecrets](https://github.com/OWASP/wrongsecrets) - Vulnerable app with examples showing how to not use secrets
 - [PlentyBugs/NetCracker-Project](https://github.com/PlentyBugs/NetCracker-Project) - We're developing this project as part of the Netcracker training center. Its main goal is to create a portal for organizing hackathons, where the organizer can create them simply and quickly, the part
@@ -901,10 +908,6 @@
 - [linkedtales/scrapedin](https://github.com/linkedtales/scrapedin) - LinkedIn Scraper (currently working 2020)
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 
-## Jsonnet 
-
-- [danihodovic/celery-exporter](https://github.com/danihodovic/celery-exporter) - A Prometheus exporter for Celery metrics
-
 ## Jupyter Notebook 
 
 - [deepfates/memery](https://github.com/deepfates/memery) - Search over large image datasets with natural language and computer vision!
@@ -1011,6 +1014,14 @@
 
 ## Others 
 
+- [CScorza/GEOINTInvestigation](https://github.com/CScorza/GEOINTInvestigation) - Intelligence tramite - Immagini - Video - Strumenti - Mappe
+- [paulpogoda/OSINT-Tools-Armenia](https://github.com/paulpogoda/OSINT-Tools-Armenia) - A list of OSINT resources that may be useful to you when conducting investigations related to Armenia
+- [paulpogoda/OSINT-Tools-Iran](https://github.com/paulpogoda/OSINT-Tools-Iran) - Tools and resources that may be useful to you when conducting investigations related to  Islamic Republic of Iran
+- [paulpogoda/OSINT-Tools-Netherlands](https://github.com/paulpogoda/OSINT-Tools-Netherlands) - List of Dutch OSINT Sources for profilers and fact-checkers
+- [paulpogoda/OSINT-Tools-China](https://github.com/paulpogoda/OSINT-Tools-China) - A list of OSINT tools and resources for profilers and fact-checkers
+- [Mehdi0x90/Web_Hacking](https://github.com/Mehdi0x90/Web_Hacking) - Bug Bounty Tricks and useful payloads and bypasses for Web Application Security.
+- [paulpogoda/OSINT-for-countries-V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0) - OSINT resources and tools by country, structured for fact-checkers and digital profilers
+- [paulpogoda/OSINT-Tools-Australia](https://github.com/paulpogoda/OSINT-Tools-Australia) - A list of OSINT resources tools that may be useful to you when conducting investigations related to Australia
 - [paulpogoda/OSINT-Tools-Israel](https://github.com/paulpogoda/OSINT-Tools-Israel) - Websites and tools for OSINT investigations pertaining to Israel
 - [paulpogoda/OSINT-Tools-Bulgaria](https://github.com/paulpogoda/OSINT-Tools-Bulgaria) - Bulgarian OSINT tools list.
 - [paulpogoda/OSINT-Tools-Russia](https://github.com/paulpogoda/OSINT-Tools-Russia) - A list of OSINT tools that may be useful to you when conducting investigations related to Russian Federation
@@ -1278,6 +1289,10 @@
 - [pantyusha/scanlab](https://github.com/pantyusha/scanlab) - Build a search engine from nmap XML files
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 
+## PLpgSQL 
+
+- [timescale/pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
+
 ## Pascal 
 
 - [MojtabaTajik/Robber](https://github.com/MojtabaTajik/Robber) - Robber is open source tool for finding executables prone to DLL hijacking
@@ -1310,6 +1325,8 @@
 
 ## Python 
 
+- [pydata/pandas-datareader](https://github.com/pydata/pandas-datareader) - Extract data from a wide range of Internet sources into a pandas DataFrame.
+- [RetrO-M/Hawker](https://github.com/RetrO-M/Hawker) - ☆ An OSINT tool in python to find information about an email or phone number and get information about a URL then get information about an IP address (UPDATE)
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
 - [jhj0517/AdvancedLivePortrait-WebUI](https://github.com/jhj0517/AdvancedLivePortrait-WebUI) - gradio WebUI for AdvancedLivePortrait
 - [s0md3v/Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
@@ -1491,6 +1508,7 @@
 - [lucianosrp/open-source-aviation](https://github.com/lucianosrp/open-source-aviation) - A list of open-source aviation projects and data
 - [ovh/celery-director](https://github.com/ovh/celery-director) - Simple and rapid framework to build workflows with Celery
 - [danihodovic/django-webhook](https://github.com/danihodovic/django-webhook) - Django webhooks triggered on model changes
+- [danihodovic/celery-exporter](https://github.com/danihodovic/celery-exporter) - A Prometheus exporter for Celery metrics
 - [revsys/django-health-check](https://github.com/revsys/django-health-check) - a pluggable app that runs a full check on the deployment, using a number of plugins to check e.g. database, queue server, celery processes, etc.
 - [SpiderClub/haipproxy](https://github.com/SpiderClub/haipproxy) - :sparkling_heart: High available distributed ip proxy pool, powerd by Scrapy and Redis
 - [SpiderClub/weibospider](https://github.com/SpiderClub/weibospider) - :zap: A distributed crawler for weibo, building with celery and requests.
@@ -1549,7 +1567,7 @@
 - [facebookresearch/audio2photoreal](https://github.com/facebookresearch/audio2photoreal) - Code and dataset for photorealistic Codec Avatars driven from audio
 - [hyperfield/yt-channel-downloader](https://github.com/hyperfield/yt-channel-downloader) - A Qt GUI app that makes it easy to download multiple videos at once from Youtube channels.
 - [juftin/browsr](https://github.com/juftin/browsr) - 🗂️ a pleasant file explorer in your terminal supporting all filesystems
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - [NeurIPS 2024] SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges
+- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024
 - [ghostop14/sparrow-wifi](https://github.com/ghostop14/sparrow-wifi) - Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [thomasjjj/Telegram-Snowball-Sampling](https://github.com/thomasjjj/Telegram-Snowball-Sampling) - The Telegram Snowball Sampling Tool is a Python-based utility designed for conducting snowball sampling to collect Telegram channels through forwards.
@@ -1572,7 +1590,7 @@
 - [xaitax/SploitScan](https://github.com/xaitax/SploitScan) - SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated exploits.
 - [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to develop AI Web Agents
 - [lukestanley/ChillTranslator](https://github.com/lukestanley/ChillTranslator) - Goal: Automatically detoxify spicy comments while preserving key points
-- [dotvignesh/CmdF](https://github.com/dotvignesh/CmdF) - 
+- [dotvignesh/CmdF](https://github.com/dotvignesh/CmdF) - CmdF is a terminal app that allows you to search and seek through YouTube videos using the power of whisper.cpp and fuzzy string matching.
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [TheRook/subbrute](https://github.com/TheRook/subbrute) - A DNS meta-query spider that enumerates DNS records, and subdomains.
 - [sAjibuu/Upload_Bypass](https://github.com/sAjibuu/Upload_Bypass) - A simple tool for bypassing file upload restrictions.
@@ -1604,7 +1622,7 @@
 - [machine1337/gmailc2](https://github.com/machine1337/gmailc2) - A Fully Undetectable C2 Server That Communicates Via Google SMTP to evade Antivirus Protections and Network Traffic Restrictions
 - [Douile/pydns](https://github.com/Douile/pydns) - A fully python dns server
 - [chenjj/espoofer](https://github.com/chenjj/espoofer) - An email spoofing testing tool that aims to bypass SPF/DKIM/DMARC and forge DKIM signatures.🍻
-- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [bellingcat/polyphemus](https://github.com/bellingcat/polyphemus) - Scraper for Odysee: alt-tech platform for sharing video
 - [hash3liZer/SillyRAT](https://github.com/hash3liZer/SillyRAT) - A Python based RAT 🐀 (Remote Access Trojan) for getting reverse shell 🖥️
 - [alechilczenko/spidex](https://github.com/alechilczenko/spidex) - Continuous reconnaissance network scanner designed for large-scale scans, collecting information on all Internet assets.
@@ -2449,6 +2467,10 @@
 - [bormaxi8080/emergency-shutdown](https://github.com/bormaxi8080/emergency-shutdown) - Emergency shutdown shell script for Mac OS X
 - [bormaxi8080/nmap-scanner](https://github.com/bormaxi8080/nmap-scanner) - Nmap packet domain list scanner to find exploited vulnerabilities
 
+## Smali 
+
+- [wellrodrig/Whatsapp-Spy](https://github.com/wellrodrig/Whatsapp-Spy) - WhatsApp Spy is an app designed to monitor and log all on-screen texts whenever a user opens WhatsApp / Whatsapp Business. It also supports Instagram and Messenger, sending logs to either Discord or T
+
 ## Svelte 
 
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 system monitoring on steroids
@@ -2477,12 +2499,15 @@
 
 ## TypeScript 
 
+- [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
+- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [Indie-Platforms/scrapecomfort](https://github.com/Indie-Platforms/scrapecomfort) - Desktop AI Data Scraper
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface
 - [adaline/gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
 - [seadfeng/favicon-downloader](https://github.com/seadfeng/favicon-downloader) - 
 - [Thavarshan/comet](https://github.com/Thavarshan/comet) - ☄️ A cross-platform desktop app powered by FFmpeg for easy, beautiful media conversion.
-- [Brayden/starbasedb](https://github.com/Brayden/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects.
+- [outerbase/starbasedb](https://github.com/outerbase/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects.
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
