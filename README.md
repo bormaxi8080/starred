@@ -192,6 +192,10 @@
 
 ## C++ 
 
+- [psdoood/SteganoPass](https://github.com/psdoood/SteganoPass) - Password management through LSB image steganography.
+- [CapibaraZero/ArduinoPcap](https://github.com/CapibaraZero/ArduinoPcap) - A library for creating and sending .pcap files for Wireshark and other programms.
+- [CapibaraZero/EvilPortal](https://github.com/CapibaraZero/EvilPortal) - A captive portal for ESP32
+- [Ravikisha/RelaxSearch](https://github.com/Ravikisha/RelaxSearch) - RelaxSearch is a lightweight, demonstration-based search engine project built with Go and Elasticsearch.
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [CapibaraZero/fw](https://github.com/CapibaraZero/fw) - CapibaraZero main firmware repository
 - [flipperdevices/qFlipper](https://github.com/flipperdevices/qFlipper) - qFlipper — desktop application for updating Flipper Zero firmware via PC
@@ -297,6 +301,8 @@
 
 ## Go 
 
+- [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [ShikharY10/shiroxy](https://github.com/ShikharY10/shiroxy) - A Reverse Proxy with Multiple Domains, Automatic SSL and Dynamic Routing
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
@@ -307,7 +313,7 @@
 - [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) - Linux/Windows post-exploitation framework made by linux user
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-- [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - OSINT tool for searching usernames across various social networks, written in Go.
+- [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - OSINT tool for searching people's digital footprint and leaked passwords across various social networks, written in Go.
 - [ibnaleem/cc-validation-webserver](https://github.com/ibnaleem/cc-validation-webserver) - A lightweight web server for validating credit card numbers, written in Go.
 - [ibnaleem/checksum](https://github.com/ibnaleem/checksum) - File checksum verification tool written in Go.
 - [x-sushant-x/Rate-Shield](https://github.com/x-sushant-x/Rate-Shield) - A configurable rate limiter that can apply rate limiting on individual APIs with individual rules.
@@ -319,7 +325,7 @@
 - [Banh-Canh/ytui](https://github.com/Banh-Canh/ytui) - ytui is a TUI tool that allows users to query videos on youtube and play them in their local player.
 - [medama-io/go-useragent](https://github.com/medama-io/go-useragent) - Fast trie-based user-agent parser in Go.
 - [mrinjamul/go-dupfinder](https://github.com/mrinjamul/go-dupfinder) - Duplicate File Finder.
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open source, redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.
 - [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
 - [polarsignals/frostdb](https://github.com/polarsignals/frostdb) - ❄️ Coolest database around 🧊 Embeddable column database written in Go.
 - [ftp27/go-universal-redirect](https://github.com/ftp27/go-universal-redirect) - Lightweight Go server that redirects users to platform-specific URLs (e.g., App Store, Play Store)
@@ -565,7 +571,7 @@
 - [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [tanaikech/goris](https://github.com/tanaikech/goris) - This is a CLI tool to search for images with Google Reverse Image Search (goris).
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [dwisiswant0/cf-check](https://github.com/dwisiswant0/cf-check) - CloudFlare Checker written in Go
 - [mxssl/tg-captcha-bot](https://github.com/mxssl/tg-captcha-bot) - Telegram Сaptcha Bot
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
@@ -592,7 +598,7 @@
 - [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
 - [bormaxi8080/awesome-books-for-osinters](https://github.com/bormaxi8080/awesome-books-for-osinters) - Awesome recomended books for OSINTers
 - [klarna-incubator/webtraversallibrary](https://github.com/klarna-incubator/webtraversallibrary) - The Web Traversal Library (WTL) is a Python library for abstracting web interactions on top of a base execution layer such as Selenium.
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [EtherDream/headphone-morse-transmitter](https://github.com/EtherDream/headphone-morse-transmitter) - Send Morse code via ⏮️ ⏸️ ⏯️
 - [dikshantrajput/noFap](https://github.com/dikshantrajput/noFap) - Browser tool designed to block access to pornographic websites. It automatically bans such websites without the need for user intervention. It provides a simple and effective solution for those seekin
@@ -718,7 +724,6 @@
 - [aviaryan/voice-writing-electron](https://github.com/aviaryan/voice-writing-electron) - A real-time, instant dictation desktop application built on Electron that uses Whisper and GROQ under the hood
 - [chancejs/chancejs](https://github.com/chancejs/chancejs) - Chance - Random generator helper for JavaScript
 - [0x41head/posthumous-automation](https://github.com/0x41head/posthumous-automation) - Code gets invoked when I die
-- [VBproDev/Canvascript](https://github.com/VBproDev/Canvascript) - Create HTML canvas graphics without writing code. Just draw with your pointer on the HTML canvas, then get the code to render it.
 - [miroslavpejic85/call-me](https://github.com/miroslavpejic85/call-me) - 🟢 Call-Me: Your Go-To for Instant Video Calls!
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
@@ -1325,6 +1330,9 @@
 
 ## Python 
 
+- [abuyv/exposor](https://github.com/abuyv/exposor) - Exposor is a tool using internet search engines to detect exposed technologies with a unified syntax.
+- [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) - VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social med
+- [pyca/bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers
 - [pydata/pandas-datareader](https://github.com/pydata/pandas-datareader) - Extract data from a wide range of Internet sources into a pandas DataFrame.
 - [RetrO-M/Hawker](https://github.com/RetrO-M/Hawker) - ☆ An OSINT tool in python to find information about an email or phone number and get information about a URL then get information about an IP address (UPDATE)
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
@@ -2269,7 +2277,7 @@
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
-- [Wervice/zentrox](https://github.com/Wervice/zentrox) - Home server admin with batteries included
+- [Wervice/zentrox](https://github.com/Wervice/zentrox) - Super-Charge your home server form 0 to 100 🚀
 - [flipperzero-rs/flipperzero](https://github.com/flipperzero-rs/flipperzero) - Rust on the Flipper Zero
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [matanolabs/matano](https://github.com/matanolabs/matano) - Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS
@@ -2342,6 +2350,7 @@
 
 ## Shell 
 
+- [ASHWIN990/ADB-Toolkit](https://github.com/ASHWIN990/ADB-Toolkit) - ADB-Toolkit V2 for easy ADB tricks with many perks in all one. ENJOY!
 - [ivan-hc/ArchImage](https://github.com/ivan-hc/ArchImage) - Build AppImage packages for all distributions but including Arch Linux packages. Powered by JuNest.
 - [Suryesh/OTX_AlienVault_URL](https://github.com/Suryesh/OTX_AlienVault_URL) - Url scrapper or extractor from alienvault
 - [OffXec/brutecms](https://github.com/OffXec/brutecms) - Multi-threaded CMS BruteForcer to WordPress, Joomla, Drupal, OpenCart
@@ -2499,11 +2508,13 @@
 
 ## TypeScript 
 
+- [jessetinell/x2.email](https://github.com/jessetinell/x2.email) - 
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [Indie-Platforms/scrapecomfort](https://github.com/Indie-Platforms/scrapecomfort) - Desktop AI Data Scraper
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface
+- [VBproDev/Canvascript](https://github.com/VBproDev/Canvascript) - Create HTML canvas graphics without writing code. Just draw with your pointer on the HTML canvas, then get the code to render it.
 - [adaline/gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
 - [seadfeng/favicon-downloader](https://github.com/seadfeng/favicon-downloader) - 
 - [Thavarshan/comet](https://github.com/Thavarshan/comet) - ☄️ A cross-platform desktop app powered by FFmpeg for easy, beautiful media conversion.
@@ -2513,7 +2524,7 @@
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-- [zaidmukaddam/miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK Search with models like GPT-4o mini, GPT-4o and Claude 3.5 Sonnet(New)!
+- [zaidmukaddam/miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like GPT-4o mini, GPT-4o and Claude 3.5 Sonnet(New)!
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
