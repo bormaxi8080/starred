@@ -186,7 +186,7 @@
 - [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
 - [YOLOP0wn/POSTDump](https://github.com/YOLOP0wn/POSTDump) - 
 - [Squalr/Squalr](https://github.com/Squalr/Squalr) - Squalr Memory Editor - Game Hacking Tool Written in C#
-- [LimerBoy/Adamantium-Thief](https://github.com/LimerBoy/Adamantium-Thief) - :key: Decrypt chromium based browsers passwords, cookies, credit cards, history, bookmarks, autofill. Version &gt; 80 is supported.
+- [LimerBoy/Adamantium-Thief](https://github.com/LimerBoy/Adamantium-Thief) - :key: (THIS CODE IS OUTDATED FOR NEW CHROME VERSIONS) Decrypt chromium based browsers passwords, cookies, credit cards, history, bookmarks, autofill. Version &gt; 80 is supported.
 - [sqids/sqids-dotnet](https://github.com/sqids/sqids-dotnet) - Official .NET port of Sqids. Generate short unique IDs from numbers.
 - [cube0x0/KrbRelay](https://github.com/cube0x0/KrbRelay) - Framework for Kerberos relaying
 - [vivami/SauronEye](https://github.com/vivami/SauronEye) - Search tool to find specific files containing specific words, i.e. files containing passwords..
@@ -286,7 +286,7 @@
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [ksh-b/raven](https://github.com/ksh-b/raven) - News Aggregator
 - [darvester/darvester](https://github.com/darvester/darvester) - Powerful Discord OSINT toolkit written in Python and Dart/Flutter
-- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End to End Encrypted alternative to Google Photos and Apple Photos
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - An elegant virtual machine manager for the desktop
@@ -307,6 +307,8 @@
 
 ## Go 
 
+- [couchbase/moss](https://github.com/couchbase/moss) - moss - a simple, fast, ordered, persistable, key-val storage library for golang
+- [adrg/strutil](https://github.com/adrg/strutil) - Go metrics for calculating string similarity and other string utility functions
 - [projectdiscovery/urlfinder](https://github.com/projectdiscovery/urlfinder) - A high-speed tool for passively gathering URLs, optimized for efficient and comprehensive web asset discovery without active scanning.
 - [acidvegas/elastop](https://github.com/acidvegas/elastop) - HTOP for Elasticsearch
 - [cjijcb/partdec](https://github.com/cjijcb/partdec) - partdec is a command-line utility for multipart downloading and file splitting. Download a file in parts simultaneously.
@@ -729,6 +731,7 @@
 
 ## JavaScript 
 
+- [testdriverai/testdriverai](https://github.com/testdriverai/testdriverai) - Next generation autonomous AI agent for end-to-end testing of web & desktop
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [mitchmoser/sputnik](https://github.com/mitchmoser/sputnik) - Open Source Intelligence Browser Extension
@@ -743,7 +746,7 @@
 - [Bugs-B0unt3r/google-sheets-hunting-bad-domains](https://github.com/Bugs-B0unt3r/google-sheets-hunting-bad-domains) - This project provides a set of Google Apps Scripts designed to help you identify and analyze potentially malicious domains directly from Google Sheets. By leveraging various APIs, these scripts can re
 - [CartographerLabs/Canary](https://github.com/CartographerLabs/Canary) - A Chrome extension that looks out for and blocks extremist content! Using the HTML content of visited sites, Canary will send that data off to the Google Vertex API and will use the LLM to identify if
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
+- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
@@ -846,9 +849,9 @@
 - [720kb/ndm](https://github.com/720kb/ndm) - :computer: npm desktop manager https://720kb.github.io/ndm
 - [IvanMathy/Boop](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers. In slow yet steady progress.
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
-- [devXprite/Instaiva](https://github.com/devXprite/Instaiva) - A free and OpenSource Instagram DP downloader.
-- [devXprite/infoooze](https://github.com/devXprite/infoooze) - A OSINT tool which helps you to quickly find information effectively. All you need is to input and it will take take care of rest.
-- [devXprite/httpfy](https://github.com/devXprite/httpfy) - A fast and powerful http toolkit that take a list of domains to find active domains and other information such as status-code, title, response-time , server, content-type and many other
+- [devxprite/Instaiva](https://github.com/devxprite/Instaiva) - A free and OpenSource Instagram DP downloader.
+- [devxprite/infoooze](https://github.com/devxprite/infoooze) - A OSINT tool which helps you to quickly find information effectively. All you need is to input and it will take take care of rest.
+- [devxprite/httpfy](https://github.com/devxprite/httpfy) - A fast and powerful http toolkit that take a list of domains to find active domains and other information such as status-code, title, response-time , server, content-type and many other
 - [NickPepper/FriendWork_test](https://github.com/NickPepper/FriendWork_test) - This is a private work not intended for any kind of commercial usage in any form completely or partially. You were warned.
 - [chirag04/mail-listener2](https://github.com/chirag04/mail-listener2) - Mail listener library for node.js. Get notification when new email arrived.
 - [EPCSHT/mail-listener2](https://github.com/EPCSHT/mail-listener2) - Mail listener library for node.js. Get notification when new email arrived.
@@ -927,6 +930,7 @@
 
 ## Jupyter Notebook 
 
+- [MJCruickshank/TGeocoder](https://github.com/MJCruickshank/TGeocoder) - Automated parsing and geocoding of Telegram news channels
 - [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
 - [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
 - [hanweikung/face_anon_simple](https://github.com/hanweikung/face_anon_simple) - [WACV 2025] Official implementation of "Face Anonymization Made Simple"
@@ -1038,6 +1042,8 @@
 
 ## Others 
 
+- [flipperdevices/flipperzero-3d-models](https://github.com/flipperdevices/flipperzero-3d-models) - Flipper Zero 3D models
+- [paulpogoda/OSINT-Tools-Poland](https://github.com/paulpogoda/OSINT-Tools-Poland) - A list of OSINT tools and resources that may be useful to you when conducting investigations related to Poland
 - [paulpogoda/Digital-Profiler-s-Toolkit](https://github.com/paulpogoda/Digital-Profiler-s-Toolkit) - This toolkit useful in profiling, research and digital investigations built for me and my trainees. Working and necessary tools only. All are tested in real cases, mostly free. UI an CLI tools separat
 - [CScorza/GEOINTInvestigation](https://github.com/CScorza/GEOINTInvestigation) - Intelligence tramite - Immagini - Video - Strumenti - Mappe
 - [paulpogoda/OSINT-Tools-Armenia](https://github.com/paulpogoda/OSINT-Tools-Armenia) - A list of OSINT resources that may be useful to you when conducting investigations related to Armenia
@@ -1293,7 +1299,7 @@
 - [leiweibau/Pi.Alert](https://github.com/leiweibau/Pi.Alert) - Scan the devices connected to your WIFI / LAN and alert you the connection of unknown devices. It also warns if a "always connected" device disconnects. In addition, it is possible to check web servic
 - [zabbix/zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
-- [adegans/Goosle](https://github.com/adegans/Goosle) - The best Meta Search engine running on simple PHP servers that keeps privacy and ease of use in mind!
+- [adegans/Goosle](https://github.com/adegans/Goosle) - The best Meta Search engine running on simple PHP servers or localhosts that keeps privacy and ease of use in mind!
 - [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
 - [waltergammarota/betaFace](https://github.com/waltergammarota/betaFace) - betaface.com API client in PHP
 - [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security
@@ -1350,6 +1356,9 @@
 
 ## Python 
 
+- [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSO
+- [drego85/meioc](https://github.com/drego85/meioc) - Extracting IoC data from eMail
+- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [PShlyundin/GPOHunter](https://github.com/PShlyundin/GPOHunter) - A security assessment tool for analyzing Active Directory Group Policy Objects (GPOs) to identify misconfigurations and vulnerabilities
 - [sharsil/favicorn](https://github.com/sharsil/favicorn) - All-sources tool to search websites by favicons
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build and query dynamic, temporally-aware Knowledge Graphs
@@ -1360,13 +1369,14 @@
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [casterbyte/Sara](https://github.com/casterbyte/Sara) - RouterOS Security Inspector
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
-- [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An easy-to-use backup tool for GNU/Linux using rsync in the back
+- [bit-team/backintime](https://github.com/bit-team/backintime) - A comfortable and well-configurable graphical frontend for incremental backups using rsync, with a command-line version also available. Modified files are transferred, while unchanged files are linked
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
 - [abuyv/exposor](https://github.com/abuyv/exposor) - Exposor is a tool using internet search engines to detect exposed technologies with a unified syntax.
 - [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) - VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social med
 - [pyca/bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers
 - [pydata/pandas-datareader](https://github.com/pydata/pandas-datareader) - Extract data from a wide range of Internet sources into a pandas DataFrame.
 - [RetrO-M/Hawker](https://github.com/RetrO-M/Hawker) - An Osint tool for investigating by collecting information on emails, phones, IPs, Bitcoin addresses, etc... ( 𝗡𝗘𝗪 𝗨𝗣𝗗𝗔𝗧𝗘 )
+- [comet-ml/opik](https://github.com/comet-ml/opik) - From RAG chatbots to code assistants to complex agentic pipelines and beyond, build LLM systems that run better, faster, and cheaper with tracing, evaluations, and dashboards.
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
 - [jhj0517/AdvancedLivePortrait-WebUI](https://github.com/jhj0517/AdvancedLivePortrait-WebUI) - gradio WebUI for AdvancedLivePortrait
 - [s0md3v/Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
@@ -1683,7 +1693,7 @@
 - [Ademking/Excel-to-Trello](https://github.com/Ademking/Excel-to-Trello) - Creates Trello Cards/Labels using Excel
 - [Ademking/repolist](https://github.com/Ademking/repolist) - Generate wordlists from Github repositories
 - [xerohackcom/Chaya](https://github.com/xerohackcom/Chaya) - Advance Image Steganography
-- [claromes/waybacktweets](https://github.com/claromes/waybacktweets) - Retrieves archived tweets in HTML, CSV, and JSON formats
+- [claromes/waybacktweets](https://github.com/claromes/waybacktweets) - Retrieves archived tweets from Wayback Machine in HTML, CSV, and JSON
 - [digitalshadows/orca](https://github.com/digitalshadows/orca) - Orca - Targeted OSINT Framework
 - [hash3liZer/WiFiBroot](https://github.com/hash3liZer/WiFiBroot) - A Wireless (WPA/WPA2) Pentest/Cracking tool. Captures & Crack 4-way handshake and PMKID key. Also, supports a deauthentication/jammer mode for stress testing
 - [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
@@ -1802,7 +1812,7 @@
 - [grimlockx/ADCSKiller](https://github.com/grimlockx/ADCSKiller) - An ADCS Exploitation Automation Tool Weaponizing Certipy and Coercer
 - [jasperan/whatsapp-osint](https://github.com/jasperan/whatsapp-osint) - WhatsApp spy - logs online/offline events from ANYONE in the world
 - [activecm/passer](https://github.com/activecm/passer) - Passive service locator, a python sniffer that identifies servers, clients, names and much more
-- [JusticeRage/Gepetto](https://github.com/JusticeRage/Gepetto) - IDA plugin which queries uses language models to speed up reverse-engineering
+- [JusticeRage/Gepetto](https://github.com/JusticeRage/Gepetto) - IDA plugin which queries language models to speed up reverse-engineering
 - [tenable/pwndbg](https://github.com/tenable/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
 - [quentinhardy/odat](https://github.com/quentinhardy/odat) - ODAT: Oracle Database Attacking Tool
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Cloud Security tool for AWS, Azure, GCP and Kubernetes. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening and forensics re
@@ -1830,7 +1840,7 @@
 - [ustayready/CredKing](https://github.com/ustayready/CredKing) - Password spraying using AWS Lambda for IP rotation
 - [ustayready/cloudgpt](https://github.com/ustayready/cloudgpt) - Vulnerability scanner for AWS customer managed policies using ChatGPT
 - [chm0dx/maskRequired](https://github.com/chm0dx/maskRequired) - Analyze a list of cleartext passwords and output a list of masks with the associated counts for each. Useful in identifying the highest value masks to use when trying to crack hashes from similar data
-- [chm0dx/leakyBuckets](https://github.com/chm0dx/leakyBuckets) - Find open storage buckets and accessible files across Amazon Web Services, Google Cloud, and Microsoft Azure simultaneously
+- [chm0dx/leakyBuckets](https://github.com/chm0dx/leakyBuckets) - Find open storage buckets and accessible files across Amazon Web Services, Google Cloud, Microsoft Azure, and Digital Ocean simultaneously
 - [chm0dx/creepyCrawler](https://github.com/chm0dx/creepyCrawler) - OSINT tool to crawl a site and extract useful recon info.
 - [chm0dx/gitSome](https://github.com/chm0dx/gitSome) - OSINT tool to extract email addresses and other useful info from various GitHub sources.
 - [chm0dx/fireprox](https://github.com/chm0dx/fireprox) - AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation
@@ -2544,15 +2554,15 @@
 
 ## TypeScript 
 
+- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [echogarden-project/echogarden](https://github.com/echogarden-project/echogarden) - Cross-platform speech toolset, used from the command-line or as a Node.js library. Includes a variety of engines for speech synthesis, speech recognition, forced alignment, speech translation, voice i
 - [devflowinc/firecrawl-simple](https://github.com/devflowinc/firecrawl-simple) - ➖ Stripped down, stable version of firecrawl optimized for self-hosting and ease of contribution. Billing logic and AI features are completely removed. Crawl and convert any website into LLM-ready mar
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes! [In Beta]
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes.
 - [jessetinell/x2.email](https://github.com/jessetinell/x2.email) - 
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [comet-ml/opik](https://github.com/comet-ml/opik) - From RAG chatbots to code assistants to complex agentic pipelines and beyond, build LLM systems that run better, faster, and cheaper with tracing, evaluations, and dashboards.
 - [Indie-Platforms/scrapecomfort](https://github.com/Indie-Platforms/scrapecomfort) - Desktop AI Data Scraper
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
 - [VBproDev/Canvascript](https://github.com/VBproDev/Canvascript) - Create HTML canvas graphics without writing code. Just draw with your pointer on the HTML canvas, then get the code to render it.
@@ -2565,7 +2575,7 @@
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-- [zaidmukaddam/miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
+- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
