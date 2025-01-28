@@ -180,7 +180,7 @@
 - [ZennoHelpers/Snippets](https://github.com/ZennoHelpers/Snippets) - 🗂 Коллекция сниппетов пользователей ZennoPoster
 - [CCob/okta-terrify](https://github.com/CCob/okta-terrify) - Okta Verify and Okta FastPass Abuse Tool
 - [vvvv/Remoter](https://github.com/vvvv/Remoter) - GUI over PAExec and robocopy to remote a bunch of PCs at once
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray core and sing-box-core and others
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 - [timo-reymann/UniLaunch](https://github.com/timo-reymann/UniLaunch) - Advanced universal autostart tool for use on Linux, MacOS and Windows.
 - [moom825/xeno-rat](https://github.com/moom825/xeno-rat) - Xeno-RAT is an open-source remote access tool (RAT) developed in C#, providing a comprehensive set of features for remote system management. Has features such as HVNC, live microphone, reverse proxy, 
 - [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
@@ -297,6 +297,7 @@
 
 ## Elixir 
 
+- [sequinstream/sequin](https://github.com/sequinstream/sequin) - Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [atlosdotorg/atlos](https://github.com/atlosdotorg/atlos) - The collaborative workspace for visual verification
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
@@ -364,6 +365,7 @@
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
@@ -598,10 +600,11 @@
 
 ## HTML 
 
+- [spyboy-productions/r4ven](https://github.com/spyboy-productions/r4ven) - Track the GPS location of the user's smartphone or PC and capture a picture of the target, along with IP and device information.
 - [stanfrbd/cyberbro](https://github.com/stanfrbd/cyberbro) - A simple application that extracts your IoCs from garbage input and checks their reputation using multiple CTI services.
 - [mohitmishra786/reversingBits](https://github.com/mohitmishra786/reversingBits) - A comprehensive collection of cheatsheets for reverse engineering, binary analysis, and assembly programming tools. This repository serves as a one-stop reference for security researchers, reverse eng
 - [bigbrodude6119/flipper-zero-evil-portal](https://github.com/bigbrodude6119/flipper-zero-evil-portal) - Evil portal app for the flipper zero + WiFi dev board
-- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - A list of software that allows searching the web with the assistance of AI.
+- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - A list of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 - [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) - Social engineering tool [Access Webcam & Microphone  & Location Finder] With {Py,JS,PHP}
 - [cloudtracer/ThreatPinchLookup](https://github.com/cloudtracer/ThreatPinchLookup) - Documentation and Sharing Repository for ThreatPinch Lookup Chrome & Firefox Extension
 - [neospl0it/osint-bookmark](https://github.com/neospl0it/osint-bookmark) - A curated list of OSINT tools for company research, internet scanning, DNS, and Whois lookups, organized for easy access. Ideal for analysts, researchers, and cybersecurity professionals.
@@ -679,13 +682,14 @@
 
 ## Java 
 
+- [filelize/filelize-java](https://github.com/filelize/filelize-java) - Filelize is a lightweight database designed to simplify writing and reading data into human-readable files, requiring just one line of code
 - [hibernate/hibernate-orm](https://github.com/hibernate/hibernate-orm) - Hibernate's core Object/Relational Mapping functionality
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [MKLab-ITI/image-forensics](https://github.com/MKLab-ITI/image-forensics) - 
 - [igor-pcholkin/DataAnonymization](https://github.com/igor-pcholkin/DataAnonymization) - Data anonymization & masking of sensitive information in a relational database. Auto detection of sensitive data.
 - [apache/gravitino](https://github.com/apache/gravitino) - World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
 - [OpenBAS-Platform/openbas](https://github.com/OpenBAS-Platform/openbas) - Open Breach and Attack Simulation Platform
-- [real-logic/agrona](https://github.com/real-logic/agrona) - High Performance data structures and utility methods for Java
+- [aeron-io/agrona](https://github.com/aeron-io/agrona) - High Performance data structures and utility methods for Java
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
 - [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 - [SPLWare/esProc](https://github.com/SPLWare/esProc) - esProc SPL is a pure Java developed software that can serve as a programming language for data analysis, a middleware for report data preparation, and an efficient big data computing engine.
@@ -772,7 +776,6 @@
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [karthikuj/sasori](https://github.com/karthikuj/sasori) - Sasori is a dynamic web crawler powered by Puppeteer, designed for lightning-fast endpoint discovery.
 - [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [stewartmckee/cobweb](https://github.com/stewartmckee/cobweb) - Web crawler with very flexible crawling options.  Can either use standalone or can be used with resque to perform clustered crawls.
 - [matthewmueller/x-ray](https://github.com/matthewmueller/x-ray) - The next web scraper. See through the &lt;html&gt; noise.
 - [wlouie1/UFO-Sightings](https://github.com/wlouie1/UFO-Sightings) - Explore over 80K reports of UFO sightings around the world, collected from 1906 - 2014 by the National UFO Reporting Center.
@@ -834,7 +837,6 @@
 - [djbook-ru/djbookru](https://github.com/djbook-ru/djbookru) - It is Django powered site for russian translation of DjangoBook
 - [HASH1da1/Gotanda](https://github.com/HASH1da1/Gotanda) - Gotanda is browser Web Extension for OSINT.
 - [xodio/xod](https://github.com/xodio/xod) - XOD IDE
-- [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [burlesco/burlesco](https://github.com/burlesco/burlesco) - Leia notícias sem ser assinante, burle o paywall (WebExtension)
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
@@ -1048,6 +1050,7 @@
 
 ## Others 
 
+- [flipperdevices/flipperzero-sd-card-examples](https://github.com/flipperdevices/flipperzero-sd-card-examples) - Examples of all types of files stored on Flipper Zero SD card
 - [paulpogoda/OSINT-Tools-Taiwan](https://github.com/paulpogoda/OSINT-Tools-Taiwan) - A list of OSINT resources and tools that may be useful to you when conducting investigations related to Taiwan (officially the Republic of China | ROC)
 - [paulpogoda/OSINT-Tools-UK](https://github.com/paulpogoda/OSINT-Tools-UK) - A list of OSINT resources and tools that may be useful to you when conducting investigations related to The United Kingdom
 - [cr0nx/awesome-linux-attack-forensics-purplelabs](https://github.com/cr0nx/awesome-linux-attack-forensics-purplelabs) - This page is a result of the ongoing hands-on research around advanced Linux attacks, detection and forensics techniques and tools.
@@ -1366,13 +1369,19 @@
 
 ## Python 
 
+- [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+- [Manisso/fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
+- [brightio/penelope](https://github.com/brightio/penelope) - Penelope Shell Handler
+- [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
+- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
+- [enarjord/passivbot](https://github.com/enarjord/passivbot) - Trading bot running on Bybit, Bitget, OKX, GateIO, Binance and Hyperliquid
 - [samwit/agent_tutorials](https://github.com/samwit/agent_tutorials) - various agent tutorials
-- [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Comprehensive Gradio WebUI for audio processing, powered by Whisper engines (Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer, zero-shot Voice Cloning (E2, F5-TTS), YouTube downlo
+- [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Comprehensive Gradio WebUI for audio processing, powered by Whisper engines (Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer(RVC), zero-shot Voice Cloning (E2, F5-TTS), YouTube d
 - [tilotech/identity-rag-customer-insights-chatbot](https://github.com/tilotech/identity-rag-customer-insights-chatbot) - Connect to your customer data using any LLM and gain actionable insights. IdentityRAG creates a single comprehensive customer 360 view (golden record) by unifying, consolidating, disambiguating and de
 - [t3l3machus/ACEshark](https://github.com/t3l3machus/ACEshark) - ACEshark is a utility designed for rapid extraction and analysis of Windows service configurations and Access Control Entries, eliminating the need for tools like accesschk.exe or other non-native bin
 - [flipperdevices/flipperzero_protobuf_py](https://github.com/flipperdevices/flipperzero_protobuf_py) - 
 - [Clats97/ClatsCracker](https://github.com/Clats97/ClatsCracker) - ClatsCracker is a versatile Python password-cracking tool supporting over 15 hash algorithms. It offers dictionary or brute-force attacks, adjustable threads, salted hash verification, a user-friendly
-- [Clats97/ClatScope](https://github.com/Clats97/ClatScope) - ClatScope Info Tool – The best and most versatile OSINT utility for retrieving geolocation, DNS, WHOIS, phone, email, data breach information and much more (20 features). Perfect for investigators, pe
+- [Clats97/ClatScope](https://github.com/Clats97/ClatScope) - ClatScope Info Tool – The best and most versatile OSINT utility for retrieving geolocation, DNS, WHOIS, phone, email, data breach information and much more (28 features). Perfect for investigators, pe
 - [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [whiteSHADOW1234/MorphURL](https://github.com/whiteSHADOW1234/MorphURL) - ⚔️ A command-line tool for IP address and URL obfuscation/de-obfuscation, providing diverse techniques for enhanced privacy and security.
 - [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSO
@@ -1395,7 +1404,7 @@
 - [pyca/bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers
 - [pydata/pandas-datareader](https://github.com/pydata/pandas-datareader) - Extract data from a wide range of Internet sources into a pandas DataFrame.
 - [RetrO-M/Hawker](https://github.com/RetrO-M/Hawker) - An Osint tool for investigating by collecting information on emails, phones, IPs, Bitcoin addresses, etc... ( 𝗡𝗘𝗪 𝗨𝗣𝗗𝗔𝗧𝗘 - 𝟬𝟭/𝟮𝟬/𝟮𝟬𝟮𝟱)
-- [comet-ml/opik](https://github.com/comet-ml/opik) - From RAG chatbots to code assistants to complex agentic pipelines and beyond, build LLM systems that run better, faster, and cheaper with tracing, evaluations, and dashboards.
+- [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
 - [jhj0517/AdvancedLivePortrait-WebUI](https://github.com/jhj0517/AdvancedLivePortrait-WebUI) - gradio WebUI for AdvancedLivePortrait
 - [s0md3v/Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
@@ -1529,6 +1538,7 @@
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [malvads/sqlmc](https://github.com/malvads/sqlmc) - Official Kali Linux tool to check all urls of a domain for SQL injections :)
+- [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 - [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
 - [basicW/badjpg](https://github.com/basicW/badjpg) - Payload for jpg file
 - [RevoltSecurities/SubProber](https://github.com/RevoltSecurities/SubProber) - Subprober is a powerful and efficient subdomain scanning tool written in Python. With the ability to handle large lists of subdomains. The tool offers concurrent scanning, allowing users to define the
@@ -2103,7 +2113,7 @@
 - [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [rodukov/openNasa](https://github.com/rodukov/openNasa) - Software can parse pictures from the Nasa server. I used python and requests library to parse and save images.
-- [UlionTse/translators](https://github.com/UlionTse/translators) - 🌏🌍🌎Translators🌎🌍🌏 is a library that aims to bring free, multiple, enjoyable translations to individuals and students in Python.  Translators是一个旨在用Python为个人和学生带来免费、多样、愉快翻译的库。
+- [UlionTse/translators](https://github.com/UlionTse/translators) - Translators is a library that aims to bring free, multiple, enjoyable translations to individuals and students in Python.  「翻译官」是一个旨在用Python为个人和学生带来免费、多样、愉快翻译的库。
 - [Animenosekai/translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
 - [Dragon-Userbot/Dragon-Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot) - Userbot for telegram with easiest installation
 - [andylvua/bibaandboba](https://github.com/andylvua/bibaandboba) - Python package for analyzing Telegram chats and finding correlations between people
@@ -2412,6 +2422,7 @@
 
 ## Shell 
 
+- [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [M4xSec/K-OTP-X](https://github.com/M4xSec/K-OTP-X) - 
 - [CapibaraZero/resources](https://github.com/CapibaraZero/resources) - Resources of capibaraZero(PCB, STL...)
 - [shubhamrooter/ShodanSpider](https://github.com/shubhamrooter/ShodanSpider) - ShodanSpider is an open-source tool for interacting with Shodan. It lets you search and extract data from Shodan without an API key, offering a simple command-line interface. Premium users can integra
@@ -2573,11 +2584,12 @@
 
 ## TypeScript 
 
+- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [echogarden-project/echogarden](https://github.com/echogarden-project/echogarden) - Cross-platform speech toolset, used from the command-line or as a Node.js library. Includes a variety of engines for speech synthesis, speech recognition, forced alignment, speech translation, voice i
 - [devflowinc/firecrawl-simple](https://github.com/devflowinc/firecrawl-simple) - ➖ Stripped down, stable version of firecrawl optimized for self-hosting and ease of contribution. Billing logic and AI features are completely removed. Crawl and convert any website into LLM-ready mar
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes [In Beta]
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Open-source no-code web data extraction platform. Turn websites to APIs & spreadsheets with no-code robots in minutes.
 - [jessetinell/x2.email](https://github.com/jessetinell/x2.email) - 
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
@@ -2612,7 +2624,6 @@
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [event-driven-io/Pongo](https://github.com/event-driven-io/Pongo) - Pongo - Mongo but on Postgres and with strong consistency benefits
-- [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 - [Aituglo/hackyx](https://github.com/Aituglo/hackyx) - The Search Engine for Cybersecurity
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [klarna-incubator/gram](https://github.com/klarna-incubator/gram) - Gram is Klarna's own threat model diagramming tool
@@ -2650,6 +2661,7 @@
 - [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos) - Restoring old and blurry face photos with AI.
 - [APTRS/APTRS](https://github.com/APTRS/APTRS) - Automated pentest reporting with custom Word templates, project tracking, and client management tools. Streamline your security workflows effortlessly!
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
+- [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [apify/apify-client-js](https://github.com/apify/apify-client-js) - Apify API client for JavaScript / Node.js.
 - [apify/got-scraping](https://github.com/apify/got-scraping) - HTTP client made for scraping based on got.
