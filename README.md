@@ -83,6 +83,8 @@
 
 ## C 
 
+- [SequoiaSan/FlipperZero-WiFi-Scanner_Module](https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module) - WiFi Scanner Module for FlipperZero based on ESP8266/ESP32
+- [0xchocolate/flipperzero-esp-flasher](https://github.com/0xchocolate/flipperzero-esp-flasher) - Flipper Zero app to flash ESP chips from the device (no computer connection needed!)
 - [flipperdevices/flipperzero-good-faps](https://github.com/flipperdevices/flipperzero-good-faps) - Flipper Zero Official Apps maintained by Flipper Team and Friends
 - [apache/cloudberry](https://github.com/apache/cloudberry) - One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database.
 - [DarkFlippers/flipperzero-subbrute](https://github.com/DarkFlippers/flipperzero-subbrute) - SubGHz key checker
@@ -308,7 +310,10 @@
 
 ## Go 
 
-- [Tanq16/ai-context](https://github.com/Tanq16/ai-context) - A command-line tool designed to produce a context file from various sources, to make interactions with LLM apps (like ChatGPT, Claude, etc.) easy.
+- [KnockOutEZ/diffdeck](https://github.com/KnockOutEZ/diffdeck) - DiffDeck: 🚀 Streamline Code Reviews and Collaboration with Smart Diffs, Security Scans, and AI-Ready Outputs!
+- [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go.
+- [zrougamed/dynamic-notification-system](https://github.com/zrougamed/dynamic-notification-system) - A Go-based dynamic notification scheduler. Supports multi-channel notifications (Slack, Email, SMS, Webhook), flexible intervals, and database-driven job scheduling with execution logging.
+- [Tanq16/ai-context](https://github.com/Tanq16/ai-context) - CLI tool to produce MD context files from many sources, to help interact with LLMs (ChatGPT, Llama3, Claude, etc.).
 - [couchbase/moss](https://github.com/couchbase/moss) - moss - a simple, fast, ordered, persistable, key-val storage library for golang
 - [adrg/strutil](https://github.com/adrg/strutil) - Go metrics for calculating string similarity and other string utility functions
 - [projectdiscovery/urlfinder](https://github.com/projectdiscovery/urlfinder) - A high-speed tool for passively gathering URLs, optimized for efficient and comprehensive web asset discovery without active scanning.
@@ -340,7 +345,7 @@
 - [Banh-Canh/ytui](https://github.com/Banh-Canh/ytui) - ytui is a TUI tool that allows users to query videos on youtube and play them in their local player.
 - [medama-io/go-useragent](https://github.com/medama-io/go-useragent) - Fast trie-based user-agent parser in Go.
 - [mrinjamul/go-dupfinder](https://github.com/mrinjamul/go-dupfinder) - Duplicate File Finder.
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open source, reactive, scalable, highly-available, unified cache optimized for modern hardware.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source in-memory database with query subscriptions.
 - [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
 - [polarsignals/frostdb](https://github.com/polarsignals/frostdb) - ❄️ Coolest database around 🧊 Embeddable column database written in Go.
 - [ftp27/go-universal-redirect](https://github.com/ftp27/go-universal-redirect) - Lightweight Go server that redirects users to platform-specific URLs (e.g., App Store, Play Store)
@@ -682,6 +687,8 @@
 
 ## Java 
 
+- [tgscan-dev/proxy-pool](https://github.com/tgscan-dev/proxy-pool) - A simple, lightweight proxy pool implementation using Spring Boot. This project fetches free proxies from various sources, validates their availability and anonymity, and provides a simple API for acc
+- [tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan) - Streamline Your Telegram Searches: Find Channels, Groups, and Chat History Effortlessly.
 - [filelize/filelize-java](https://github.com/filelize/filelize-java) - Filelize is a lightweight database designed to simplify writing and reading data into human-readable files, requiring just one line of code
 - [hibernate/hibernate-orm](https://github.com/hibernate/hibernate-orm) - Hibernate's core Object/Relational Mapping functionality
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
@@ -739,6 +746,7 @@
 
 ## JavaScript 
 
+- [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - A highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers. Works by intercepting HTTP requests with a service w
 - [testdriverai/testdriverai](https://github.com/testdriverai/testdriverai) - Next generation autonomous AI agent for end-to-end testing of web & desktop
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
@@ -1003,6 +1011,7 @@
 
 ## Makefile 
 
+- [deepseek-ai/DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - DeepSeek LLM: Let there be answers
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [PartialVolume/shredos.x86_64](https://github.com/PartialVolume/shredos.x86_64) - Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe
 
@@ -1050,6 +1059,10 @@
 
 ## Others 
 
+- [paulpogoda/OSINT-Tools-India](https://github.com/paulpogoda/OSINT-Tools-India) - A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of India
+- [VikingPathak/kh-sql-projects](https://github.com/VikingPathak/kh-sql-projects) - This repository contains source code for popular SQL projects for beginners, intermediate, and advance.
+- [quen0n/flipperzero-ext-cc1101](https://github.com/quen0n/flipperzero-ext-cc1101) - A method for increasing the range of receiving and transmitting a radio signal Flipper Zero
+- [curiv/russian-offensive-security-questions](https://github.com/curiv/russian-offensive-security-questions) - Репозиторий содержит список вопросов по наступальной безопасности.
 - [flipperdevices/flipperzero-sd-card-examples](https://github.com/flipperdevices/flipperzero-sd-card-examples) - Examples of all types of files stored on Flipper Zero SD card
 - [paulpogoda/OSINT-Tools-Taiwan](https://github.com/paulpogoda/OSINT-Tools-Taiwan) - A list of OSINT resources and tools that may be useful to you when conducting investigations related to Taiwan (officially the Republic of China | ROC)
 - [paulpogoda/OSINT-Tools-UK](https://github.com/paulpogoda/OSINT-Tools-UK) - A list of OSINT resources and tools that may be useful to you when conducting investigations related to The United Kingdom
@@ -1256,7 +1269,7 @@
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [harismuneer/Ultimate-Social-Scrapers](https://github.com/harismuneer/Ultimate-Social-Scrapers) - 🤖 Top-rated tools to scrape all major sections from Facebook, Instagram, and Twitter (X) including posts (likes/comments), photos/videos, contact information, followers, following and much more.
+- [harismuneer/Ultimate-Social-Scrapers](https://github.com/harismuneer/Ultimate-Social-Scrapers) - 🤖 Top-rated tools to scrape all major public sections from Facebook, Instagram, and Twitter (X) including posts (likes/comments), photos/videos, contact information, followers, following and much more
 - [ohsusannamarie/Awesome-Talent-Sourcing](https://github.com/ohsusannamarie/Awesome-Talent-Sourcing) - A curated awesome list of talent sourcing resources - tools, Chrome extensions, websites, etc. Feel free to contribute! 🔎
 - [hugoahosta/OSINT_Collection](https://github.com/hugoahosta/OSINT_Collection) - Maintained collection of OSINT related resources. (All Free & Actionable)
 - [hugoahosta/DFIR](https://github.com/hugoahosta/DFIR) - all things DFIR. I'm a novice becoming immersed in digital forensics
@@ -1369,6 +1382,19 @@
 
 ## Python 
 
+- [SergeyShk/Speech-to-Text-Russian](https://github.com/SergeyShk/Speech-to-Text-Russian) - Проект для распознавания речи на русском языке на основе pykaldi.
+- [SergeyShk/Word-to-Number-Russian](https://github.com/SergeyShk/Word-to-Number-Russian) - Проект для перевода чисел, записанных в текстовом виде на русском языке.
+- [SergeyShk/ruTS](https://github.com/SergeyShk/ruTS) - Библиотека для извлечения статистик из текстов на русском языке.
+- [Zejun-Yang/AniPortrait](https://github.com/Zejun-Yang/AniPortrait) - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation
+- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone
+- [TsLu1s/atlantic](https://github.com/TsLu1s/atlantic) - Atlantic: Automated Data Preprocessing Framework for Machine Learning
+- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
+- [UnkL4b/GitMiner](https://github.com/UnkL4b/GitMiner) - Tool for advanced mining for content on Github
+- [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
+- [aeeeeeep/objwatch](https://github.com/aeeeeeep/objwatch) - 🗳️ ObjWatch is a Python library to trace and monitor object attributes and method calls.
+- [Hong5489/flipperzero-gate-bruteforce](https://github.com/Hong5489/flipperzero-gate-bruteforce) - Brute Force Gate Remote using Flipper Zero
+- [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit
+- [browser-use/web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [Manisso/fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
 - [brightio/penelope](https://github.com/brightio/penelope) - Penelope Shell Handler
@@ -1381,7 +1407,7 @@
 - [t3l3machus/ACEshark](https://github.com/t3l3machus/ACEshark) - ACEshark is a utility designed for rapid extraction and analysis of Windows service configurations and Access Control Entries, eliminating the need for tools like accesschk.exe or other non-native bin
 - [flipperdevices/flipperzero_protobuf_py](https://github.com/flipperdevices/flipperzero_protobuf_py) - 
 - [Clats97/ClatsCracker](https://github.com/Clats97/ClatsCracker) - ClatsCracker is a versatile Python password-cracking tool supporting over 15 hash algorithms. It offers dictionary or brute-force attacks, adjustable threads, salted hash verification, a user-friendly
-- [Clats97/ClatScope](https://github.com/Clats97/ClatScope) - ClatScope Info Tool – The best and most versatile OSINT utility for retrieving geolocation, DNS, WHOIS, phone, email, data breach information and much more (28 features). Perfect for investigators, pe
+- [Clats97/ClatScope](https://github.com/Clats97/ClatScope) - ClatScope Info Tool – The best and most versatile OSINT utility for retrieving geolocation, DNS, WHOIS, phone, email, data breach information and much more (35 features). Perfect for investigators, pe
 - [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [whiteSHADOW1234/MorphURL](https://github.com/whiteSHADOW1234/MorphURL) - ⚔️ A command-line tool for IP address and URL obfuscation/de-obfuscation, providing diverse techniques for enhanced privacy and security.
 - [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSO
@@ -2168,7 +2194,6 @@
 - [hugoahosta/udp_port_scan_icmp_side_channel](https://github.com/hugoahosta/udp_port_scan_icmp_side_channel) - Scripts for performing a UDP port scan using the ICMP rate limit counter vulnerability presented in the paper about the SadDNS attack
 - [Malfrats/xeuledoc](https://github.com/Malfrats/xeuledoc) - Fetch information about a public Google document.
 - [novitae/Tenai](https://github.com/novitae/Tenai) - 🔮 Uncover some followers of a private instagram account
-- [AstraaDev/Discord-Token-Grabber-V2](https://github.com/AstraaDev/Discord-Token-Grabber-V2) - Simple token grabber developped in python.
 - [AstraaDev/Discord-Token-Grabber](https://github.com/AstraaDev/Discord-Token-Grabber) - Simple token grabber developped in python.
 - [jakecreps/ruby](https://github.com/jakecreps/ruby) - A Rumble, BitChute, and YouTube scraper
 - [jakecreps/earthshot](https://github.com/jakecreps/earthshot) - A utility that automatically takes screenshots of coordinates using Google Earth.
@@ -2336,6 +2361,9 @@
 
 ## Rust 
 
+- [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+- [chaqchase/lla](https://github.com/chaqchase/lla) - blazing fast `ls` replacement with superpowers
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification
 - [ibnaleem/checksum](https://github.com/ibnaleem/checksum) - File checksum verification tool written in Rust.
 - [mcronce/oci-registry](https://github.com/mcronce/oci-registry) - 
@@ -2377,7 +2405,7 @@
 - [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager
 - [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: the power of programming, in your database
 - [Ben-Lichtman/ropr](https://github.com/Ben-Lichtman/ropr) - A blazing fast™ multithreaded ROP Gadget finder. ropper / ropgadget alternative
-- [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
+- [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data and Git history.
 - [w4/pisshoff](https://github.com/w4/pisshoff) - 🧸 fully isolated honeypot ssh server using thrussh
 - [ogata-k/fakes-gen-cli](https://github.com/ogata-k/fakes-gen-cli) - Library and CLI tool for generating fake data as formatted as CSV, TSV and JSON.
 - [dfir-dd/dfir-toolkit](https://github.com/dfir-dd/dfir-toolkit) - CLI tools for forensic investigation of Windows artifacts
@@ -2584,6 +2612,8 @@
 
 ## TypeScript 
 
+- [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
+- [smocker-dev/smocker](https://github.com/smocker-dev/smocker) - Smocker is a simple and efficient HTTP mock server and proxy
 - [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -2712,7 +2742,7 @@
 
 ## Vala 
 
-- [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK+/Vala
+- [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK/Vala
 - [GNOME/geary](https://github.com/GNOME/geary) - Read-only mirror of https://gitlab.gnome.org/GNOME/geary
 - [RajSolai/TextSnatcher](https://github.com/RajSolai/TextSnatcher) - How to Copy Text from Images ? Answer is TextSnatcher !. Perform OCR operations in seconds on Linux Desktop.
 
