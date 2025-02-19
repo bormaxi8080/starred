@@ -180,6 +180,7 @@
 
 ## C# # 
 
+- [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) - The media player for language learning, with dual subtitles, AI-generated subtitles, realtime-OCR, translation, word lookup, and more!
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [alexandrehtrb/Pororoca](https://github.com/alexandrehtrb/Pororoca) - An API testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.
 - [lypd0/DeadPotato](https://github.com/lypd0/DeadPotato) - DeadPotato is a windows privilege escalation utility from the Potato family of exploits, leveraging the SeImpersonate right to obtain SYSTEM privileges.        This script has been customized from the
@@ -205,6 +206,7 @@
 
 ## C++ 
 
+- [llem00n/brofile](https://github.com/llem00n/brofile) - Brofile is a utility app which grants you with a better link handling abilities (works on my machine)
 - [can1357/selene](https://github.com/can1357/selene) - Kernel-mode Paravirtualization in Ring 2, LLVM based linker, and some other things!
 - [psdoood/SteganoPass](https://github.com/psdoood/SteganoPass) - Password management through LSB image steganography.
 - [CapibaraZero/ArduinoPcap](https://github.com/CapibaraZero/ArduinoPcap) - A library for creating and sending .pcap files for Wireshark and other programms.
@@ -317,6 +319,8 @@
 
 ## Go 
 
+- [yusing/go-proxy](https://github.com/yusing/go-proxy) - Easy to use reverse proxy with docker integration
+- [003random/getJS](https://github.com/003random/getJS) - A tool to fastly get all javascript sources/files
 - [andrearaponi/dito](https://github.com/andrearaponi/dito) - an advanced reverse proxy server written in Go
 - [KnockOutEZ/diffdeck](https://github.com/KnockOutEZ/diffdeck) - DiffDeck: 🚀 Streamline Code Reviews and Collaboration with Smart Diffs, Security Scans, and AI-Ready Outputs!
 - [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go.
@@ -342,7 +346,7 @@
 - [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) - Linux/Windows post-exploitation framework made by linux user
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-- [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 OSINT tool for searching people's digital footprint and leaked passwords across various social networks, written in Go.
+- [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
 - [ibnaleem/cc-validation-webserver](https://github.com/ibnaleem/cc-validation-webserver) - A lightweight web server for validating credit card numbers, written in Go.
 - [x-sushant-x/Rate-Shield](https://github.com/x-sushant-x/Rate-Shield) - A configurable rate limiter that can apply rate limiting on individual APIs with individual rules.
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -378,7 +382,6 @@
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
@@ -613,6 +616,8 @@
 
 ## HTML 
 
+- [0xHasanM/LogonSessionAuditor](https://github.com/0xHasanM/LogonSessionAuditor) - This tool parses Windows EVTX logs to extract login and logout sessions from a security.evtx file. It uses a Tkinter GUI to let you select the EVTX file and specify a time for correlating login and lo
+- [curiousqeorqe/FlipperZeroDB](https://github.com/curiousqeorqe/FlipperZeroDB) - All In One Flipper Zero Database
 - [DarkWebInformer/darknetlive](https://github.com/DarkWebInformer/darknetlive) - A web scrape of Darknetlive. Incognito Market admin has removed the news page. This scrape has everything including the news.
 - [spyboy-productions/r4ven](https://github.com/spyboy-productions/r4ven) - Track the GPS location of the user's smartphone or PC and capture a picture of the target, along with IP and device information.
 - [stanfrbd/cyberbro](https://github.com/stanfrbd/cyberbro) - A simple application that extracts your IoCs from garbage input and checks their reputation using multiple CTI services.
@@ -771,7 +776,6 @@
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [supabase-community/babelfish.ai](https://github.com/supabase-community/babelfish.ai) - A realtime live transcription and translation app built with Huggingface Transformer.js and Supabase Realtime.
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [Bugs-B0unt3r/google-sheets-hunting-bad-domains](https://github.com/Bugs-B0unt3r/google-sheets-hunting-bad-domains) - This project provides a set of Google Apps Scripts designed to help you identify and analyze potentially malicious domains directly from Google Sheets. By leveraging various APIs, these scripts can re
 - [CartographerLabs/Canary](https://github.com/CartographerLabs/Canary) - A Chrome extension that looks out for and blocks extremist content! Using the HTML content of visited sites, Canary will send that data off to the Google Vertex API and will use the LLM to identify if
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
@@ -795,6 +799,7 @@
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [karthikuj/sasori](https://github.com/karthikuj/sasori) - Sasori is a dynamic web crawler powered by Puppeteer, designed for lightning-fast endpoint discovery.
 - [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [stewartmckee/cobweb](https://github.com/stewartmckee/cobweb) - Web crawler with very flexible crawling options.  Can either use standalone or can be used with resque to perform clustered crawls.
 - [matthewmueller/x-ray](https://github.com/matthewmueller/x-ray) - The next web scraper. See through the &lt;html&gt; noise.
 - [wlouie1/UFO-Sightings](https://github.com/wlouie1/UFO-Sightings) - Explore over 80K reports of UFO sightings around the world, collected from 1906 - 2014 by the National UFO Reporting Center.
@@ -863,7 +868,7 @@
 - [apify/proxy-chain](https://github.com/apify/proxy-chain) - Node.js implementation of a proxy server (think Squid) with support for SSL, authentication and upstream proxy chaining.
 - [tejado/telegram-nearby-map](https://github.com/tejado/telegram-nearby-map) - Discover the location of nearby Telegram users 📡🌍
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json
-- [DrakenWan/Yale3](https://github.com/DrakenWan/Yale3) - A simple LinkedIn profile scraper implemented as a chrome extension
+- [KartikayKaul/Yale3](https://github.com/KartikayKaul/Yale3) - A simple LinkedIn profile scraper implemented as a chrome extension
 - [maprox/telegrembo](https://github.com/maprox/telegrembo) - Telegram bot with AMQP processing
 - [ZYSzys/sort-github-stars-size](https://github.com/ZYSzys/sort-github-stars-size) - :sparkles: Sort your personal starred repos by repo's size.
 - [Nickersoft/push.js](https://github.com/Nickersoft/push.js) - The world's most versatile desktop notifications framework :earth_americas:
@@ -1396,8 +1401,18 @@
 
 ## Python 
 
+- [uav4geo/GeoDeep](https://github.com/uav4geo/GeoDeep) - Free and open source library for AI object detection and semantic segmentation in geospatial rasters. 🚀
+- [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
+- [Duff89/parser_avito](https://github.com/Duff89/parser_avito) - Находит товары на avito.ru по ключевым словам
+- [Sindhu-Hegde/gestsync](https://github.com/Sindhu-Hegde/gestsync) - Official code for the paper "GestSync: Determining who is speaking without a talking head" published at BMVC 2023
+- [uname-n/deltabase](https://github.com/uname-n/deltabase) - a lightweight, comprehensive solution for managing delta tables built on polars and deltalake
+- [hrithikkoduri/WebRover](https://github.com/hrithikkoduri/WebRover) - WebRover is an autonomous AI agent designed to interpret user input and execute actions by interacting with web elements to accomplish tasks or answer questions. It leverages advanced language models 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- [test-zeus-ai/testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) - Welcome to Hercules, the world's first open-source testing agent that's here to lift your testing burdens with the strength of a mythological hero.
+- [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [evangelosmeklis/peepdb](https://github.com/evangelosmeklis/peepdb) - CLI tool and python library to inspect databases fast.
-- [ad-si/Perspectra](https://github.com/ad-si/Perspectra) - Automatically extract documents from images and perspectively correct them with classic computer-vision algorithms
+- [ad-si/Perspectra](https://github.com/ad-si/Perspectra) - Automatically extract documents from images and perspectively correct them with classic computer-vision algorithms. Check out Perspec for a GUI alternative.
 - [arinbjornk/llmtop](https://github.com/arinbjornk/llmtop) - A system monitoring tool powered by LLMs that provides real-time insights about your system's performance
 - [DarkWebInformer/FBI_Watchdog](https://github.com/DarkWebInformer/FBI_Watchdog) - FBI Watchdog is an OSINT tool that monitors domain seizures and DNS record changes in real time, alerting users to law enforcement takedowns and other DNS modifications.
 - [DarkWebInformer/company-revenue-lookup](https://github.com/DarkWebInformer/company-revenue-lookup) - Lookup a company's revenue via stock ticker
@@ -1429,7 +1444,7 @@
 - [t3l3machus/ACEshark](https://github.com/t3l3machus/ACEshark) - ACEshark is a utility designed for rapid extraction and analysis of Windows service configurations and Access Control Entries, eliminating the need for tools like accesschk.exe or other non-native bin
 - [flipperdevices/flipperzero_protobuf_py](https://github.com/flipperdevices/flipperzero_protobuf_py) - 
 - [Clats97/ClatsCracker](https://github.com/Clats97/ClatsCracker) - ClatsCracker is a versatile Python password-cracking tool supporting over 15 hash algorithms. It offers dictionary or brute-force attacks, adjustable threads, salted hash verification, a user-friendly
-- [Clats97/ClatScope](https://github.com/Clats97/ClatScope) - ClatScope Info Tool – The best and most versatile OSINT utility for retrieving geolocation, DNS, WHOIS, phone, email, data breach information and much more (42 features). Perfect for investigators, pe
+- [Clats97/ClatScope](https://github.com/Clats97/ClatScope) - ClatScope Info Tool – The best and most versatile OSINT utility for retrieving geolocation, DNS, WHOIS, phone, email, data breach information and much more (60 features). Perfect for investigators, pe
 - [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [whiteSHADOW1234/MorphURL](https://github.com/whiteSHADOW1234/MorphURL) - ⚔️ A command-line tool for IP address and URL obfuscation/de-obfuscation, providing diverse techniques for enhanced privacy and security.
 - [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSO
@@ -1530,7 +1545,7 @@
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [YassKhazzan/openperplex_backend_os](https://github.com/YassKhazzan/openperplex_backend_os) - openperplex is an opensource AI search engine
 - [a13xp0p0v/kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker) - A tool for checking the security hardening options of the Linux kernel
-- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
+- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Elevate your Django admin with a stunning modern interface, powerful features, and seamless user experience - without compromising functionality.
 - [ranlo/check-google-user](https://github.com/ranlo/check-google-user) - Check for the existence of an email on Google platforms
 - [MikeMeliz/TorCrawl.py](https://github.com/MikeMeliz/TorCrawl.py) - Crawl and extract (regular or onion) webpages through TOR network
 - [kapicorp/kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
@@ -2408,7 +2423,7 @@
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [br0kej/bin2ml](https://github.com/br0kej/bin2ml) - A command line tool for extracting machine learning ready data from software binaries powered by Radare2
 - [wandapeter/pam-authramp](https://github.com/wandapeter/pam-authramp) - pam-authramp | The AuthRamp PAM module provides an account lockout mechanism based on the number of authentication failures.
-- [osmarks/meme-search-engine](https://github.com/osmarks/meme-search-engine) - Local CLIP search over meme libraries
+- [osmarks/meme-search-engine](https://github.com/osmarks/meme-search-engine) - Large-scale CLIP image search
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
@@ -2475,6 +2490,7 @@
 
 ## Shell 
 
+- [003random/loki](https://github.com/003random/loki) - 
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [M4xSec/K-OTP-X](https://github.com/M4xSec/K-OTP-X) - 
 - [CapibaraZero/resources](https://github.com/CapibaraZero/resources) - Resources of capibaraZero(PCB, STL...)
@@ -2611,7 +2627,7 @@
 
 ## Svelte 
 
-- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 system monitoring on steroids
+- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [0sumcode/0up](https://github.com/0sumcode/0up) - 0up is a zero-knowledge, open-source, encrypted file sharing service
 - [cupcakearmy/cryptgeon](https://github.com/cupcakearmy/cryptgeon) - cryptgeon is a secure, open source note / file sharing service inspired by PrivNote written in rust & svelte.
@@ -2659,6 +2675,7 @@
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
