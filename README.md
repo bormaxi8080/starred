@@ -323,11 +323,14 @@
 
 ## Go 
 
+- [ethicalhackingplayground/bxss](https://github.com/ethicalhackingplayground/bxss) - Blind XSS Scanner is a tool that can be used to scan for blind XSS vulnerabilities in web applications.
+- [truemediaorg/socialbot](https://github.com/truemediaorg/socialbot) - TrueMedia.org interactive bot for detecting deepfakes on X and other social platforms
+- [duaraghav8/dockershrink](https://github.com/duaraghav8/dockershrink) - Dockershrink is an AI Assistant that reduces the size of your application's Docker Image
 - [zan8in/afrog](https://github.com/zan8in/afrog) - A Security Tool for Bug Bounty, Pentest and Red Teaming.
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [mhmdiaa/chronos](https://github.com/mhmdiaa/chronos) - Wayback Machine OSINT Framework
 - [FreeLeh/GoFreeDB](https://github.com/FreeLeh/GoFreeDB) - GoFreeDB is a Golang library that provides common and simple database abstractions on top of Google Sheets.
-- [carverauto/serviceradar](https://github.com/carverauto/serviceradar) - simple golang-based home network monitoring and surveillance tool
+- [carverauto/serviceradar](https://github.com/carverauto/serviceradar) - simple golang-based distributed network monitoring
 - [gigachad80/grep-backURLs](https://github.com/gigachad80/grep-backURLs) - Automated way to extract juicy info with subfinder and waybackurls
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [yusing/godoxy](https://github.com/yusing/godoxy) - Easy to use reverse proxy with docker integration
@@ -727,7 +730,7 @@
 - [apache/gravitino](https://github.com/apache/gravitino) - World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
 - [OpenBAS-Platform/openbas](https://github.com/OpenBAS-Platform/openbas) - Open Attack Simulation & Security Validation Platform
 - [aeron-io/agrona](https://github.com/aeron-io/agrona) - High Performance data structures and utility methods for Java
-- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 - [SPLWare/esProc](https://github.com/SPLWare/esProc) - esProc SPL is a JVM-based programming language designed for structured data computation, serving as both a data analysis tool and an embedded computing engine.
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
@@ -775,6 +778,7 @@
 
 ## JavaScript 
 
+- [jfmaes/phisherman](https://github.com/jfmaes/phisherman) - A real fake social engineering app
 - [adamyordan/laplace](https://github.com/adamyordan/laplace) - Laplace is an open-source project to enable screen sharing directly via browser. Based on WebRTC for low latency peer-to-peer connections, and WebSocket implemented in golang for signaling.
 - [DarkWebInformer/remove-twitter-x-followers](https://github.com/DarkWebInformer/remove-twitter-x-followers) - Remove Twitter/X Followers
 - [fbi-cde/crime-data-frontend](https://github.com/fbi-cde/crime-data-frontend) - Visualization and download tools for exploring the FBI’s Uniform Crime Reporting (UCR) data
@@ -800,7 +804,7 @@
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [nordszamora/Stealth-Message](https://github.com/nordszamora/Stealth-Message) - StealthMessage is a designed platform that allows users to send and receive anonymous messages without revealing its identity.
-- [Jet-labs/jet-admin](https://github.com/Jet-labs/jet-admin) - Web based PostgreSQL tables manager and admin dashboard for your operations! Edit data, build graphs and dashboards using queries.
+- [Jet-labs/jet-admin](https://github.com/Jet-labs/jet-admin) - Web based PostgreSQL tables manager and admin dashboard for your operations! Edit data, build charts and dashboards using queries.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [InternLM/MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
@@ -1090,6 +1094,7 @@
 
 ## Others 
 
+- [jimilinuxguy/flipperzero-touchtunes](https://github.com/jimilinuxguy/flipperzero-touchtunes) - 
 - [DarkWebInformer/OperationArchive](https://github.com/DarkWebInformer/OperationArchive) - Operation Archive - Saving the history behind Cybercriminal Arrests, Documentation, Raids, Seizures, and more!
 - [paulpogoda/OSINT-Tools-India](https://github.com/paulpogoda/OSINT-Tools-India) - A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of India
 - [VikingPathak/kh-sql-projects](https://github.com/VikingPathak/kh-sql-projects) - This repository contains source code for popular SQL projects for beginners, intermediate, and advance.
@@ -1326,7 +1331,6 @@
 - [uraimo/awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) - A curated list of awesome programmers and software projects you can support!
 - [oryon-osint/discord-osint-hub](https://github.com/oryon-osint/discord-osint-hub) - Discord Server: Knowledge base on OSINT and private security
 - [oryon-osint/querytool](https://github.com/oryon-osint/querytool) - Querytool is an OSINT framework based on Google Spreadsheet. With this tool you can perform complex search of terms, people, email addresses, files and many more.
-- [Double2Sky/socks5_list](https://github.com/Double2Sky/socks5_list) - Auto-updated SOCKS5 proxy list + proxies for Telegram
 - [Double2Sky/OffenOsint](https://github.com/Double2Sky/OffenOsint) - Beta release
 - [cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) - List of API's for gathering information about phone numbers, addresses, domains etc
 - [birdbee44/Resources](https://github.com/birdbee44/Resources) - 
@@ -1415,6 +1419,17 @@
 
 ## Python 
 
+- [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - Preswald is a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, turni
+- [andrewyng/aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers
+- [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
+- [mariosantella/youtube-handles-fuzz](https://github.com/mariosantella/youtube-handles-fuzz) - osint tool to fuzz youtube handles giving a name surname
+- [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
+- [goodreasonai/ScrapeServ](https://github.com/goodreasonai/ScrapeServ) - A self-hosted API that takes a URL and returns a file with browser screenshots.
+- [mahmoud/glom](https://github.com/mahmoud/glom) - ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️
+- [truemediaorg/GenConViT](https://github.com/truemediaorg/GenConViT) - Deepfake Video Detection Using Generative Convolutional Vision Transformer
+- [truemediaorg/ml-models](https://github.com/truemediaorg/ml-models) - TrueMedia.org models for detecting deepfake images, videos, and audio
+- [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution
+- [ostrolucky/Bulk-Bing-Image-downloader](https://github.com/ostrolucky/Bulk-Bing-Image-downloader) - Download full sized images returned from bing image search
 - [karlot/sshclick](https://github.com/karlot/sshclick) - SSH Config terminal manager based on Python and Click framework with Rich and Textual UI
 - [video-db/Director](https://github.com/video-db/Director) - AI video agents framework for next-gen video interactions and workflows.
 - [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices.
@@ -1492,7 +1507,7 @@
 - [casterbyte/Sara](https://github.com/casterbyte/Sara) - RouterOS Security Inspector
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [bit-team/backintime](https://github.com/bit-team/backintime) - A comfortable and well-configurable graphical Frontend for incremental backups, with a command-line version also available. Modified files are transferred, while unchanged files are linked to the new 
-- [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - [ICLR 2025] Agent S: an open agentic framework that uses computers like a human
+- [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
 - [abuyv/exposor](https://github.com/abuyv/exposor) - Exposor is a tool using internet search engines to detect exposed technologies with a unified syntax.
 - [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) - VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social med
 - [pyca/bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers
@@ -1506,7 +1521,7 @@
 - [PabloLec/website-to-gif](https://github.com/PabloLec/website-to-gif) - GitHub Action to turn your website into a GIF :camera:
 - [unnohwn/telegram-checker](https://github.com/unnohwn/telegram-checker) - A Python tool for checking Telegram accounts via phone numbers or usernames. Automatically verifies account existence, downloads profile pictures, and provides detailed user information in a clean JSO
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
-- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory.
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management.
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of a YouTube channel from the command line
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
 - [issarapong/FTP-Miner](https://github.com/issarapong/FTP-Miner) - An FTP search engine scraper
@@ -1984,7 +1999,7 @@
 - [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [thewhiteh4t/FinalRecon](https://github.com/thewhiteh4t/FinalRecon) - All In One Web Recon
-- [jzck/horqrux](https://github.com/jzck/horqrux) - QR code splitting
+- [jzck/horQRux](https://github.com/jzck/horQRux) - QR code splitting
 - [opsdisk/pagodo](https://github.com/opsdisk/pagodo) - pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching
 - [hasanfirnas/symbiote](https://github.com/hasanfirnas/symbiote) - Your target's phone's front and back cameras📸 can be accessed by sending a link🔗.
 - [megadose/Quidam](https://github.com/megadose/Quidam) - Quidam allows you to retrieve information thanks to the forgotten password function of some sites.
@@ -2044,7 +2059,6 @@
 - [Bevigil/BeVigil-OSINT-CLI](https://github.com/Bevigil/BeVigil-OSINT-CLI) - bevigil-cli provides a unified command line interface and python library for using BeVigil OSINT API.
 - [puzzlepeaches/msprobe](https://github.com/puzzlepeaches/msprobe) - Finding all things on-prem Microsoft for password spraying and enumeration.
 - [dievus/msdorkdump](https://github.com/dievus/msdorkdump) - Google Dork File Finder
-- [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) - 👨‍💼 LinkedIn API for Python
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - GitHub Data Analysis Framework.
 - [iojw/socialscan](https://github.com/iojw/socialscan) - Python library for accurately querying username and email usage on online platforms
 - [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot
@@ -2068,7 +2082,7 @@
 - [machine1337/pycrypt](https://github.com/machine1337/pycrypt) - Python Based Crypter That Can Bypass Any Kinds Of Antivirus Products
 - [hippiiee/osgint](https://github.com/hippiiee/osgint) - OSINT tool to find informations about a github user (email2username, username2email, creation date ...)
 - [humandecoded/twayback](https://github.com/humandecoded/twayback) - Automate downloading archived deleted Tweets.
-- [adamian98/pulse](https://github.com/adamian98/pulse) - PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
+- [alex-damian/pulse](https://github.com/alex-damian/pulse) - PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
 - [keraattin/EmailAnalyzer](https://github.com/keraattin/EmailAnalyzer) - With EmailAnalyzer you can analyze your suspicious emails. You can extract headers, links, and hashes from the .eml file and you can generate reports.
 - [t3l3machus/Villain](https://github.com/t3l3machus/Villain) - Villain is a high level stage 0/1 C2 framework that can handle multiple reverse TCP & HoaxShell-based shells, enhance their functionality with additional features (commands, utilities) and share them 
 - [Te-k/pybinaryedge](https://github.com/Te-k/pybinaryedge) - Python 3 Wrapper for the BinaryEdge API https://www.binaryedge.io/
@@ -2427,6 +2441,7 @@
 
 ## Rust 
 
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [flipperzero-rs/flipperzero-template](https://github.com/flipperzero-rs/flipperzero-template) - A template for starting a flipperzero-rs project for the Flipper Zero🐬
 - [hanshuaikang/Nping](https://github.com/hanshuaikang/Nping) - 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
 - [newrelic/rusty-hog](https://github.com/newrelic/rusty-hog) - A suite of secret scanners built in Rust for performance. Based on TruffleHog (https://github.com/dxa4481/truffleHog) which is written in Python.
@@ -2458,7 +2473,7 @@
 - [br0kej/bin2ml](https://github.com/br0kej/bin2ml) - A command line tool for extracting machine learning ready data from software binaries powered by Radare2
 - [wandapeter/pam-authramp](https://github.com/wandapeter/pam-authramp) - pam-authramp | The AuthRamp PAM module provides an account lockout mechanism based on the number of authentication failures.
 - [osmarks/meme-search-engine](https://github.com/osmarks/meme-search-engine) - Large-scale CLIP image search
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
@@ -2520,6 +2535,7 @@
 
 ## Scala 
 
+- [truemediaorg/media-resolver](https://github.com/truemediaorg/media-resolver) - TrueMedia.org microservice to resolve media URLs from social media posts.
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 
 ## Shell 
@@ -2552,7 +2568,6 @@
 - [0xKayala/NucleiScanner](https://github.com/0xKayala/NucleiScanner) - NucleiScanner is a Powerful Automation tool for detecting Unknown Vulnerabilities in the Web Applications
 - [NullArray/IntRec-Pack](https://github.com/NullArray/IntRec-Pack) - Intelligence and Reconnaissance Package/Bundle installer.
 - [0xcyberpj/tweet-machine](https://github.com/0xcyberpj/tweet-machine) - This tool can retrieve :  1.Deleted tweets and replies ,Even if The account is suspended  2 .Old bios and Timestamp of The tweets
-- [allen-munsch/bash-video](https://github.com/allen-munsch/bash-video) - bash cli video editing "suite" which ... just wraps ffmpeg
 - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [error-try-again/UbuntuHardeningFramework](https://github.com/error-try-again/UbuntuHardeningFramework) - Automated Hardening Framework for Ubuntu
@@ -2690,6 +2705,9 @@
 
 ## TypeScript 
 
+- [cloudflare/agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
+- [truemediaorg/deepfake-app](https://github.com/truemediaorg/deepfake-app) - TrueMedia.org web application for querying multiple deepfake detection models and analyzing results
 - [apify/fingerprint-suite](https://github.com/apify/fingerprint-suite) - Browser fingerprinting tools for anonymizing your scrapers. Developed by Apify.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
@@ -2757,7 +2775,7 @@
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [bufferhead-code/plain-sight](https://github.com/bufferhead-code/plain-sight) - A browser extension that allows you to use steganography based password images to log into accounts.
 - [rohitdhas/shittier](https://github.com/rohitdhas/shittier) - Shittier is an unconventional code formatting tool
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [FacilMap/facilmap](https://github.com/FacilMap/facilmap) - FacilMap is a privacy-friendly, open-source versatile online map that combines different services based on OpenStreetMap and makes it easy to find places, plan trips and add markers, lines and routes 
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
