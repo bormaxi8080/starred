@@ -65,6 +65,7 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [YARA](#yara)
+- [Zig](#zig)
 
 ## Assembly 
 
@@ -88,6 +89,9 @@
 
 ## C 
 
+- [t6x/reaver-wps-fork-t6x](https://github.com/t6x/reaver-wps-fork-t6x) - 
+- [B0lg0r0v/Orion](https://github.com/B0lg0r0v/Orion) - Orion is a TCP/IP Forensics Tool, written in C, capable of detecting malicious processes / connections on windows hosts by using the VirusTotal API.
+- [B0lg0r0v/CTFPacker](https://github.com/B0lg0r0v/CTFPacker) - Cross platform (Linux / Windows) shellcode packer for CTFs and pentest / red team exams aiming for AV evasion !
 - [flipperdevices/flipperzero-nfc-tools](https://github.com/flipperdevices/flipperzero-nfc-tools) - Repository contains nfc tools for Flipper companions
 - [simeonkr/jinsp](https://github.com/simeonkr/jinsp) - Visually inspect JSON data from the terminal
 - [H4ckd4ddy/flipperzero-sentry-safe-plugin](https://github.com/H4ckd4ddy/flipperzero-sentry-safe-plugin) - 
@@ -186,7 +190,8 @@
 
 ## C# # 
 
-- [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) - The media player for language learning, with dual subtitles, AI-generated subtitles, realtime-OCR, translation, word lookup, and more!
+- [BlendLog/MinerSearch](https://github.com/BlendLog/MinerSearch) - Program designed for search and kill silent miners
+- [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) - The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [alexandrehtrb/Pororoca](https://github.com/alexandrehtrb/Pororoca) - An API testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.
 - [lypd0/DeadPotato](https://github.com/lypd0/DeadPotato) - DeadPotato is a windows privilege escalation utility from the Potato family of exploits, leveraging the SeImpersonate right to obtain SYSTEM privileges.        This script has been customized from the
@@ -654,6 +659,7 @@
 - [cloudtracer/ThreatPinchLookup](https://github.com/cloudtracer/ThreatPinchLookup) - Documentation and Sharing Repository for ThreatPinch Lookup Chrome & Firefox Extension
 - [neospl0it/osint-bookmark](https://github.com/neospl0it/osint-bookmark) - A curated list of OSINT tools for company research, internet scanning, DNS, and Whois lookups, organized for easy access. Ideal for analysts, researchers, and cybersecurity professionals.
 - [KhushalJangid/sync.io](https://github.com/KhushalJangid/sync.io) - A simple and easy to use HTTP based file sharing server to aid platform independent wireless file sharing between multiple devices
+- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Elevate your Django admin with a stunning modern interface, powerful features, and seamless user experience - without compromising functionality.
 - [joelhagvall/tor-onion-site-scraper](https://github.com/joelhagvall/tor-onion-site-scraper) - Python-based web scraper for a darkweb marketplace on the Tor network.
 - [scrapinghub/Formasaurus](https://github.com/scrapinghub/Formasaurus) - Formasaurus tells you the type of an HTML form and its fields using machine learning
 - [MetaOSINT/MetaOSINT.github.io](https://github.com/MetaOSINT/MetaOSINT.github.io) - A tool to quickly identify relevant, publicly-available open source intelligence ("OSINT") tools and resources, saving valuable time during investigations, research, and analysis.
@@ -727,6 +733,7 @@
 
 ## Java 
 
+- [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 - [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.
 - [TrianguloY/URLCheck](https://github.com/TrianguloY/URLCheck) - Android app by TrianguloY: URLCheck
@@ -990,6 +997,7 @@
 
 ## Jupyter Notebook 
 
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [MJCruickshank/TGeocoder](https://github.com/MJCruickshank/TGeocoder) - Automated parsing and geocoding of Telegram news channels
 - [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
 - [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
@@ -1104,6 +1112,9 @@
 
 ## Others 
 
+- [MuddledBox/FlipperZeroSub-GHz](https://github.com/MuddledBox/FlipperZeroSub-GHz) - Sub-GHz Files for the Flipper Zero
+- [onhexgroup/Awesome-Search-Engines-for-Cybersecurity-Researchers](https://github.com/onhexgroup/Awesome-Search-Engines-for-Cybersecurity-Researchers) - Awesome list of Search Engines for Cybersecurity Researchers
+- [shramos/Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets) - A curated list of amazingly awesome Cybersecurity datasets
 - [The-Osint-Toolbox/AI-Resources](https://github.com/The-Osint-Toolbox/AI-Resources) - AI tools for OSINT
 - [jimilinuxguy/flipperzero-touchtunes](https://github.com/jimilinuxguy/flipperzero-touchtunes) - 
 - [DarkWebInformer/OperationArchive](https://github.com/DarkWebInformer/OperationArchive) - Operation Archive - Saving the history behind Cybercriminal Arrests, Documentation, Raids, Seizures, and more!
@@ -1429,6 +1440,10 @@
 
 ## Python 
 
+- [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) – a better way to work with systemd units
+- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
+- [wetw0rk/Sickle](https://github.com/wetw0rk/Sickle) - Payload development framework
+- [Ironship/TelegramOSINTPolo](https://github.com/Ironship/TelegramOSINTPolo) - The app is used to download posts from Telegram feeds and save them to text files for later OSINT AI use
 - [facebookresearch/videoseal](https://github.com/facebookresearch/videoseal) - Open and efficient video watermarking
 - [whxitte/white-IpTracer](https://github.com/whxitte/white-IpTracer) - Just a simple light weight tool for simple ip information gathering.
 - [daprofiler/DaProfiler](https://github.com/daprofiler/DaProfiler) - DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recove
@@ -1588,7 +1603,7 @@
 - [fbdesignpro/sweetviz](https://github.com/fbdesignpro/sweetviz) - Visualize and compare datasets, target values and associations, with one line of code.
 - [Speedml/speedml](https://github.com/Speedml/speedml) - Speedml is a Python package to speed start machine learning projects.
 - [superryeti/Email-Crawler-Lead-Generator](https://github.com/superryeti/Email-Crawler-Lead-Generator) - This email crawler will visit all pages of a provided website and parse and save emails found to a csv file.
-- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Lightning-fast serving engine for any AI model of any size. Flexible. Easy. Enterprise-scale.
+- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Deploy high-performance AI models and inference pipelines on FastAPI with built-in batching, streaming and more.
 - [sentient-engineering/jobber](https://github.com/sentient-engineering/jobber) - browser controlling AI agent that applies to relavant jobs on internet autonomously. join chat @ https://discord.gg/umgnyQU2K8
 - [initstring/cloud_enum](https://github.com/initstring/cloud_enum) - Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
 - [captainzero93/Protect-Images-from-AI-PixelGuard](https://github.com/captainzero93/Protect-Images-from-AI-PixelGuard) - PixelGuard protects images from AI scraping and unauthorized use in AI training, such as facial recognition models or style transfer algorithms. It employs multiple invisible protection techniques tha
@@ -1618,7 +1633,6 @@
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [YassKhazzan/openperplex_backend_os](https://github.com/YassKhazzan/openperplex_backend_os) - openperplex is an opensource AI search engine
 - [a13xp0p0v/kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker) - A tool for checking the security hardening options of the Linux kernel
-- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Elevate your Django admin with a stunning modern interface, powerful features, and seamless user experience - without compromising functionality.
 - [ranlo/check-google-user](https://github.com/ranlo/check-google-user) - Check for the existence of an email on Google platforms
 - [MikeMeliz/TorCrawl.py](https://github.com/MikeMeliz/TorCrawl.py) - Crawl and extract (regular or onion) webpages through TOR network
 - [kapicorp/kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
@@ -1672,7 +1686,7 @@
 - [AsjadOooO/Zero-attacker](https://github.com/AsjadOooO/Zero-attacker) - Zero-attacker is an multipurpose hacking tool with over 15+ multifunction tools
 - [the-cult-of-integral/discord-raidkit](https://github.com/the-cult-of-integral/discord-raidkit) - An open-source, forever free tool that allows you to raid and destroy Discord servers via Discord bots, compromise Discord accounts, and generate Discord token grabbers.
 - [krazystar55/BlueDucky](https://github.com/krazystar55/BlueDucky) - 
-- [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
+- [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [malvads/sqlmc](https://github.com/malvads/sqlmc) - Official Kali Linux tool to check all urls of a domain for SQL injections :)
 - [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
@@ -2469,6 +2483,7 @@
 
 ## Rust 
 
+- [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [flipperzero-rs/flipperzero-template](https://github.com/flipperzero-rs/flipperzero-template) - A template for starting a flipperzero-rs project for the Flipper Zero🐬
 - [hanshuaikang/Nping](https://github.com/hanshuaikang/Nping) - 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
@@ -2493,7 +2508,7 @@
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
-- [Wervice/zentrox](https://github.com/Wervice/zentrox) - Zentrox helps with the administration of your home server components and devices using an all-in-one interface for package management, files, storage and more!
+- [Wervice/zentrox](https://github.com/Wervice/zentrox) - A powerful (home) server admininistration tool written in Rust
 - [flipperzero-rs/flipperzero](https://github.com/flipperzero-rs/flipperzero) - Rust on the Flipper Zero
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [matanolabs/matano](https://github.com/matanolabs/matano) - Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS
@@ -2516,7 +2531,7 @@
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust 🦀
 - [fuzztruction/fuzztruction](https://github.com/fuzztruction/fuzztruction) - 
-- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
+- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
 - [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) - Active Directory data ingestor for BloodHound Legacy written in Rust. 🦀
 - [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager
 - [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: the power of programming, in your database
@@ -2558,6 +2573,7 @@
 
 ## SCSS 
 
+- [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 
 ## Scala 
@@ -2592,7 +2608,6 @@
 - [cosad3s/subscout](https://github.com/cosad3s/subscout) - All-in-one subdomains scout tool Docker image
 - [Und3rf10w/kali-anonsurf](https://github.com/Und3rf10w/kali-anonsurf) - A port of ParrotSec's stealth and anonsurf modules to Kali Linux
 - [Cl4r4-5/OriON](https://github.com/Cl4r4-5/OriON) - OriON is a virtual machine in Spanish that incorporates several tools for Open Source Intelligence (OSINT) on people.
-- [majidrezarahnavard/way_of_freedom](https://github.com/majidrezarahnavard/way_of_freedom) - methods to access free internet
 - [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit) - BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research,
 - [0xKayala/NucleiScanner](https://github.com/0xKayala/NucleiScanner) - NucleiScanner is a Powerful Automation tool for detecting Unknown Vulnerabilities in the Web Applications
 - [NullArray/IntRec-Pack](https://github.com/NullArray/IntRec-Pack) - Intelligence and Reconnaissance Package/Bundle installer.
@@ -2895,6 +2910,10 @@
 ## YARA 
 
 - [bi-zone/Log4j_Detector](https://github.com/bi-zone/Log4j_Detector) - Detection of Log4j in memory
+
+## Zig 
+
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 
 
 ## License
