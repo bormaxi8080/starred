@@ -91,8 +91,8 @@
 
 - [ming-hermawan/scanbtforinfo](https://github.com/ming-hermawan/scanbtforinfo) - 
 - [t6x/reaver-wps-fork-t6x](https://github.com/t6x/reaver-wps-fork-t6x) - 
-- [B0lg0r0v/Orion](https://github.com/B0lg0r0v/Orion) - Orion is a TCP/IP Forensics Tool, written in C, capable of detecting malicious processes / connections on windows hosts by using the VirusTotal API.
-- [B0lg0r0v/CTFPacker](https://github.com/B0lg0r0v/CTFPacker) - Cross platform (Linux / Windows) shellcode packer for CTFs and pentest / red team exams aiming for AV evasion !
+- [mochabyte0x/Orion](https://github.com/mochabyte0x/Orion) - Orion is a TCP/IP Forensics Tool, written in C, capable of detecting malicious processes / connections on windows hosts by using the VirusTotal API.
+- [mochabyte0x/CTFPacker](https://github.com/mochabyte0x/CTFPacker) - Cross platform (Linux / Windows) shellcode packer for CTFs and pentest / red team exams aiming for AV evasion !
 - [flipperdevices/flipperzero-nfc-tools](https://github.com/flipperdevices/flipperzero-nfc-tools) - Repository contains nfc tools for Flipper companions
 - [simeonkr/jinsp](https://github.com/simeonkr/jinsp) - Visually inspect JSON data from the terminal
 - [H4ckd4ddy/flipperzero-sentry-safe-plugin](https://github.com/H4ckd4ddy/flipperzero-sentry-safe-plugin) - 
@@ -284,7 +284,6 @@
 
 - [thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering
 - [techchipnet/hound](https://github.com/techchipnet/hound) - Hound is a simple and light tool for information gathering and capture exact GPS coordinates
-- [mehmetkahya0/temp-mail](https://github.com/mehmetkahya0/temp-mail) - TempMail is a simple web application that allows you to generate temporary email addresses and view the emails received by these addresses.
 - [Chudry/Xerror](https://github.com/Chudry/Xerror) - fully automated pentesting tool
 - [lvwzhen/ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Make ChatGPT like the Matrix.
 - [Bafomet666/Bigbro](https://github.com/Bafomet666/Bigbro) - Инструмент OSINT, для поиска людей перешедших по ссылке /радиус разброса 1-30 метров. Работает под kali linux and termux.  Есть бесплатная версия и premium.
@@ -334,12 +333,14 @@
 
 ## Go 
 
+- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
+- [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
 - [cc1a2b/JShunter](https://github.com/cc1a2b/JShunter) - jshunter is a command-line tool designed for analyzing JavaScript files and extracting endpoints. This tool specializes in identifying sensitive data, such as API endpoints and potential security vuln
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [deckhouse/prompp](https://github.com/deckhouse/prompp) - Deckhouse Prom++ – high-performance fork of Prometheus, designed to significantly reduce memory consumption
 - [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) - Quickly discover exposed hosts on the internet using multiple search engines.
 - [machbase/neo-server](https://github.com/machbase/neo-server) - machbase-neo = time series database + mqtt + http + data visualization
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 - [utkusen/baitroute](https://github.com/utkusen/baitroute) - A web honeypot library to create vulnerable-looking endpoints to detect and mislead attackers
 - [ethicalhackingplayground/bxss](https://github.com/ethicalhackingplayground/bxss) - Blind XSS Scanner is a tool that can be used to scan for blind XSS vulnerabilities in web applications.
 - [truemediaorg/socialbot](https://github.com/truemediaorg/socialbot) - TrueMedia.org interactive bot for detecting deepfakes on X and other social platforms
@@ -422,7 +423,6 @@
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [mubeng/mubeng](https://github.com/mubeng/mubeng) - An incredibly fast proxy checker & IP rotator with ease.
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io
-- [EvilBytecode/PPID-Spoofing](https://github.com/EvilBytecode/PPID-Spoofing) - Parent Process ID Spoofing, coded in CGo.
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [KardinalAI/gorabbit](https://github.com/KardinalAI/gorabbit) - Simplify RabbitMQ operations in Go with Gorabbit, a high-level wrapper for the official Go RabbitMQ plugin. Enhance your messaging workflow with a more straightforward interface and robust mechanisms,
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
@@ -540,7 +540,7 @@
 - [securebinary/firebaseExploiter](https://github.com/securebinary/firebaseExploiter) - FirebaseExploiter is a vulnerability discovery tool that discovers Firebase Database which are open and can be exploitable. Primarily built for mass hunting bug bounties and for penetration testing.
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [nullt3r/udpx](https://github.com/nullt3r/udpx) - Fast and lightweight, UDPX is a single-packet UDP scanner written in Go that supports the discovery of over 45 services with the ability to add custom ones. It is easy to use and portable, and can be 
-- [devploit/nomore403](https://github.com/devploit/nomore403) - Advanced tool for bypassing 403/40X restrictions in web applications.
+- [devploit/nomore403](https://github.com/devploit/nomore403) - 🚫 Advanced tool for security researchers to bypass 403/40X restrictions through smart techniques and adaptive request manipulation. Fast. Precise. Effective.
 - [nakabonne/pbgopy](https://github.com/nakabonne/pbgopy) - Copy and paste between devices
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) - 🤒   A modern alternative network traffic sniffer.
@@ -648,11 +648,10 @@
 
 ## HTML 
 
+- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 - [AndyTheFactory/newspaper4k](https://github.com/AndyTheFactory/newspaper4k) - 📰 Newspaper4k a fork of the beloved Newspaper3k. Extraction of articles, titles, and metadata from news websites.
 - [mr-r3b00t/crime-mapper](https://github.com/mr-r3b00t/crime-mapper) - A tool for mapping cyber crime
 - [C3n7ral051nt4g3ncy/HandleHawk](https://github.com/C3n7ral051nt4g3ncy/HandleHawk) - Cross-platform username reconnaissance tool built for OSINT investigators, cyber threat analysts, red teamers, and CTF enthusiasts.
-- [yogsec/BugBoard](https://github.com/yogsec/BugBoard) - BugBoard: A comprehensive open-source cybersecurity tool for vulnerability detection and bug hunting.
-- [yogsec/DorkTerm](https://github.com/yogsec/DorkTerm) - DorkTerm is a terminal-themed web-based security tool designed to assist security researchers in performing Google Dork queries efficiently. The tool generates multiple Google Dork search queries for 
 - [0xHasanM/LogonSessionAuditor](https://github.com/0xHasanM/LogonSessionAuditor) - This tool parses Windows EVTX logs to extract login and logout sessions from a security.evtx file. It uses a Tkinter GUI to let you select the EVTX file and specify a time for correlating login and lo
 - [curiousqeorqe/FlipperZeroDB](https://github.com/curiousqeorqe/FlipperZeroDB) - All In One Flipper Zero Database
 - [DarkWebInformer/darknetlive](https://github.com/DarkWebInformer/darknetlive) - A web scrape of Darknetlive. Incognito Market admin has removed the news page. This scrape has everything including the news.
@@ -1009,6 +1008,7 @@
 - [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
 - [hanweikung/face_anon_simple](https://github.com/hanweikung/face_anon_simple) - [WACV 2025] Official implementation of "Face Anonymization Made Simple"
 - [deepfates/memery](https://github.com/deepfates/memery) - Search over large image datasets with natural language and computer vision!
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [Camb-ai/MARS5-TTS](https://github.com/Camb-ai/MARS5-TTS) - MARS5 speech model (TTS) from CAMB.AI
 - [AlexZhangji/Twitter-Insight-LLM](https://github.com/AlexZhangji/Twitter-Insight-LLM) - Twitter data scraping, embedding based image search and more.
 - [soxoj/bellingcat-hackathon-watchcats](https://github.com/soxoj/bellingcat-hackathon-watchcats) - 📊 Adana - 1-click analytical dashboard for OSINT researchers
@@ -1117,6 +1117,8 @@
 
 ## Others 
 
+- [yel1337/QueryScope](https://github.com/yel1337/QueryScope) - A test suite for Mellisa Web Crawler Framework
+- [LetsDefend/awesome-soc-analyst](https://github.com/LetsDefend/awesome-soc-analyst) - Useful resources for SOC Analyst and SOC Analyst candidates.
 - [MuddledBox/FlipperZeroSub-GHz](https://github.com/MuddledBox/FlipperZeroSub-GHz) - Sub-GHz Files for the Flipper Zero
 - [onhexgroup/Awesome-Search-Engines-for-Cybersecurity-Researchers](https://github.com/onhexgroup/Awesome-Search-Engines-for-Cybersecurity-Researchers) - Awesome list of Search Engines for Cybersecurity Researchers
 - [shramos/Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets) - A curated list of amazingly awesome Cybersecurity datasets
@@ -1446,6 +1448,9 @@
 
 ## Python 
 
+- [yel1337/Mellisa](https://github.com/yel1337/Mellisa) - Web Parameter Crawling Tool
+- [subzeroid/aiograpi](https://github.com/subzeroid/aiograpi) - 🔥 Asynchronous Python library for Instagram Private API 2025
+- [ALW1EZ/PANO](https://github.com/ALW1EZ/PANO) - 🔍 PANO: Advanced OSINT investigation platform combining graph visualization, timeline analysis, and AI assistance to uncover hidden connections in data. Built with Python and modern Qt.
 - [pex-tool/pex](https://github.com/pex-tool/pex) - A tool for generating .pex (Python EXecutable) files, lock files and venvs.
 - [stephentu/fbsh](https://github.com/stephentu/fbsh) - Facebook on the command line
 - [Lucksi/LinkdTime](https://github.com/Lucksi/LinkdTime) - A Linkedin Activity date Finder
@@ -1492,8 +1497,6 @@
 - [merwin-asm/StegaShade](https://github.com/merwin-asm/StegaShade) - Stega Shade CLI is a user-friendly command-line interface tool designed for image-based steganography. With a focus on simplicity and security, it provides functionality to encode and decode messages 
 - [nil0x42/phpsploit](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor
 - [C0MPL3XDEV/E4GL30S1NT](https://github.com/C0MPL3XDEV/E4GL30S1NT) - E4GL30S1NT - Simple Information Gathering Tool
-- [yogsec/Web-History-Analysis](https://github.com/yogsec/Web-History-Analysis) - Web History Analysis is an advanced tool for classifying and categorizing URLs from browser history logs using machine learning techniques.
-- [yogsec/YogSec-Search](https://github.com/yogsec/YogSec-Search) - YogSec Search is a powerful and flexible search tool designed to fetch search results from Bing.
 - [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
 - [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
 - [c0dejump/HExHTTP](https://github.com/c0dejump/HExHTTP) - Header Exploitation HTTP
@@ -1526,7 +1529,7 @@
 - [TsLu1s/atlantic](https://github.com/TsLu1s/atlantic) - Atlantic: Automated Data Preprocessing Framework for Machine Learning
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 - [UnkL4b/GitMiner](https://github.com/UnkL4b/GitMiner) - Tool for advanced mining for content on Github
-- [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
+- [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source AI framework for semantic search, LLM orchestration and language model workflows
 - [aeeeeeep/objwatch](https://github.com/aeeeeeep/objwatch) - 🗳️ ObjWatch is a Python library to trace and monitor object attributes and method calls.
 - [Hong5489/flipperzero-gate-bruteforce](https://github.com/Hong5489/flipperzero-gate-bruteforce) - Brute Force Gate Remote using Flipper Zero
 - [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit
@@ -1635,7 +1638,7 @@
 - [slouchd/tiktok-scraper-selenium](https://github.com/slouchd/tiktok-scraper-selenium) - Quick and dirty script that uses selenium and a webdriver binary to scrape public TikTok profiles.
 - [estebanpdl/tik-spyder](https://github.com/estebanpdl/tik-spyder) - A Python command-line tool designed to collect TikTok data using SerpAPI for Google search results and Apify for TikTok data extraction.
 - [krakodjaba/TelAnalysis](https://github.com/krakodjaba/TelAnalysis) - TelAnalysis - Telegram Analysis tool
-- [B0lg0r0v/Elyzer](https://github.com/B0lg0r0v/Elyzer) - Elyzer is an email header analyzer, written in python, capable of detecting potential spoofing attempts.
+- [mochabyte0x/Elyzer](https://github.com/mochabyte0x/Elyzer) - Elyzer is an email header analyzer, written in python, capable of detecting potential spoofing attempts.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [artmih24/TeleParser](https://github.com/artmih24/TeleParser) - Simple parser for Telegram chats and channels with lemmatizer. Writes data in JSON, CSV and MongoDB. Your Telegram token required!
 - [C3n7ral051nt4g3ncy/WebOSINT](https://github.com/C3n7ral051nt4g3ncy/WebOSINT) - W3b0s1nt (WebOSINT) is a Python tool/script for passive Domain Intelligence gathering.
@@ -1759,7 +1762,6 @@
 - [iejMac/video2dataset](https://github.com/iejMac/video2dataset) - Easily create large video dataset from video urls
 - [Elhameed/aicommits](https://github.com/Elhameed/aicommits) - AI Commit is a powerful command-line tool that streamlines your Git workflow by using OpenAI's GPT-3 language model to generate commit messages for your Git commits.
 - [spyboy-productions/omnisci3nt](https://github.com/spyboy-productions/omnisci3nt) - Omnisci3nt – See What They’ve Tried to Hide Extract deep intelligence from any domain. From subdomains to SSL certs, archived secrets to exposed ports — Omnisci3nt gives you the full picture in second
-- [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
 - [dmdhrumilmistry/pyhtools](https://github.com/dmdhrumilmistry/pyhtools) - A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester cred
 - [m0rtem/CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
 - [synacktiv/ntdissector](https://github.com/synacktiv/ntdissector) - 
@@ -2408,7 +2410,7 @@
 - [geekan/scrapy-examples](https://github.com/geekan/scrapy-examples) - Multifarious Scrapy examples. Spiders for alexa / amazon / douban / douyu / github / linkedin etc.
 - [jordanpotti/CloudScraper](https://github.com/jordanpotti/CloudScraper) - CloudScraper: Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space.
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
-- [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) - Hunt down 570 social media accounts , Hard part was finding 570 social media urls 🥲
+- [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) - Hunt down 570 social media accounts , New V3 is out
 - [rly0nheart/thorndyke](https://github.com/rly0nheart/thorndyke) - Lightweight username enumeration tool that checks the availability of a specified username on over 200 websites.
 - [soxoj/marple](https://github.com/soxoj/marple) - 📖 Collect links to profiles by username through search engines and analyze with various plugins
 - [soxoj/username-generation-guide](https://github.com/soxoj/username-generation-guide) - A definitive guide to generating usernames for OSINT purposes
@@ -2596,11 +2598,10 @@
 
 ## Shell 
 
+- [flipperdevices/flipperzero-toolchain](https://github.com/flipperdevices/flipperzero-toolchain) - Flipper Zero Embedded Toolchain
 - [Achik-Ahmed/Ip-Tracer](https://github.com/Achik-Ahmed/Ip-Tracer) - A basic Termux IP address tracer tool that can fetch all publicly available information about an IP address...
 - [whxitte/gixposed](https://github.com/whxitte/gixposed) - Gixposed is a powerful command-line tool designed to search the commit history of Git repositories for sensitive information, such as API keys and access tokens. Its purpose is to help developers and 
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
-- [yogsec/CorsScanner](https://github.com/yogsec/CorsScanner) - CorsScan 🛡️ is a Bash script designed to detect and analyze CORS misconfigurations in web applications. With its efficient concurrency and detailed output, it empowers developers and security research
-- [yogsec/endpoints-extractor](https://github.com/yogsec/endpoints-extractor) - A powerful Bash script for extracting URLs and API endpoints from HTML, JavaScript, and JSON content of web pages. Designed for security researchers, bug bounty hunters, and developers to streamline e
 - [003random/loki](https://github.com/003random/loki) - 
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [M4xSec/K-OTP-X](https://github.com/M4xSec/K-OTP-X) - Advance OTP Bypass Tool. Termux Supported.
@@ -2795,7 +2796,6 @@
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
@@ -2813,9 +2813,9 @@
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [event-driven-io/Pongo](https://github.com/event-driven-io/Pongo) - Pongo - Mongo but on Postgres and with strong consistency benefits
-- [Aituglo/hackyx](https://github.com/Aituglo/hackyx) - The Search Engine for Cybersecurity
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [klarna-incubator/gram](https://github.com/klarna-incubator/gram) - Gram is Klarna's own threat model diagramming tool
+- [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
 - [Swetrix/swetrix](https://github.com/Swetrix/swetrix) - 📈 Swetrix is a cookie-less, open source, privacy-first web analytics, website speed monitoring and error tracking service that you can host yourself or use in the cloud. Get started for free!
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
