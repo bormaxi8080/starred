@@ -498,7 +498,7 @@
 - [byt3hx/jsleak](https://github.com/byt3hx/jsleak) - jsleak is a tool to find secret , paths or links in the source code during the recon.
 - [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
-- [sw33tLie/bbscope](https://github.com/sw33tLie/bbscope) - Scope gathering tool for HackerOne, Bugcrowd, Intigriti, YesWeHack, and Immunefi!
+- [sw33tLie/bbscope](https://github.com/sw33tLie/bbscope) - Scope aggregation tool for HackerOne, Bugcrowd, Intigriti, YesWeHack, and Immunefi!
 - [projectdiscovery/public-bugbounty-programs](https://github.com/projectdiscovery/public-bugbounty-programs) - Community curated list of public bug bounty and responsible disclosure programs.
 - [Moopinger/smugglefuzz](https://github.com/Moopinger/smugglefuzz) - A rapid HTTP downgrade smuggling scanner written in Go.
 - [blasrodri/frown](https://github.com/blasrodri/frown) - Connection monitoring à la lsof written in Go
@@ -716,7 +716,6 @@
 - [legly/SamSploit](https://github.com/legly/SamSploit) - A professional ethical hacking tool.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Gexos/Hacking-Tools-Repository](https://github.com/Gexos/Hacking-Tools-Repository) - A list of security/hacking tools that have been collected from the internet. Suggestions are welcomed.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [bradjasper/ImportJSON](https://github.com/bradjasper/ImportJSON) - Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet
 - [sowdust/sowdust.github.io](https://github.com/sowdust/sowdust.github.io) - Facebook search engine that works after the Graph API has been shut down
 - [salaheldinaz/the-kringle-secrets-book](https://github.com/salaheldinaz/the-kringle-secrets-book) - The full solution for 2018 SANS holiday hack challenges.
@@ -771,7 +770,7 @@
 - [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 - [SPLWare/esProc](https://github.com/SPLWare/esProc) - esProc SPL is a JVM-based programming language designed for structured data computation, serving as both a data analysis tool and an embedded computing engine.
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
-- [apache/fury](https://github.com/apache/fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
+- [apache/fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 - [zfoo-project/zfoo](https://github.com/zfoo-project/zfoo) - 💡Extremely fast enterprise server framework, can be used in RPC,  game server,  web server.
 - [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
@@ -815,10 +814,12 @@
 
 ## JavaScript 
 
+- [danny0838/webscrapbook](https://github.com/danny0838/webscrapbook) - A browser extension that captures web pages to local device or backend server for future retrieval, organization, annotation, and edit. This project inherits from legacy Firefox add-on ScrapBook X.
+- [ternera/exif-viewer](https://github.com/ternera/exif-viewer) - A browser extension to display EXIF data of images directly on web pages.
 - [gologinapp/gologin](https://github.com/gologinapp/gologin) - REST API provides programmatic access to GoLogin App. Create a new browser profile, get a list of all browser profiles, add a browser profile and runnig
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 - [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
-- [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
+- [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [tegridydev/python-OSINT-notebook](https://github.com/tegridydev/python-OSINT-notebook) - a rough written "guide" compiled from years of ADHD brain notes - enjoy
 - [29fulcrum/DiscordOSINT](https://github.com/29fulcrum/DiscordOSINT) - 
@@ -871,7 +872,7 @@
 - [xnl-h4ck3r/XnlReveal](https://github.com/xnl-h4ck3r/XnlReveal) - A Chrome/Firefox browser extension to show alerts for reflected query params, show Wayback archive links for the current path, show hidden elements and enable disabled elements.
 - [jaceddd/text_watermark](https://github.com/jaceddd/text_watermark) - Allows invisible watermarking of text and invisible encrypted messages. Uses 17 different invisible characters as HEX + delimiter. Includes encoder, decoder, spammer and other tools‬⁨⁠⁪⁢⁠⁪⁩⁠​⁪⁠⁪⁩⁠​‎⁠‎
 - [hposton/python-for-cybersecurity](https://github.com/hposton/python-for-cybersecurity) - This repository holds the Python scripts discussed in the Infosec Institute's Python for Cybersecurity learning Path
-- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to enhance your web experience
+- [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to augment your web experience
 - [omniscientjs/omniscient](https://github.com/omniscientjs/omniscient) - A library providing an abstraction for React components that allows for fast top-down rendering embracing immutable data for js
 - [LDO-CERT/orochi](https://github.com/LDO-CERT/orochi) - The Volatility Collaborative GUI
 - [kintesh/containerise](https://github.com/kintesh/containerise) - Firefox extension to automatically open websites in a container
@@ -1142,6 +1143,7 @@
 
 ## Others 
 
+- [paulpogoda/OSINT-Tools-Iraq](https://github.com/paulpogoda/OSINT-Tools-Iraq) - A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of Iraq
 - [bgmello/OSINT-Tools-Brazil](https://github.com/bgmello/OSINT-Tools-Brazil) - A list of OSINT resources and tools that may be useful to you when conducting investigations related to Brazil
 - [paulpogoda/OSINT-Tools-Syria](https://github.com/paulpogoda/OSINT-Tools-Syria) - A list of OSINT resources and tools that may be useful to you when conducting investigations related to Syrian Arab Republic
 - [paulpogoda/OSINT-Tools-Saudi-Arabia](https://github.com/paulpogoda/OSINT-Tools-Saudi-Arabia) - A list of OSINT resources and tools that may be useful when conducting investigations related to the Kingdom of Saudi Arabia
@@ -1488,6 +1490,11 @@
 
 ## Python 
 
+- [cesc0sec/SecResearch](https://github.com/cesc0sec/SecResearch) - 
+- [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc) - Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
+- [lmnr-ai/index](https://github.com/lmnr-ai/index) - The SOTA Open-Source Browser Agent for autonomously performing complex tasks on the web
+- [hedger/flipperzero-sesproject](https://github.com/hedger/flipperzero-sesproject) - Segger Embedded Studio project for building & debugging Flipper Zero firmware.
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [Goldziher/kreuzberg](https://github.com/Goldziher/kreuzberg) - A text extraction library supporting PDFs, images, office documents and more
@@ -2377,6 +2384,7 @@
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [Roznoshchik/Lurnby](https://github.com/Roznoshchik/Lurnby) - A tool for active reading and personal knowledge management
 - [vysecurity/LinkedInt](https://github.com/vysecurity/LinkedInt) - LinkedIn Recon Tool
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [dominickmalzone/linkedinGroupScraper](https://github.com/dominickmalzone/linkedinGroupScraper) - Scrape members from a linkedin group
 - [SteelPangolin/genderize](https://github.com/SteelPangolin/genderize) - Python client for the Genderize.io web service.
 - [rimodas/indeed.com_resumes_scrap](https://github.com/rimodas/indeed.com_resumes_scrap) - 
@@ -2531,6 +2539,7 @@
 
 ## Ruby 
 
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 - [espreto/wpsploit](https://github.com/espreto/wpsploit) - WPSploit - Exploiting Wordpress With Metasploit
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
@@ -2835,6 +2844,7 @@
 
 ## TypeScript 
 
+- [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (3 kb) internationalization for JavaScript
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 - [3kh0/filehunt](https://github.com/3kh0/filehunt) - Search query builder for finding sensitive files on the web
@@ -2879,7 +2889,7 @@
 - [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
 - [ddoemonn/parrot_ui](https://github.com/ddoemonn/parrot_ui) - A beautiful React component library built specifically for Next.js App Router
 - [kexa-io/Kexa](https://github.com/kexa-io/Kexa) - Kexa's simple rules (Open Source) make it easy to monitoring and manage alerting of your entire cloud. With various monitoring and alerting options, instant and detailed alerts, easy-to-deploy and low
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - Monokle is a set of OSS tools designed to help create and maintain high-quality Kubernetes configurations throughout the application lifecycle
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
