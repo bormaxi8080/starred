@@ -116,7 +116,7 @@
 - [0xchocolate/flipperzero-wifi-marauder](https://github.com/0xchocolate/flipperzero-wifi-marauder) - Flipper Zero WiFi Marauder companion app
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [xtruan/FlipBIP](https://github.com/xtruan/FlipBIP) - BIP32/39/44 crypto wallet for Flipper Zero
-- [ClusterM/wg-obfuscator](https://github.com/ClusterM/wg-obfuscator) - WireGuard obfuscator - simple obfuscator for WireGuard. Usefull if your ISP/government blocks WireGuard traffic.
+- [ClusterM/wg-obfuscator](https://github.com/ClusterM/wg-obfuscator) - WireGuard Obfuscator - simple obfuscator for WireGuard. Useful if your ISP/government blocks WireGuard traffic.
 - [panki27/Metronome](https://github.com/panki27/Metronome) - Metronome for Flipper Zero
 - [xMasterX/flipper-pager](https://github.com/xMasterX/flipper-pager) - Flipper Zero POCSAG Pager receiver plugin
 - [aquasecurity/traceeshark](https://github.com/aquasecurity/traceeshark) - Deep Linux runtime visibility meets Wireshark
@@ -141,7 +141,7 @@
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [PraneethKarnena/DDoS-Scripts](https://github.com/PraneethKarnena/DDoS-Scripts) - This repo consists of various DDoS scripts, collected from internet. Layer-4 and Layer-7 levels can be targeted using these scripts.
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [strace/strace](https://github.com/strace/strace) - strace is a diagnostic, debugging and instructional userspace utility for Linux
 - [hacksysteam/HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) - HackSys Extreme Vulnerable Driver (HEVD) - Windows & Linux
 - [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tools
@@ -393,7 +393,7 @@
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) - Linux/Windows post-exploitation framework made by linux user
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
 - [ibnaleem/cc-validation-webserver](https://github.com/ibnaleem/cc-validation-webserver) - A lightweight web server for validating credit card numbers, written in Go.
 - [x-sushant-x/Rate-Shield](https://github.com/x-sushant-x/Rate-Shield) - A configurable rate limiter that can apply rate limiting on individual APIs with individual rules.
@@ -1003,7 +1003,7 @@
 - [KernelPan1k/google-dork-builder](https://github.com/KernelPan1k/google-dork-builder) - Make Google Dork with firefox addon :mag:
 - [lettapp/ytcs](https://github.com/lettapp/ytcs) - Search youtube comments by keywords.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰185+ options & clever features 📌set+forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|ex
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰200+ options, clever features 📌set+forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|ext
 - [facundoolano/google-play-scraper](https://github.com/facundoolano/google-play-scraper) - Node.js scraper to get data from Google Play
 - [ericyd/gdrive-copy](https://github.com/ericyd/gdrive-copy) - Web app to copy a Google Drive folder
 - [willin/github-trending](https://github.com/willin/github-trending) - :octocat: Github Daily Trending Archives
@@ -1062,6 +1062,8 @@
 
 ## Kotlin 
 
+- [woheller69/whoBIRD](https://github.com/woheller69/whoBIRD) - Identify bird sounds in real time with this Android version of BirdNET. Bird sound recognition for more than 6,000 species worldwide.
+- [igatha/flare-gun](https://github.com/igatha/flare-gun) - Offline SOS signaling and recovery app for wars and disasters (iOS & Android) — like a digital flare-gun.
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full Featured Video/Audio Downloader for Android using yt-dlp
 - [x13a/Wasted](https://github.com/x13a/Wasted) - Lock and wipe on emergency
 - [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
@@ -1143,6 +1145,7 @@
 
 ## Others 
 
+- [p0p3j/ducky-scripts](https://github.com/p0p3j/ducky-scripts) - Ducky Scripts for malduino, rubber ducky, flipperzero, etc.
 - [paulpogoda/OSINT-Tools-Iraq](https://github.com/paulpogoda/OSINT-Tools-Iraq) - A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of Iraq
 - [bgmello/OSINT-Tools-Brazil](https://github.com/bgmello/OSINT-Tools-Brazil) - A list of OSINT resources and tools that may be useful to you when conducting investigations related to Brazil
 - [paulpogoda/OSINT-Tools-Syria](https://github.com/paulpogoda/OSINT-Tools-Syria) - A list of OSINT resources and tools that may be useful to you when conducting investigations related to Syrian Arab Republic
@@ -1211,7 +1214,6 @@
 - [oryon-osint/investigation-templates](https://github.com/oryon-osint/investigation-templates) - A collection of markdown templates for structured intelligence analysis. Ideal for OSINT, cyber investigations, and data documentation.
 - [wvanderp/awesome-dutch-osint](https://github.com/wvanderp/awesome-dutch-osint) - The best of Dutch OSINT Sources
 - [Correia-jpv/fucking-awesome-flipperzero](https://github.com/Correia-jpv/fucking-awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device. With repository stars⭐ and forks🍴
-- [S3V3N11S/Canadian-OSINT-](https://github.com/S3V3N11S/Canadian-OSINT-) - A large colletion of OSINT tools tailored for investigations within Canada.
 - [payloadbox/sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list) - 🎯 SQL Injection Payload List
 - [drtychai/wordlists](https://github.com/drtychai/wordlists) - Aggregated wordlist pulled from commonly used tools for discovery, enumeration, fuzzing, and exploitation.
 - [jkctech/Flipper-Zero-Scripts](https://github.com/jkctech/Flipper-Zero-Scripts) - Collection of Flipper Zero scripts dumps and tools
@@ -1388,7 +1390,6 @@
 - [AndrewRathbun/DFIRMindMaps](https://github.com/AndrewRathbun/DFIRMindMaps) - A repository of DFIR-related Mind Maps geared towards the visual learners!
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
-- [WebBreacher/WhatsMyName](https://github.com/WebBreacher/WhatsMyName) - This repository has the JSON file required to perform user enumeration on various websites.
 - [smicallef/awesome-osint](https://github.com/smicallef/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [Sprp77/OSINT_Intel_Tracker](https://github.com/Sprp77/OSINT_Intel_Tracker) - OSINT Intelligence for different areas ( useful for different type of investigations and learning etc)
@@ -1490,6 +1491,10 @@
 
 ## Python 
 
+- [i3visio/osrframework](https://github.com/i3visio/osrframework) - OSRFramework, the Open Sources Research Framework is a AGPLv3+ project by i3visio focused on providing API and tools to perform more accurate online researches.
+- [000pp/Pinkerton](https://github.com/000pp/Pinkerton) - 🕵️ Python project to crawl for JavaScript files and search for secrets like API keys, authorization tokens, hardcoded password or related.
+- [anmolksachan/wayBackLister](https://github.com/anmolksachan/wayBackLister) - A New Approach to Directory Bruteforce with WaybackLister v1.0
+- [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil) - OSINT tool for finding profiles by username
 - [cesc0sec/SecResearch](https://github.com/cesc0sec/SecResearch) - 
 - [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc) - Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
 - [lmnr-ai/index](https://github.com/lmnr-ai/index) - The SOTA Open-Source Browser Agent for autonomously performing complex tasks on the web
@@ -1656,7 +1661,7 @@
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of a YouTube channel from the command line
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
 - [JeiKeiLim/noone_video](https://github.com/JeiKeiLim/noone_video) - Make faces blurred for videos using DNN
-- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
+- [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [unnohwn/telegram-scraper](https://github.com/unnohwn/telegram-scraper) - A powerful Python script that allows you to scrape messages and media from Telegram channels using the Telethon library. Features include real-time continuous scraping, media downloading, and data exp
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [llistochek/yandex-music-downloader](https://github.com/llistochek/yandex-music-downloader) - Загрузчик музыки с сервиса Яндекс.Музыка
@@ -1907,7 +1912,6 @@
 - [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to develop AI Web Agents
 - [lukestanley/ChillTranslator](https://github.com/lukestanley/ChillTranslator) - Goal: Automatically detoxify spicy comments while preserving key points
 - [dotvignesh/CmdF](https://github.com/dotvignesh/CmdF) - CmdF is a terminal app that allows you to search and seek through YouTube videos using the power of whisper.cpp and fuzzy string matching.
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [TheRook/subbrute](https://github.com/TheRook/subbrute) - A DNS meta-query spider that enumerates DNS records, and subdomains.
 - [sAjibuu/Upload_Bypass](https://github.com/sAjibuu/Upload_Bypass) - A simple tool for bypassing file upload restrictions.
 - [mrwadams/attackgen](https://github.com/mrwadams/attackgen) - AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&CK framework. The tool generates tailored incident respons
@@ -2423,6 +2427,7 @@
 - [megadose/ignorant](https://github.com/megadose/ignorant) - ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [soxoj/telegram-bot-dumper](https://github.com/soxoj/telegram-bot-dumper) - 🔪 Dumper & ripper for Telegram bots by token
+- [WebBreacher/WhatsMyName](https://github.com/WebBreacher/WhatsMyName) - This repository has the JSON file required to perform user enumeration on various websites.
 - [sinwindie/OSINT](https://github.com/sinwindie/OSINT) - Collections of tools and methods created to aid in OSINT collection
 - [thenurhabib/tenssens](https://github.com/thenurhabib/tenssens) - Tenssens framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources.
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - A Complete Osint Tool :mag:
@@ -2852,7 +2857,7 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [truemediaorg/deepfake-app](https://github.com/truemediaorg/deepfake-app) - TrueMedia.org web application for querying multiple deepfake detection models and analyzing results
 - [apify/fingerprint-suite](https://github.com/apify/fingerprint-suite) - Browser fingerprinting tools for anonymizing your scrapers. Developed by Apify.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
 - [smocker-dev/smocker](https://github.com/smocker-dev/smocker) - Smocker is a simple and efficient HTTP mock server and proxy
@@ -2917,6 +2922,7 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [bufferhead-code/plain-sight](https://github.com/bufferhead-code/plain-sight) - A browser extension that allows you to use steganography based password images to log into accounts.
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [rohitdhas/shittier](https://github.com/rohitdhas/shittier) - Shittier is an unconventional code formatting tool
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [FacilMap/facilmap](https://github.com/FacilMap/facilmap) - FacilMap is a privacy-friendly, open-source versatile online map that combines different services based on OpenStreetMap and makes it easy to find places, plan trips and add markers, lines and routes 
