@@ -90,6 +90,9 @@
 
 ## C 
 
+- [achistyakov/flipperzero-mitsubishi-ac-remote](https://github.com/achistyakov/flipperzero-mitsubishi-ac-remote) - Mitsubishi Electric AC remote control for Flipper Zero.
+- [litui/dtmf_dolphin](https://github.com/litui/dtmf_dolphin) - Dialer, Redbox, and Bluebox project for the Flipper Zero.
+- [jaygreig86/dmitry](https://github.com/jaygreig86/dmitry) - DMitry (Deepmagic Information Gathering Tool)
 - [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) - 🐬 Feature-rich, stable and customizable Flipper Firmware
 - [ming-hermawan/scanbtforinfo](https://github.com/ming-hermawan/scanbtforinfo) - 
 - [t6x/reaver-wps-fork-t6x](https://github.com/t6x/reaver-wps-fork-t6x) - 
@@ -340,6 +343,8 @@
 
 ## Go 
 
+- [NishantJoshi00/waypoint](https://github.com/NishantJoshi00/waypoint) - 
+- [jacksontj/promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes
 - [daijro/hazetunnel](https://github.com/daijro/hazetunnel) - 🔮 Vindicate non-organic web traffic via MITM proxy
@@ -432,7 +437,7 @@
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 - [openclarity/apiclarity](https://github.com/openclarity/apiclarity) - An API security tool to capture and analyze API traffic, test API endpoints, reconstruct Open API specification, and identify API security risks.
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
@@ -1003,7 +1008,7 @@
 - [KernelPan1k/google-dork-builder](https://github.com/KernelPan1k/google-dork-builder) - Make Google Dork with firefox addon :mag:
 - [lettapp/ytcs](https://github.com/lettapp/ytcs) - Search youtube comments by keywords.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰200+ options, clever features 📌set+forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|ext
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube & Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra butt
 - [facundoolano/google-play-scraper](https://github.com/facundoolano/google-play-scraper) - Node.js scraper to get data from Google Play
 - [ericyd/gdrive-copy](https://github.com/ericyd/gdrive-copy) - Web app to copy a Google Drive folder
 - [willin/github-trending](https://github.com/willin/github-trending) - :octocat: Github Daily Trending Archives
@@ -1145,6 +1150,7 @@
 
 ## Others 
 
+- [The-Osint-Toolbox/OSINT-Browser-Extensions](https://github.com/The-Osint-Toolbox/OSINT-Browser-Extensions) - Browser Chrome extensions, to help with OSINT, OPSEC, Privacy & Obfuscation.
 - [p0p3j/ducky-scripts](https://github.com/p0p3j/ducky-scripts) - Ducky Scripts for malduino, rubber ducky, flipperzero, etc.
 - [paulpogoda/OSINT-Tools-Iraq](https://github.com/paulpogoda/OSINT-Tools-Iraq) - A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of Iraq
 - [bgmello/OSINT-Tools-Brazil](https://github.com/bgmello/OSINT-Tools-Brazil) - A list of OSINT resources and tools that may be useful to you when conducting investigations related to Brazil
@@ -1491,6 +1497,10 @@
 
 ## Python 
 
+- [sockysec/Telerecon](https://github.com/sockysec/Telerecon) - A reconnaissance framework for researching and investigating Telegram.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open source Tines / Splunk SOAR alternative. All-in-one automation platform (workflows, tables, cases) for security and IT teams.
+- [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
+- [m3trik/pythontk](https://github.com/m3trik/pythontk) - A collection of backend utilities for Python.
 - [i3visio/osrframework](https://github.com/i3visio/osrframework) - OSRFramework, the Open Sources Research Framework is a AGPLv3+ project by i3visio focused on providing API and tools to perform more accurate online researches.
 - [000pp/Pinkerton](https://github.com/000pp/Pinkerton) - 🕵️ Python project to crawl for JavaScript files and search for secrets like API keys, authorization tokens, hardcoded password or related.
 - [anmolksachan/wayBackLister](https://github.com/anmolksachan/wayBackLister) - A New Approach to Directory Bruteforce with WaybackLister v1.0
@@ -1659,7 +1669,7 @@
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management.
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of a YouTube channel from the command line
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
 - [JeiKeiLim/noone_video](https://github.com/JeiKeiLim/noone_video) - Make faces blurred for videos using DNN
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [unnohwn/telegram-scraper](https://github.com/unnohwn/telegram-scraper) - A powerful Python script that allows you to scrape messages and media from Telegram channels using the Telethon library. Features include real-time continuous scraping, media downloading, and data exp
@@ -1696,7 +1706,7 @@
 - [fbdesignpro/sweetviz](https://github.com/fbdesignpro/sweetviz) - Visualize and compare datasets, target values and associations, with one line of code.
 - [Speedml/speedml](https://github.com/Speedml/speedml) - Speedml is a Python package to speed start machine learning projects.
 - [superryeti/Email-Crawler-Lead-Generator](https://github.com/superryeti/Email-Crawler-Lead-Generator) - This email crawler will visit all pages of a provided website and parse and save emails found to a csv file.
-- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - The easiest way to deploy agents, models, RAG, pipelines and more. No MLOps. No YAML.
+- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - The easiest way to deploy agents, MCP servers, models, RAG, pipelines and more. No MLOps. No YAML.
 - [sentient-engineering/jobber](https://github.com/sentient-engineering/jobber) - browser controlling AI agent that applies to relavant jobs on internet autonomously. join chat @ https://discord.gg/umgnyQU2K8
 - [initstring/cloud_enum](https://github.com/initstring/cloud_enum) - Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
 - [captainzero93/Protect-Images-from-AI-PixelGuard](https://github.com/captainzero93/Protect-Images-from-AI-PixelGuard) - PixelGuard protects images from AI scraping and unauthorized use in AI training, such as facial recognition models or style transfer algorithms. It employs multiple invisible protection techniques tha
@@ -1709,7 +1719,6 @@
 - [aydinnyunus/gpt4-captcha-bypass](https://github.com/aydinnyunus/gpt4-captcha-bypass) - Captcha Bypass using GPT4-o
 - [FireBird-Technologies/Auto-Analyst-Streamlit](https://github.com/FireBird-Technologies/Auto-Analyst-Streamlit) - AI data scientist
 - [LyubomirT/chainsaw-human-typing](https://github.com/LyubomirT/chainsaw-human-typing) - ⌨️ Chainsaw Human Typing is a tool that allows you to simulate human typing on a keyboard if you can't, or don't want to, paste directly.
-- [muaaz-ur-habibi/G-Scraper](https://github.com/muaaz-ur-habibi/G-Scraper) - A GUI web scraper, written completely in Python
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [AnonCatalyst/Odinova](https://github.com/AnonCatalyst/Odinova) - Odinova Digital Tiger is an advanced application designed for Open-Source Intelligence (OSINT), equipped with versatile tools and a user-friendly interface to streamline investigative workflows and en
 - [drakyanerlanggarizkiwardhana/zefoy](https://github.com/drakyanerlanggarizkiwardhana/zefoy) - 🪐Bot likes, followers, shares and views on TikTok! ~ fast zefoy
@@ -2245,7 +2254,7 @@
 - [chm0dx/hashPlease](https://github.com/chm0dx/hashPlease) - Create hashes for different algorithms from wordlists or dynamically generated from masks in order to practice cracking.
 - [chm0dx/peepedIn](https://github.com/chm0dx/peepedIn) - Gather and scrape info from the LinkedIn profiles of a company's employees.
 - [rootm0s/WinPwnage](https://github.com/rootm0s/WinPwnage) - UAC bypass, Elevate, Persistence methods
-- [Owez/yark](https://github.com/Owez/yark) - YouTube archiving made simple.
+- [Owez/yark](https://github.com/Owez/yark) - OSINT for YouTube made simple.
 - [s0md3v/Parth](https://github.com/s0md3v/Parth) - Heuristic Vulnerable Parameter Scanner
 - [bellingcat/facebook-downloader](https://github.com/bellingcat/facebook-downloader) - Facebook video downloader
 - [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye) - Username enumeration & reconnaisance suite
@@ -2544,7 +2553,7 @@
 
 ## Ruby 
 
-- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services in public beta.
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 - [espreto/wpsploit](https://github.com/espreto/wpsploit) - WPSploit - Exploiting Wordpress With Metasploit
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
@@ -2684,6 +2693,8 @@
 
 ## Shell 
 
+- [grv231/automation-bash-scripts](https://github.com/grv231/automation-bash-scripts) - A collection of BASH-Python scripts for different scenarios using loops, field processors and clever commands.
+- [Nikoo-Asadnejad/Practical_BashScripts](https://github.com/Nikoo-Asadnejad/Practical_BashScripts) - This repository contains a collection of useful Bash scripts for Linux systems. Each script serves a specific purpose, ranging from system maintenance to monitoring and automation tasks. Below is a de
 - [flipperdevices/flipperzero-toolchain](https://github.com/flipperdevices/flipperzero-toolchain) - Flipper Zero Embedded Toolchain
 - [Achik-Ahmed/Ip-Tracer](https://github.com/Achik-Ahmed/Ip-Tracer) - A basic Termux IP address tracer tool that can fetch all publicly available information about an IP address...
 - [whxitte/gixposed](https://github.com/whxitte/gixposed) - Gixposed is a powerful command-line tool designed to search the commit history of Git repositories for sensitive information, such as API keys and access tokens. Its purpose is to help developers and 
@@ -2849,6 +2860,7 @@
 
 ## TypeScript 
 
+- [filippofinke/Prompt2Flutter](https://github.com/filippofinke/Prompt2Flutter) - 🚀 Transform text into fully functional Flutter applications using AI
 - [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (3 kb) internationalization for JavaScript
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
@@ -2866,7 +2878,7 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [echogarden-project/echogarden](https://github.com/echogarden-project/echogarden) - Cross-platform speech toolset, used from the command-line or as a Node.js library. Includes a variety of engines for speech synthesis, speech recognition, forced alignment, speech translation, voice i
 - [devflowinc/firecrawl-simple](https://github.com/devflowinc/firecrawl-simple) - ➖ Stripped down, stable version of firecrawl optimized for self-hosting and ease of contribution. Billing logic and AI features are completely removed. Crawl and convert any website into LLM-ready mar
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡️ Open Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes ⚡️
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes
 - [jessetinell/x2.email](https://github.com/jessetinell/x2.email) - 
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
@@ -2942,7 +2954,7 @@
 - [APTRS/APTRS](https://github.com/APTRS/APTRS) - Automated pentest reporting with custom templates, project tracking, customer dashboard and client management tools. Streamline your security workflows effortlessly!
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [apify/apify-client-js](https://github.com/apify/apify-client-js) - Apify API client for JavaScript / Node.js.
 - [apify/got-scraping](https://github.com/apify/got-scraping) - HTTP client made for scraping based on got.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
