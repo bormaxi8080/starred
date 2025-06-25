@@ -320,7 +320,7 @@
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [ksh-b/raven](https://github.com/ksh-b/raven) - News Aggregator
 - [darvester/darvester](https://github.com/darvester/darvester) - Powerful Discord OSINT toolkit written in Python and Dart/Flutter
-- [ente-io/ente](https://github.com/ente-io/ente) - ✨ End-to-end encrypted cloud for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - An elegant virtual machine manager for the desktop
@@ -332,7 +332,7 @@
 ## Elixir 
 
 - [osintowl/realm_osint_ex](https://github.com/osintowl/realm_osint_ex) - A tool to check microsofts user real endpoint to get data about a tenant.
-- [sequinstream/sequin](https://github.com/sequinstream/sequin) - Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more
+- [sequinstream/sequin](https://github.com/sequinstream/sequin) - Postgres change data capture to streams, queues, and search indexes like Kafka, SQS, Elasticsearch, HTTP endpoints, and more
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [atlosdotorg/atlos](https://github.com/atlosdotorg/atlos) - The collaborative workspace for visual verification
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
@@ -343,6 +343,9 @@
 
 ## Go 
 
+- [thd3r/fakjs](https://github.com/thd3r/fakjs) - A fast Go-based tool to uncover sensitive information in JavaScript
+- [xuemian168/domain-scanner](https://github.com/xuemian168/domain-scanner) - 一个用Go语言编写的强大且灵活的域名注册可用性检查扫描工具 A powerful and flexible domain name availability checker written in Go. This tool helps you find available domain names based on various patterns and filters.
+- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse.
 - [NishantJoshi00/waypoint](https://github.com/NishantJoshi00/waypoint) - 
 - [jacksontj/promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -819,6 +822,7 @@
 
 ## JavaScript 
 
+- [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [danny0838/webscrapbook](https://github.com/danny0838/webscrapbook) - A browser extension that captures web pages to local device or backend server for future retrieval, organization, annotation, and edit. This project inherits from legacy Firefox add-on ScrapBook X.
 - [ternera/exif-viewer](https://github.com/ternera/exif-viewer) - A browser extension to display EXIF data of images directly on web pages.
 - [gologinapp/gologin](https://github.com/gologinapp/gologin) - REST API provides programmatic access to GoLogin App. Create a new browser profile, get a list of all browser profiles, add a browser profile and runnig
@@ -1150,6 +1154,10 @@
 
 ## Others 
 
+- [codeluu/blockchain-osint](https://github.com/codeluu/blockchain-osint) - A collection of tools and resources useful for OSINT investigations in the cryptocurrency. This is a dynamic list. —most resources here are from investigations I've done. Feel free to contribute!
+- [paulpogoda/OSINT-Tools-Azerbaijan](https://github.com/paulpogoda/OSINT-Tools-Azerbaijan) - A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of Azerbaijan
+- [paulpogoda/OSINT-Tools-Lithuania](https://github.com/paulpogoda/OSINT-Tools-Lithuania) - A list of OSINT resources and tools that may be useful when conducting investigations related to Lithuania
+- [flipperdevices/flipperzero-protobuf-jvm](https://github.com/flipperdevices/flipperzero-protobuf-jvm) - 
 - [The-Osint-Toolbox/OSINT-Browser-Extensions](https://github.com/The-Osint-Toolbox/OSINT-Browser-Extensions) - Browser Chrome extensions, to help with OSINT, OPSEC, Privacy & Obfuscation.
 - [p0p3j/ducky-scripts](https://github.com/p0p3j/ducky-scripts) - Ducky Scripts for malduino, rubber ducky, flipperzero, etc.
 - [paulpogoda/OSINT-Tools-Iraq](https://github.com/paulpogoda/OSINT-Tools-Iraq) - A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of Iraq
@@ -1185,7 +1193,6 @@
 - [f3nter/HardBreak](https://github.com/f3nter/HardBreak) - A Wiki about Hardware Hacking
 - [flipperdevices/flipperzero-3d-models](https://github.com/flipperdevices/flipperzero-3d-models) - Flipper Zero 3D models
 - [paulpogoda/OSINT-Tools-Poland](https://github.com/paulpogoda/OSINT-Tools-Poland) - A list of OSINT tools and resources that may be useful to you when conducting investigations related to Poland
-- [paulpogoda/Digital-Profiler-s-Toolkit](https://github.com/paulpogoda/Digital-Profiler-s-Toolkit) - This toolkit useful in profiling, research and digital investigations built for me and my trainees. Working and necessary tools only. All are tested in real cases, mostly free. UI an CLI tools separat
 - [CScorza/GEOINTInvestigation](https://github.com/CScorza/GEOINTInvestigation) - Intelligence tramite - Immagini - Video - Strumenti - Mappe
 - [paulpogoda/OSINT-Tools-Armenia](https://github.com/paulpogoda/OSINT-Tools-Armenia) - A list of OSINT resources that may be useful to you when conducting investigations related to Armenia
 - [paulpogoda/OSINT-Tools-Iran](https://github.com/paulpogoda/OSINT-Tools-Iran) - Tools and resources that may be useful to you when conducting investigations related to  Islamic Republic of Iran
@@ -1424,7 +1431,7 @@
 - [C4T4P1LL4/youtube-dorks](https://github.com/C4T4P1LL4/youtube-dorks) - youtube dork queries for default file names
 - [alfazzafashion/Backlink-dorks](https://github.com/alfazzafashion/Backlink-dorks) - google dork for search top backlink
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
-- [cipher387/cipher387](https://github.com/cipher387/cipher387) - 
+- [cipher387/cipher387](https://github.com/cipher387/cipher387) - Cyber Detective Github profile README
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [GFB-BFH/OSINT-CLUB](https://github.com/GFB-BFH/OSINT-CLUB) - Concordia et laetitia!  Пишем и переводим материалы об OSINT и смежных дисциплинах.
@@ -1497,6 +1504,14 @@
 
 ## Python 
 
+- [elliott-diy/Weather2Geo](https://github.com/elliott-diy/Weather2Geo) - OSINT tool that geolocates screenshots using leaked weather widget data (time, temperature, condition). Uses the same API as the Windows weather widget.
+- [psypanda/hashID](https://github.com/psypanda/hashID) - Software to identify the different types of hashes -
+- [palahsu/DDoS-Ripper](https://github.com/palahsu/DDoS-Ripper) - DDos Ripper a Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic
+- [ASD-at-GMF/disinfo-laundromat](https://github.com/ASD-at-GMF/disinfo-laundromat) - 
+- [aosfatos/check-up](https://github.com/aosfatos/check-up) - 
+- [blacklanternsecurity/baddns](https://github.com/blacklanternsecurity/baddns) - Check subdomains for subdomain takeovers and other DNS tomfoolery
+- [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) - Self-hosted, multi-user API that drops bots into Google Meet for real-time transcripts.
+- [xcapri/subdosec](https://github.com/xcapri/subdosec) - Subdosec is a fast, accurate subdomain takeover scanner with no false positives. It also offers a database of sites vulnerable to subdomain takeover (public results), along with detailed metadata like
 - [sockysec/Telerecon](https://github.com/sockysec/Telerecon) - A reconnaissance framework for researching and investigating Telegram.
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open source Tines / Splunk SOAR alternative. All-in-one automation platform (workflows, tables, cases) for security and IT teams.
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
@@ -1600,7 +1615,7 @@
 - [Sindhu-Hegde/gestsync](https://github.com/Sindhu-Hegde/gestsync) - Official code for the paper "GestSync: Determining who is speaking without a talking head" published at BMVC 2023
 - [uname-n/deltabase](https://github.com/uname-n/deltabase) - a lightweight, comprehensive solution for managing delta tables built on polars and deltalake
 - [hrithikkoduri/WebRover](https://github.com/hrithikkoduri/WebRover) - WebRover is an autonomous AI agent designed to interpret user input and execute actions by interacting with web elements to accomplish tasks or answer questions. It leverages advanced language models 
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [test-zeus-ai/testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) - Hercules is the world’s first open-source testing agent, enabling UI, API, Security, Accessibility, and Visual validations – all without code or maintenance. Automate testing effortlessly and let Herc
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [evangelosmeklis/peepdb](https://github.com/evangelosmeklis/peepdb) - CLI tool and python library to inspect databases fast.
@@ -1774,7 +1789,7 @@
 - [misiektoja/github_monitor](https://github.com/misiektoja/github_monitor) - Real-time tracking of Github users activities including profile and repositories changes
 - [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Real-time tracking of Instagram users activities and profile changes
 - [misiektoja/steam_monitor](https://github.com/misiektoja/steam_monitor) - Real-time tracking of Steam players activities
-- [misiektoja/spotify_monitor](https://github.com/misiektoja/spotify_monitor) - Real-time tracking of Spotify friends music activity
+- [misiektoja/spotify_monitor](https://github.com/misiektoja/spotify_monitor) - Real-time tracking of Spotify friends music activity feed
 - [misiektoja/psn_monitor](https://github.com/misiektoja/psn_monitor) - Real-time tracking of Sony Playstation (PSN) players activities
 - [misiektoja/lol_monitor](https://github.com/misiektoja/lol_monitor) - Real-time tracking of LoL (League of Legends) players activities
 - [OSINT-TECHNOLOGIES/aestool](https://github.com/OSINT-TECHNOLOGIES/aestool) - AEStool - A CLI program to work with AES
@@ -2272,6 +2287,7 @@
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [sergo-code/seleniumwire-binance-auth](https://github.com/sergo-code/seleniumwire-binance-auth) - Авторизация на сайте Binance с использованием Selenium. Получение токенов авторизации для дальнейших действий на бирже.
 - [sergo-code/hh-ru-auto-resume-raising](https://github.com/sergo-code/hh-ru-auto-resume-raising) - Программа для автоматического подъема резюме на HeadHunter каждые 4 часа. Альтернатива платной услуге Продвижение.LITE от HeadHunter.
+- [termuxhackers-id/SIGIT](https://github.com/termuxhackers-id/SIGIT) - SIGIT - Simple Information Gathering Toolkit
 - [Alb-310/Geogramint](https://github.com/Alb-310/Geogramint) - An OSINT Geolocalization tool for Telegram that find nearby users and groups 📡🌍🔍
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
@@ -2589,6 +2605,8 @@
 
 ## Rust 
 
+- [mediar-ai/terminator](https://github.com/mediar-ai/terminator) - Computer use SDK for building agents that learn from human screen recordings. Cross-platform (Windows/macOS/Linux), deterministic, and ready for L5 desktop automation.
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [Virviil/oci2git](https://github.com/Virviil/oci2git) - Introspecting Docker images as easy as using Git
 - [alibahmanyar/simon](https://github.com/alibahmanyar/simon) - Minimal, web-based system monitor with alerts and Docker insights—all bundled into a single binary
@@ -2693,6 +2711,8 @@
 
 ## Shell 
 
+- [KathanP19/JSFScan.sh](https://github.com/KathanP19/JSFScan.sh) - Automation for javascript recon in bug bounty.
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [grv231/automation-bash-scripts](https://github.com/grv231/automation-bash-scripts) - A collection of BASH-Python scripts for different scenarios using loops, field processors and clever commands.
 - [Nikoo-Asadnejad/Practical_BashScripts](https://github.com/Nikoo-Asadnejad/Practical_BashScripts) - This repository contains a collection of useful Bash scripts for Linux systems. Each script serves a specific purpose, ranging from system maintenance to monitoring and automation tasks. Below is a de
 - [flipperdevices/flipperzero-toolchain](https://github.com/flipperdevices/flipperzero-toolchain) - Flipper Zero Embedded Toolchain
@@ -2834,6 +2854,7 @@
 
 ## Svelte 
 
+- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [0sumcode/0up](https://github.com/0sumcode/0up) - 0up is a zero-knowledge, open-source, encrypted file sharing service
@@ -2878,7 +2899,8 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [echogarden-project/echogarden](https://github.com/echogarden-project/echogarden) - Cross-platform speech toolset, used from the command-line or as a Node.js library. Includes a variety of engines for speech synthesis, speech recognition, forced alignment, speech translation, voice i
 - [devflowinc/firecrawl-simple](https://github.com/devflowinc/firecrawl-simple) - ➖ Stripped down, stable version of firecrawl optimized for self-hosting and ease of contribution. Billing logic and AI features are completely removed. Crawl and convert any website into LLM-ready mar
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes
+- [paulpogoda/Digital-Profiler-s-Toolkit](https://github.com/paulpogoda/Digital-Profiler-s-Toolkit) - This toolkit useful in profiling, research and digital investigations built for me and my trainees. Working and necessary tools only. All are tested in real cases, mostly free. UI an CLI tools separat
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Open-Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes!
 - [jessetinell/x2.email](https://github.com/jessetinell/x2.email) - 
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
