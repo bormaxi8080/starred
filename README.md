@@ -90,6 +90,9 @@
 
 ## C 
 
+- [louigi600/obash](https://github.com/louigi600/obash) - Yet another shell bofuscation alternative
+- [polarikus/flipper-zero_bc_scanner_emulator](https://github.com/polarikus/flipper-zero_bc_scanner_emulator) - Emulates a barcode scanner for testing cash registers. Why buy a scanner when you have a flipper?
+- [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [RIPE-NCC/ripe-atlas-software-probe](https://github.com/RIPE-NCC/ripe-atlas-software-probe) - Probe codebase of RIPE Atlas, a global network measuring Internet connectivity and reachability
 - [oleksiikutuzov/flipperzero-lightmeter](https://github.com/oleksiikutuzov/flipperzero-lightmeter) - Lightmeter app for photography based on BH1750 sensor
 - [flipperdevices/blackmagic-esp32-s2](https://github.com/flipperdevices/blackmagic-esp32-s2) - 
@@ -231,7 +234,6 @@
 
 - [gonzazoid/Ultimatum](https://github.com/gonzazoid/Ultimatum) - Ultimatum is a chromium fork with webextensions support on Android, anti-detect browser capabilities, web3.0 support and much more
 - [Tablecruncher/tablecruncher](https://github.com/Tablecruncher/tablecruncher) - A lightweight, powerful CSV editor for macOS, Windows and Linux — with built-in JavaScript macros.
-- [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 - [shubhamoy/dir2txt](https://github.com/shubhamoy/dir2txt) - A blazing-fast CLI tool to export a directory's structure and contents into a neatly formatted `.txt` or `.json` file.
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
@@ -354,6 +356,7 @@
 
 ## Go 
 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [mrvcoder/V2rayCollector](https://github.com/mrvcoder/V2rayCollector) - This project crawls v2ray configs from Telegram channels.
 - [merliot/hub](https://github.com/merliot/hub) - Merliot Device Hub
 - [nats-io/nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
@@ -530,7 +533,7 @@
 - [edoardottt/pphack](https://github.com/edoardottt/pphack) - The Most Advanced Client-Side Prototype Pollution Scanner
 - [emqx/mqtt-security-scanner](https://github.com/emqx/mqtt-security-scanner) - MQTT Security Scanner
 - [nickvourd/Supernova](https://github.com/nickvourd/Supernova) - Real fucking shellcode encryptor & obfuscator tool
-- [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) - Navigate the CVE jungle with ease.
+- [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) - Modern CLI for exploring vulnerability data with powerful search, filtering, and analysis capabilities.
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [jonaslu/ain](https://github.com/jonaslu/ain) - A HTTP API client for the terminal
 - [dub-flow/sessionprobe](https://github.com/dub-flow/sessionprobe) - SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a l
@@ -838,6 +841,8 @@
 
 ## JavaScript 
 
+- [checkly/puppeteer-examples](https://github.com/checkly/puppeteer-examples) - Puppeteer example scripts for running Headless Chrome from Node.
+- [puppeteer/examples](https://github.com/puppeteer/examples) - Use case-driven examples for using Puppeteer and headless chrome
 - [DavideViolante/useragents-me-api](https://github.com/DavideViolante/useragents-me-api) - Node.js wrapper for useragents.me
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
 - [xen00rw/GoForDorks](https://github.com/xen00rw/GoForDorks) - Easier way to use advanced search syntax on common search engines like Google, Yandex, DuckDuckGo and more.
@@ -932,7 +937,7 @@
 - [cjihrig/swagger-jacker](https://github.com/cjihrig/swagger-jacker) - Express API documentation generator
 - [ia-stepanov/autosend-letters-hh](https://github.com/ia-stepanov/autosend-letters-hh) - AutoSend Letters HeadHunter — это скрипт для автоматической отправки откликов на HeadHunter (hh).
 - [Ademking/InstaFollower](https://github.com/Ademking/InstaFollower) - 🚀 Instagram : Auto Follow users from List
-- [agusmakmun/django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI
+- [agusmakmun/django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - 🙌 Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI
 - [arcaneiceman/kraken](https://github.com/arcaneiceman/kraken) - Kraken: A multi-platform distributed brute-force password cracking system
 - [invideu/invid-verification-plugin](https://github.com/invideu/invid-verification-plugin) - 
 - [LinaYorda/OSINTko](https://github.com/LinaYorda/OSINTko) - OSINTk.o is a customized Kali Linux-based ISO image with pre-installed packages and scripts
@@ -1176,6 +1181,10 @@
 
 ## Others 
 
+- [0x4D31/awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - ✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️
+- [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
+- [techenthusiast167/OSINTMAILER-](https://github.com/techenthusiast167/OSINTMAILER-) - A robust Python-based OSINT tool designed for validating and investigating email addresses across social media platforms and known data breaches, enhancing threat intelligence and digital footprint an
+- [techenthusiast167/Master-OSINT-Toolkit-](https://github.com/techenthusiast167/Master-OSINT-Toolkit-) - 
 - [ubikron/awesome-osint-chrome-extensions](https://github.com/ubikron/awesome-osint-chrome-extensions) - Chrome Extensions for OSINT
 - [mbeardwell/uk-personal-osint-toolkit](https://github.com/mbeardwell/uk-personal-osint-toolkit) - A curated, UK-focused collection of open-source intelligence (OSINT) resources built for human investigation.
 - [paulpogoda/OSINT-Tools-Bangladesh](https://github.com/paulpogoda/OSINT-Tools-Bangladesh) - A collection of OSINT sources and public data tools specific to Bangladesh, following the paulpogoda/OSINT-for-countries-V2.0 template.
@@ -1528,12 +1537,21 @@
 
 ## Python 
 
+- [viperadnan-git/telegram-message-forwarder-bot](https://github.com/viperadnan-git/telegram-message-forwarder-bot) - A telegram bot to forward messages automatically when they arrived.
+- [eQnz/configs-collector-v2ray](https://github.com/eQnz/configs-collector-v2ray) - 🚀 The Script collects Juicity, Hysteria, Tuic, Vless, Vmess, Trojan, and Shadowsocks configurations from Telegram channels and subscription links with ease! 🌐🔒
+- [Zard2007/Gmail-Hack](https://github.com/Zard2007/Gmail-Hack) - Easy gmail hacking in python
+- [mishakorzik/Free-Proxy](https://github.com/mishakorzik/Free-Proxy) - Hi there will be a lot of proxies here.
+- [mishakorzik/py-ddoser](https://github.com/mishakorzik/py-ddoser) - Very strong ddos ​​with proxy.
+- [mishakorzik/MailFinder](https://github.com/mishakorzik/MailFinder) - OSINT tool for finding email by first and last name
+- [qwertyadrian/TG_AutoPoster](https://github.com/qwertyadrian/TG_AutoPoster) - Telegram Bot for reposting from VK
+- [ReisCook/Voice_Extractor](https://github.com/ReisCook/Voice_Extractor) - Automated speech dataset creator
+- [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
 - [mfat/systemd-pilot](https://github.com/mfat/systemd-pilot) - Desktop application for managing systemd services
 - [ainfosec/FISSURE](https://github.com/ainfosec/FISSURE) - The RF and reverse engineering framework for everyone. Follow and ★ to show your support!
 - [itsmehacker/DarkScrape](https://github.com/itsmehacker/DarkScrape) - OSINT Tool For Scraping Dark Websites
 - [vollh4rD/Excel-Url-Checker](https://github.com/vollh4rD/Excel-Url-Checker) - This Python script checks the HTTP status codes for a list of URLs provided in an Excel file. It processes the URLs in parallel using multiple threads, handles errors gracefully, and saves the results
 - [MorDavid/BruteForceAI](https://github.com/MorDavid/BruteForceAI) - Advanced LLM-powered brute-force tool combining AI intelligence with automated login attacks
-- [drackyjr/WEBCAPTURE](https://github.com/drackyjr/WEBCAPTURE) - 
+- [drackyjr/WEBCAPTURE](https://github.com/drackyjr/WEBCAPTURE) - automated Open Source Intelligence gathering
 - [MrpasswordTz/webripper-pro](https://github.com/MrpasswordTz/webripper-pro) - Webripper Pro is a comprehensive, professional-grade web vulnerability scanner that automates the detection of security flaws in websites. It is designed for penetration testers, bug bounty hunters, a
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [d78ui98/APKDeepLens](https://github.com/d78ui98/APKDeepLens) - Android security insights in full spectrum.
@@ -1608,7 +1626,7 @@
 - [Lucksi/LinkdTime](https://github.com/Lucksi/LinkdTime) - A Linkedin Activity date Finder
 - [Aron-Tn/FCommunity](https://github.com/Aron-Tn/FCommunity) - multi Checkers (Hma/Hulu/Spotify/Call of duty/Instagram/smtp2go/VyprVpn) in One Tool Named FCommunity
 - [hitesh22rana/ghoulbond](https://github.com/hitesh22rana/ghoulbond) - Open Source System Utility , Scanner and OSINT tool.
-- [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) – a better way to work with systemd units
+- [kainctl/isd](https://github.com/kainctl/isd) - isd (interactive systemd) – a better way to work with systemd units
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [wetw0rk/Sickle](https://github.com/wetw0rk/Sickle) - Payload Development Framework
 - [Ironship/TelegramOSINTPolo](https://github.com/Ironship/TelegramOSINTPolo) - The app is used to download posts from Telegram feeds and save them to text files for later OSINT AI use
@@ -1728,14 +1746,14 @@
 - [s0md3v/Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
 - [yigitkonur/llm-ocr](https://github.com/yigitkonur/llm-ocr) - An open-source OCR API that leverages OpenAI's powerful language models with optimized performance techniques like parallel processing and batching to deliver high-quality text extraction from complex
 - [PabloLec/website-to-gif](https://github.com/PabloLec/website-to-gif) - GitHub Action to turn your website into a GIF :camera:
-- [robertaitch/telegram-checker](https://github.com/robertaitch/telegram-checker) - A Python tool for checking Telegram accounts via phone numbers or usernames. Automatically verifies account existence, downloads profile pictures, and provides detailed user information in a clean JSO
+- [unnohwn/telegram-checker](https://github.com/unnohwn/telegram-checker) - A Python tool for checking Telegram accounts via phone numbers or usernames. Automatically verifies account existence, downloads profile pictures, and provides detailed user information in a clean JSO
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management.
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of a YouTube channel from the command line
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
 - [JeiKeiLim/noone_video](https://github.com/JeiKeiLim/noone_video) - Make faces blurred for videos using DNN
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
-- [robertaitch/telegram-scraper](https://github.com/robertaitch/telegram-scraper) - A powerful Python script that allows you to scrape messages and media from Telegram channels using the Telethon library. Features include real-time continuous scraping, media downloading, and data exp
+- [unnohwn/telegram-scraper](https://github.com/unnohwn/telegram-scraper) - A powerful Python script that allows you to scrape messages and media from Telegram channels using the Telethon library. Features include real-time continuous scraping, media downloading, and data exp
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [llistochek/yandex-music-downloader](https://github.com/llistochek/yandex-music-downloader) - Загрузчик музыки с сервиса Яндекс.Музыка
 - [ibnaleem/instatracker](https://github.com/ibnaleem/instatracker) - 📸 an Instagram tracking script that logs any changes to an Instagram account (followers, following, posts, and bio) written in Python.
@@ -2657,7 +2675,7 @@
 - [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [MobileFirstLLC/social-media-hacker-list](https://github.com/MobileFirstLLC/social-media-hacker-list) - Growing list of apps and tools for enhancing social media experiences.
-- [mediar-ai/terminator](https://github.com/mediar-ai/terminator) - Computer use SDK for building agents that learn from human screen recordings. Accessibility-first. Cross-platform (Windows/macOS/Linux), near-deterministic.
+- [mediar-ai/terminator](https://github.com/mediar-ai/terminator) - Computer use SDK for building agents that learn from human screen recordings. Accessibility-first. Cross-platform (Windows/macOS/Linux), pre-trained deterministic workflows with AI fallback.
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [Virviil/oci2git](https://github.com/Virviil/oci2git) - Introspecting Docker images as easy as using Git
@@ -2764,6 +2782,7 @@
 
 ## Shell 
 
+- [mishakorzik/UserFinder](https://github.com/mishakorzik/UserFinder) - OSINT tool for finding profiles by username
 - [attacksurge/ax](https://github.com/attacksurge/ax) - The Distributed Scanning Framework for Everybody! Control Your Infrastructure, Scale Your Scanning—On Your Terms. Easily distribute arbitrary binaries and scripts using any of our nine supported cloud
 - [Linuxmaster14/telepipe](https://github.com/Linuxmaster14/telepipe) - A simple command-line utility to send messages to Telegram
 - [byfranke/PastebinSearch](https://github.com/byfranke/PastebinSearch) - This script allows you to quickly search for terms on Pastebin using various search engines. It supports multiple browsers and handles special characters in search terms by URL encoding them.
@@ -2938,6 +2957,8 @@
 
 ## TypeScript 
 
+- [FloodRunner/FloodRunner](https://github.com/FloodRunner/FloodRunner) - An open-source framework that allows you to easily monitor your web applications using end-end browser tests.
+- [kizuna-ai-lab/sokuji](https://github.com/kizuna-ai-lab/sokuji) - Live speech translation application built with Electron 34 and React, using OpenAI's Realtime API.
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [Seraphli/obsidian-link-embed](https://github.com/Seraphli/obsidian-link-embed) - This plugin allow you to convert URLs in your notes into embeded previews.
 - [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
